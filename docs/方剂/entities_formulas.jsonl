@@ -1,0 +1,593 @@
+{"id": "FOR_3", "name": "干姜黄连黄芩人参汤", "aliases": [], "source_book": "伤寒论", "chapter": "10.辨厥阴病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_7", "name": "吴茱萸汤是专门治呕的方,实际上吴茱萸汤", "aliases": [], "source_book": "伤寒论", "chapter": "10.辨厥阴病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_13", "name": "桂枝麻黄各半汤、桂枝二麻黄一汤", "aliases": [], "source_book": "伤寒论", "chapter": "3.辨太阳病脉证并治法上篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_19", "name": "葛根发散", "aliases": [], "source_book": "伤寒论", "chapter": "3.辨太阳病脉证并治法上篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_21", "name": "葛根四两 | 麻黄三两,汤", "aliases": [], "source_book": "伤寒论", "chapter": "3.辨太阳病脉证并治法上篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_22", "name": "葛根黄芩黄连汤", "aliases": [], "source_book": "伤寒论", "chapter": "3.辨太阳病脉证并治法上篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_25", "name": "桂枝、芍药、甘草此三味药是从桂枝汤", "aliases": [], "source_book": "伤寒论", "chapter": "3.辨太阳病脉证并治法上篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_29", "name": "承气汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_30", "name": "芍药甘草附子汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "白芍,炙甘草,炮附子", "dosage": ""}
+{"id": "FOR_35", "name": "生姜是散寒把寒散", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_38", "name": "茯苓用的比白朮多,所以真武汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_41", "name": "大柴胡汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "柴胡、黄芩、枳实、白芍、炙甘草、大黄、厚朴、生姜", "dosage": ""}
+{"id": "FOR_45", "name": "柴胡汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_49", "name": "桂枝茯苓丸", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "桂枝,茯苓,丹皮,桃仁,芍药", "dosage": ""}
+{"id": "FOR_50", "name": "柴胡加龙骨牡蛎汤是很好治疗失眠的汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_52", "name": "白虎汤和承气汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_53", "name": "桂枝加桂汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_61", "name": "小柴胡是介乎少阳和太阳之间。大柴胡汤", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_63", "name": "甘草泻心汤", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_64", "name": "理中汤", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_65", "name": "旋覆代赭石汤", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_70", "name": "白虎汤和承气汤的区别,人身上的血都散", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_72", "name": "黄芩汤里面有芍药,葛芩连汤和桂枝人参汤", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_74", "name": "桂枝附子汤和去桂枝加白朮汤", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_75", "name": "桂枝附子汤", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_79", "name": "承气汤都是所谓的热实,承气汤", "aliases": [], "source_book": "伤寒论", "chapter": "6.辨阳明病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_80", "name": "猪苓汤和五苓散", "aliases": [], "source_book": "伤寒论", "chapter": "6.辨阳明病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_85", "name": "吴茱萸汤温中焦的,如果服了吴茱萸汤", "aliases": [], "source_book": "伤寒论", "chapter": "6.辨阳明病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_91", "name": "生姜和炮附是散饮,有水饮", "aliases": [], "source_book": "伤寒论", "chapter": "8.辨太阴病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_94", "name": "麻黄附子细辛汤和麻黄附子甘草汤", "aliases": [], "source_book": "伤寒论", "chapter": "9.辨少阴病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_95", "name": "附子汤的症状很像麻黄汤", "aliases": [], "source_book": "伤寒论", "chapter": "9.辨少阴病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_96", "name": "附子汤", "aliases": [], "source_book": "伤寒论", "chapter": "9.辨少阴病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_99", "name": "吴茱萸汤", "aliases": [], "source_book": "伤寒论", "chapter": "9.辨少阴病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "吴茱萸,人参,生姜,大枣", "dosage": ""}
+{"id": "FOR_105", "name": "四逆散用散剂,四味药等量捣成粉,用米汤", "aliases": [], "source_book": "伤寒论", "chapter": "9.辨少阴病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_106", "name": "猪苓汤是用在水和热并结,猪苓汤", "aliases": [], "source_book": "伤寒论", "chapter": "9.辨少阴病脉证并治法", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_107", "name": "HT-100 历节丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "历节丸", "composition": "", "dosage": ""}
+{"id": "FOR_108", "name": "HT-101 实证硬化肝癌腹水", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "实证硬化肝癌腹水", "composition": "", "dosage": ""}
+{"id": "FOR_109", "name": "HT-102 虚证硬化肝癌腹水", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "虚证硬化肝癌腹水", "composition": "", "dosage": ""}
+{"id": "FOR_110", "name": "HT-10 大禹丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "大禹丸", "composition": "", "dosage": ""}
+{"id": "FOR_111", "name": "HT-11 抵挡丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "抵挡丸", "composition": "", "dosage": ""}
+{"id": "FOR_112", "name": "HT-12 脱肛丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "脱肛丸", "composition": "", "dosage": ""}
+{"id": "FOR_113", "name": "HT-13 淋痛、小便刺痛", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "淋痛、小便刺痛", "composition": "", "dosage": "散剂，每服6-10g，灯心煎汤送服；汤剂，加灯心，水煎服，用量根据病情酌定。"}
+{"id": "FOR_114", "name": "HT-14 胆石症", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "胆石症", "composition": "", "dosage": ""}
+{"id": "FOR_115", "name": "HT-15 真寒假热-厥四逆之症", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "真寒假热-厥四逆之症", "composition": "", "dosage": ""}
+{"id": "FOR_116", "name": "HT-16 皮肤干痒癣", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "皮肤干痒癣", "composition": "", "dosage": ""}
+{"id": "FOR_117", "name": "HT-17 湿疹脓疮", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "湿疹脓疮", "composition": "", "dosage": ""}
+{"id": "FOR_118", "name": "HT-18 腰蛇胸蛇颈蛇", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "腰蛇胸蛇颈蛇", "composition": "", "dosage": ""}
+{"id": "FOR_119", "name": "HT-19 情绪焦虑", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "情绪焦虑", "composition": "", "dosage": ""}
+{"id": "FOR_120", "name": "HT-1 白带丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "白带丸", "composition": "", "dosage": ""}
+{"id": "FOR_121", "name": "HT-20 下肢无力", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "下肢无力", "composition": "", "dosage": ""}
+{"id": "FOR_122", "name": "HT-21 补阳还五丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "补阳还五丸", "composition": "", "dosage": ""}
+{"id": "FOR_123", "name": "HT-22 奔豚汤", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "奔豚汤", "composition": "", "dosage": ""}
+{"id": "FOR_124", "name": "HT-23 肝阳上亢-肾阳不足", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "肝阳上亢-肾阳不足", "composition": "", "dosage": ""}
+{"id": "FOR_125", "name": "HT-24 降血糖中医之上中下三消渴症", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "降血糖中医之上中下三消渴症", "composition": "", "dosage": ""}
+{"id": "FOR_126", "name": "HT-25 疏通经络剂", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "疏通经络剂", "composition": "", "dosage": ""}
+{"id": "FOR_127", "name": "HT-26 石淋,砂淋,小便带血", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "石淋,砂淋,小便带血", "composition": "", "dosage": ""}
+{"id": "FOR_128", "name": "HT-27 痛风丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "痛风丸", "composition": "", "dosage": ""}
+{"id": "FOR_129", "name": "HT-28 风湿丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "风湿丸", "composition": "", "dosage": ""}
+{"id": "FOR_130", "name": "HT-29 消痔丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "消痔丸", "composition": "", "dosage": ""}
+{"id": "FOR_131", "name": "HT-2 退乳丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "退乳丸", "composition": "", "dosage": ""}
+{"id": "FOR_132", "name": "HT-30 足三阳经虚实痛", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "足三阳经虚实痛", "composition": "", "dosage": ""}
+{"id": "FOR_133", "name": "HT-31 中焦湿热", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "中焦湿热", "composition": "", "dosage": ""}
+{"id": "FOR_134", "name": "HT-32 乌金丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "乌金丸", "composition": "", "dosage": ""}
+{"id": "FOR_135", "name": "HT-33 中焦湿热过盛兼便秘(过重兼便秘)阳明胃热", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "中焦湿热过盛兼便秘(过重兼便秘)阳明胃热", "composition": "", "dosage": ""}
+{"id": "FOR_136", "name": "HT-34 补天丸(掉头发，耳鸣)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "补天丸(掉头发，耳鸣)", "composition": "", "dosage": ""}
+{"id": "FOR_137", "name": "HT-35 紫金丹(胸腔内伤 , 上身瘀血)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "紫金丹(胸腔内伤 , 上身瘀血)", "composition": "", "dosage": ""}
+{"id": "FOR_138", "name": "HT-36 天青丸(妇女痛经) (兼治下身瘀血,受伤)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "天青丸(妇女痛经) (兼治下身瘀血,受伤)", "composition": "", "dosage": ""}
+{"id": "FOR_139", "name": "HT-37 天威丸(男性与女子元阳不足)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "天威丸(男性与女子元阳不足)", "composition": "", "dosage": ""}
+{"id": "FOR_140", "name": "HT-38 玉华丸(女性滋补良药)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "玉华丸(女性滋补良药)", "composition": "", "dosage": ""}
+{"id": "FOR_141", "name": "HT-39 鼻渊丸(鼻塞不通,流清涕)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "鼻渊丸(鼻塞不通,流清涕)", "composition": "", "dosage": ""}
+{"id": "FOR_142", "name": "HT-3 记忆力减退", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "记忆力减退", "composition": "", "dosage": ""}
+{"id": "FOR_143", "name": "HT-40 乌梅丸(各种寄生虫,蛔虫)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "乌梅丸(各种寄生虫,蛔虫)", "composition": "", "dosage": ""}
+{"id": "FOR_144", "name": "HT-41 中安丸(失眠)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "中安丸(失眠)", "composition": "", "dosage": "上药共为细末，炼蜜为小丸，用朱砂水飞9-15g为衣，每服6-9g，温开水送下，或用桂圆肉煎汤送服；亦可改为汤剂，用量按原方比例酌减。失眠重者，可酌加龙骨、磁石以重镇安神；心悸怔忡甚者，可酌加龙眼肉、夜交藤以增强养心安神之功；遗精者，可酌加金樱子、煅牡蛎以固肾涩精。"}
+{"id": "FOR_145", "name": "HT-42 控涎丹", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "控涎丹", "composition": "", "dosage": ""}
+{"id": "FOR_146", "name": "HT-43 麻子仁丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "麻子仁丸", "composition": "", "dosage": ""}
+{"id": "FOR_147", "name": "HT-44 皂荚丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "皂荚丸", "composition": "", "dosage": ""}
+{"id": "FOR_148", "name": "HT-45 己椒苈黄丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "己椒苈黄丸", "composition": "", "dosage": ""}
+{"id": "FOR_149", "name": "HT-46 六味地黄丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "六味地黄丸", "composition": "", "dosage": ""}
+{"id": "FOR_150", "name": "HT-47 重阳丸(男子精中带血)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "重阳丸(男子精中带血)", "composition": "", "dosage": ""}
+{"id": "FOR_151", "name": "HT-48 金匮肾气丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "金匮肾气丸", "composition": "", "dosage": ""}
+{"id": "FOR_152", "name": "HT-49 起阳丸(振奋阳气, 生精)VS威而刚", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "起阳丸(振奋阳气, 生精)VS威而刚", "composition": "", "dosage": ""}
+{"id": "FOR_153", "name": "HT-4 食物过敏症", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "食物过敏症", "composition": "", "dosage": ""}
+{"id": "FOR_154", "name": "HT-50 牙痛止痛剂", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "牙痛止痛剂", "composition": "", "dosage": ""}
+{"id": "FOR_155", "name": "HT-51 白内障", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "白内障", "composition": "", "dosage": ""}
+{"id": "FOR_156", "name": "HT-52 赤丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "赤丸", "composition": "", "dosage": ""}
+{"id": "FOR_157", "name": "HT-53 风引汤", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "风引汤", "composition": "", "dosage": ""}
+{"id": "FOR_158", "name": "HT-54 喉蛾方", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "喉蛾方", "composition": "", "dosage": ""}
+{"id": "FOR_159", "name": "HT-55 枯痣散", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "枯痣散", "composition": "", "dosage": ""}
+{"id": "FOR_160", "name": "HT-56 汉唐红（外用伤口特效药）", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "汉唐红（外用伤口特效药）", "composition": "", "dosage": ""}
+{"id": "FOR_161", "name": "HT-57 佛州黑（外用烫伤特效药）", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "佛州黑（外用烫伤特效药）", "composition": "", "dosage": ""}
+{"id": "FOR_162", "name": "HT-58 刷牙粉", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "刷牙粉", "composition": "", "dosage": ""}
+{"id": "FOR_163", "name": "HT-59 喷鼻(耳)药粉", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "喷鼻(耳)药粉", "composition": "", "dosage": ""}
+{"id": "FOR_164", "name": "HT-5 通乳丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "通乳丸", "composition": "", "dosage": ""}
+{"id": "FOR_165", "name": "HT-60 强力天青丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "强力天青丸", "composition": "", "dosage": ""}
+{"id": "FOR_166", "name": "HT-61 明目地黄丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "明目地黄丸", "composition": "", "dosage": ""}
+{"id": "FOR_167", "name": "HT-62 沉香桂附丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "沉香桂附丸", "composition": "", "dosage": ""}
+{"id": "FOR_168", "name": "HT-63 中医学之骨损症(骨质疏松症)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "中医学之骨损症(骨质疏松症)", "composition": "", "dosage": ""}
+{"id": "FOR_169", "name": "HT-64 妇女经停后身热盗汗、易生气、情绪不稳定", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "妇女经停后身热盗汗、易生气、情绪不稳定", "composition": "", "dosage": ""}
+{"id": "FOR_170", "name": "HT-65 膀胱结石与尿道炎", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "膀胱结石与尿道炎", "composition": "", "dosage": ""}
+{"id": "FOR_171", "name": "HT-66 摄护腺肥大", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "摄护腺肥大", "composition": "", "dosage": ""}
+{"id": "FOR_172", "name": "HT-67 失心丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "失心丸", "composition": "", "dosage": ""}
+{"id": "FOR_173", "name": "HT-68 护肝丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "护肝丸", "composition": "", "dosage": ""}
+{"id": "FOR_174", "name": "HT-69 肾脏积水", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "肾脏积水", "composition": "", "dosage": ""}
+{"id": "FOR_175", "name": "HT-6 手抖兼心颤憟", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "手抖兼心颤憟", "composition": "", "dosage": ""}
+{"id": "FOR_176", "name": "HT-70 定心丸中医之心肾不交（主症是有焦虑，忧郁之情志）", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "定心丸中医之心肾不交（主症是有焦虑，忧郁之情志）", "composition": "", "dosage": ""}
+{"id": "FOR_177", "name": "HT-71 清郁开结丸（中医之肝脾失衡导致沮丧情绪低落）", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "清郁开结丸（中医之肝脾失衡导致沮丧情绪低落）", "composition": "", "dosage": ""}
+{"id": "FOR_178", "name": "HT-72 浮萍方（小儿风痒，汗出全身，治风痒，疥癞等皮病）", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "浮萍方（小儿风痒，汗出全身，治风痒，疥癞等皮病）", "composition": "", "dosage": ""}
+{"id": "FOR_179", "name": "HT-73 透脓方", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "透脓方", "composition": "", "dosage": ""}
+{"id": "FOR_180", "name": "HT-74 搜风解毒汤", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "搜风解毒汤", "composition": "", "dosage": ""}
+{"id": "FOR_181", "name": "HT-75 枕中丹（令人聪明）", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "枕中丹（令人聪明）", "composition": "", "dosage": ""}
+{"id": "FOR_182", "name": "HT-76 避孕丸（不生产）", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "避孕丸（不生产）", "composition": "", "dosage": ""}
+{"id": "FOR_183", "name": "HT-77 中医名为上焦湿热且实之心绞痛症", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "中医名为上焦湿热且实之心绞痛症", "composition": "", "dosage": ""}
+{"id": "FOR_184", "name": "HT-78 健胃散", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "健胃散", "composition": "", "dosage": ""}
+{"id": "FOR_185", "name": "HT-79 青春痘", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "青春痘", "composition": "荆芥丶连翘丶银花丶防风……等。", "dosage": ""}
+{"id": "FOR_186", "name": "HT-7 胃痈及胃出血", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "胃痈及胃出血", "composition": "", "dosage": ""}
+{"id": "FOR_187", "name": "HT-80 减肥药", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "减肥药", "composition": "", "dosage": ""}
+{"id": "FOR_188", "name": "HT-81 鼻过敏合并头痛(鼻炎兼头痛)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "鼻过敏合并头痛(鼻炎兼头痛)", "composition": "", "dosage": ""}
+{"id": "FOR_189", "name": "HT-82 下焦寒实之四逆症(可比较西医学之摄护腺癌)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "下焦寒实之四逆症(可比较西医学之摄护腺癌)", "composition": "", "dosage": ""}
+{"id": "FOR_190", "name": "HT-83 皮肤诸病", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "皮肤诸病", "composition": "密陀曾,雄黄等药，此药不可内服有毒性 .", "dosage": ""}
+{"id": "FOR_191", "name": "HT-84 肝结石", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "肝结石", "composition": "柴胡丶枳实丶黄芩丶柏子仁丶郁金丶五倍子丶海金沙…..等。", "dosage": ""}
+{"id": "FOR_192", "name": "HT-85 外用青春痘之剂", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "外用青春痘之剂", "composition": "", "dosage": ""}
+{"id": "FOR_193", "name": "HT-86 脚气病，香港脚外用粉剂", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "脚气病，香港脚外用粉剂", "composition": "", "dosage": ""}
+{"id": "FOR_194", "name": "HT-87 中医之九种心痛之一(可与西医学之心脏肥大症做比较)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "中医之九种心痛之一(可与西医学之心脏肥大症做比较)", "composition": "", "dosage": ""}
+{"id": "FOR_195", "name": "HT-88 磁珠丸(中医名白内瘴,青光眼与西医同)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "磁珠丸(中医名白内瘴,青光眼与西医同)", "composition": "", "dosage": ""}
+{"id": "FOR_196", "name": "HT-89 健筋骨丸(关节肌肉萎缩)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "健筋骨丸(关节肌肉萎缩)", "composition": "", "dosage": ""}
+{"id": "FOR_197", "name": "HT-8 子宫症痼", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "子宫症痼", "composition": "", "dosage": ""}
+{"id": "FOR_198", "name": "HT-90 消瘤丸中医俗名大脖子病 (可以参考西医学之甲状腺瘤)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "消瘤丸中医俗名大脖子病 (可以参考西医学之甲状腺瘤)", "composition": "", "dosage": ""}
+{"id": "FOR_199", "name": "HT-91 拔牙后止痛剂", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "拔牙后止痛剂", "composition": "", "dosage": ""}
+{"id": "FOR_200", "name": "HT-92 增高丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "增高丸", "composition": "", "dosage": ""}
+{"id": "FOR_201", "name": "HT-93 小儿过动症", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "小儿过动症", "composition": "", "dosage": ""}
+{"id": "FOR_202", "name": "HT-94 扭伤外敷药水", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "扭伤外敷药水", "composition": "", "dosage": ""}
+{"id": "FOR_203", "name": "HT-95 拖里化毒饮(淋巴脓块,乳房脓块恶臭,阴道脓疡恶臭等症候)", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "拖里化毒饮(淋巴脓块,乳房脓块恶臭,阴道脓疡恶臭等症候)", "composition": "", "dosage": ""}
+{"id": "FOR_204", "name": "HT-96 乳癌的外用粉剂", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "乳癌的外用粉剂", "composition": "", "dosage": "直接洒在伤口上，之后会流许多脓水出，请用干净的卫生纸吸干。一日可以二次，早晚各ㄧ次。"}
+{"id": "FOR_205", "name": "HT-97 何首乌丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "何首乌丸", "composition": "", "dosage": "三餐後各吃 30 粒."}
+{"id": "FOR_206", "name": "HT-98 五石乌头丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "五石乌头丸", "composition": "", "dosage": ""}
+{"id": "FOR_207", "name": "HT-99 斑龙丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "斑龙丸", "composition": "", "dosage": ""}
+{"id": "FOR_208", "name": "HT-9 血箭痔丸", "aliases": [], "source_book": "汉唐方剂", "chapter": "", "six_channel": "", "syndrome": "", "indication": "血箭痔丸", "composition": "", "dosage": ""}
+{"id": "FOR_209", "name": "桂枝汤", "aliases": [], "source_book": "伤寒论", "chapter": "3.辨太阳病脉证并治法上篇", "six_channel": "太阳", "syndrome": "太阳中风，有汗、恶风、脉缓；解肌调营卫", "indication": "", "composition": "桂枝,白芍,炙甘草,生姜,大枣", "dosage": ""}
+{"id": "FOR_210", "name": "桂枝加葛根汤", "aliases": [], "source_book": "伤寒论", "chapter": "3.辨太阳病脉证并治法上篇", "six_channel": "太阳", "syndrome": "太阳中风兼项背强、面部中风方向", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_211", "name": "桂枝加附子汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "发汗太过、汗漏不止，阳虚不能固表", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_212", "name": "桂枝去芍药汤类", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "胸满、心脏负担，课程强调胸满去芍药", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_213", "name": "桂枝麻黄各半汤", "aliases": [], "source_book": "伤寒论", "chapter": "3.辨太阳病脉证并治法上篇", "six_channel": "太阳", "syndrome": "往来寒热但无恶心，皮下邪气未透", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_214", "name": "麻黄汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "太阳伤寒，无汗、体痛、脉紧；发阳宣肺", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_215", "name": "葛根汤", "aliases": [], "source_book": "伤寒论", "chapter": "3.辨太阳病脉证并治法上篇", "six_channel": "太阳", "syndrome": "项背强几几、无汗、恶风", "indication": "", "composition": "葛根四钱、麻黄二钱、桂枝三钱、白芍三钱、生姜二片、大枣十枚、炙甘草三钱", "dosage": ""}
+{"id": "FOR_216", "name": "葛根芩连汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "热利，表证误下或食物中毒热利", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_217", "name": "大青龙汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "表寒里热，无汗烦躁、体痛", "indication": "", "composition": "麻黄、杏仁、石膏、炙甘草、桂枝、生姜、大枣", "dosage": ""}
+{"id": "FOR_218", "name": "小青龙汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "心下有水气、咳而微喘，寒饮", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_219", "name": "干姜附子汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "发汗太过，昼日烦躁不得眠，阳气伤", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_220", "name": "桂枝甘草汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "太阳", "syndrome": "发汗伤心阳，心下悸", "indication": "", "composition": "桂枝,炙甘草,大枣", "dosage": ""}
+{"id": "FOR_221", "name": "新加汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "发汗后津血亏虚而身疼痛", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_222", "name": "厚朴生姜半夏甘草人参汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "发汗后腹胀满，偏虚胀", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_223", "name": "茯苓桂枝白术甘草汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "中焦水饮、脐下悸、气上冲", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_224", "name": "茯苓四逆汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "汗下后阳虚、烦躁，里寒重", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_225", "name": "五苓散", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "水液代谢失常，小便不利、水逆", "indication": "", "composition": "猪苓、茯苓、白术、泽泻、桂枝", "dosage": ""}
+{"id": "FOR_226", "name": "栀子豉汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "汗吐下后虚烦不得眠、心中懊憹", "indication": "", "composition": "栀子、豆豉", "dosage": ""}
+{"id": "FOR_227", "name": "栀子厚朴枳实汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "虚烦兼胸腹满", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_228", "name": "真武汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "下焦寒湿、水气内停，少阴水气病", "indication": "", "composition": "炮附子、白术、茯苓、白芍、生姜", "dosage": ""}
+{"id": "FOR_229", "name": "苓桂术甘汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "中膈水饮，胸膈水停", "indication": "", "composition": "茯苓,桂枝,白术,甘草", "dosage": ""}
+{"id": "FOR_230", "name": "小柴胡汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "少阳", "syndrome": "少阳病往来寒热、胸胁苦满；妇人热入血室", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_231", "name": "柴胡桂枝汤", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "少阳", "syndrome": "一半太阳一半少阳", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_232", "name": "柴胡加芒硝汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "少阳兼阳明实热", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_233", "name": "柴胡加龙骨牡蛎汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "三焦惊烦、水停、烦躁惊悸", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_234", "name": "柴胡桂枝干姜汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "痨症，风湿入血脉，消瘦疲劳", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_235", "name": "桃核承气汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "蓄血初/实，少腹急结、口渴不欲饮、小便自利", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_236", "name": "抵当汤/丸", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "蓄血重症，少腹硬满、小便自利、善忘、黑便", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_237", "name": "大陷胸汤/丸", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "结胸，实热老痰结聚胸部", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_238", "name": "桂枝人参汤", "aliases": [], "source_book": "伤寒论", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "少阳", "syndrome": "寒利，中焦虚寒下利", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_239", "name": "旋覆代赭汤", "aliases": [], "source_book": "伤寒论", "chapter": "10.辨厥阴病脉证并治法", "six_channel": "少阳", "syndrome": "胃酸反逆、心下痞硬、噫气不除", "indication": "", "composition": "旋覆花三钱,代赭石三钱,干姜二钱,吴茱萸三钱,炙甘草三钱,大枣十枚,桂枝三钱,白芍三钱", "dosage": ""}
+{"id": "FOR_240", "name": "大黄黄连泻心汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "心下痞、上部出血、热痞", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_241", "name": "附子泻心汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "心下痞兼阳虚", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_242", "name": "小建中汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "重建脾胃，治痿独取阳明，补阳", "indication": "", "composition": "桂枝、白芍、炙甘草、大枣、生姜、麦芽糖", "dosage": ""}
+{"id": "FOR_243", "name": "白虎汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "阳明", "syndrome": "阳明经热，高热、大渴、大汗、大烦，大便未必结", "indication": "", "composition": "石膏,知母,炙甘草,粳米", "dosage": ""}
+{"id": "FOR_244", "name": "白虎加人参汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "阳明", "syndrome": "阳明热盛兼津气伤、极渴", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_245", "name": "小承气汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "阳明", "syndrome": "阳明腑实轻，尚能进食、放屁", "indication": "", "composition": "大黄、厚朴、枳实", "dosage": ""}
+{"id": "FOR_246", "name": "大承气汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "阳明", "syndrome": "阳明腑实重，不放屁、无食欲、天枢拒按、谵语；急下存阴", "indication": "", "composition": "大黄,厚朴,枳实,芒硝", "dosage": ""}
+{"id": "FOR_247", "name": "调胃承气汤", "aliases": [], "source_book": "伤寒论", "chapter": "4.辨太阳病脉证并治法中篇", "six_channel": "阳明", "syndrome": "阳明燥热偏中焦，调胃承气方向", "indication": "", "composition": "- 大黄（酒洗）四两\n- 厚朴（炙，去皮）半斤\n- 枳实（炙）五枚\n- 芒硝三合", "dosage": ""}
+{"id": "FOR_248", "name": "麻子仁丸", "aliases": [], "source_book": "伤寒论", "chapter": "6.辨阳明病脉证并治法", "six_channel": "阳明", "syndrome": "脾约，津液枯竭，大便羊屎状", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_249", "name": "猪苓汤", "aliases": [], "source_book": "伤寒论", "chapter": "6.辨阳明病脉证并治法", "six_channel": "阳明", "syndrome": "小便不利、泌尿结石、阴虚火旺、尿血", "indication": "", "composition": "猪苓,茯苓,泽泻,滑石,阿胶", "dosage": ""}
+{"id": "FOR_250", "name": "抵当汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阳", "syndrome": "阳明蓄血，善忘、黑便、少腹硬满", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_251", "name": "桂枝加芍药汤", "aliases": [], "source_book": "伤寒论", "chapter": "8.辨太阴病脉证并治法", "six_channel": "阳明", "syndrome": "太阴病腹满时痛", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_252", "name": "桂枝加大黄汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阴", "syndrome": "太阴兼实积，腹满痛较重", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_253", "name": "四逆汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阳", "syndrome": "太阴/少阴里寒极盛，下利清谷、四肢厥冷", "indication": "", "composition": "生附子、干姜、炙甘草", "dosage": ""}
+{"id": "FOR_254", "name": "麻黄附子细辛汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "太阴", "syndrome": "少阴病初得兼表，脉沉微细", "indication": "", "composition": "麻黄,炮附子,细辛", "dosage": ""}
+{"id": "FOR_255", "name": "麻黄附子甘草汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "少阴病得二三日，微发汗方向", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_256", "name": "黄连阿胶汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "少阴病心中烦、不得卧，偏阴虚火扰", "indication": "", "composition": "黄连、黄芩、白芍、阿胶、蛋黄", "dosage": ""}
+{"id": "FOR_257", "name": "桃花汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "少阴下利便脓血，涩剂", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_258", "name": "猪肤汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "少阴下利咽痛、胸满心烦", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_259", "name": "甘草汤/桔梗汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "少阴咽痛", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_260", "name": "半夏散及汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "少阴咽中痛、声不出方向", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_261", "name": "白通汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "少阴下利，阴寒格阳方向", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_262", "name": "白通加猪胆汁汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "少阴危候，下利脉微、阴盛格阳，引阳入阴", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_263", "name": "通脉四逆汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "里寒外热、手足厥逆、脉微欲绝", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_264", "name": "四逆散", "aliases": [], "source_book": "伤寒论", "chapter": "9.辨少阴病脉证并治法", "six_channel": "少阴", "syndrome": "四逆但偏气机郁滞，柴胡、枳实、芍药、甘草", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_265", "name": "乌梅丸", "aliases": [], "source_book": "伤寒论", "chapter": "10.辨厥阴病脉证并治法", "six_channel": "少阴", "syndrome": "厥阴蛔厥、寒热错杂久利", "indication": "", "composition": "乌梅,黄连,黄柏,人参,当归,桂枝,炮附子,细辛,干姜,蜀椒", "dosage": ""}
+{"id": "FOR_266", "name": "当归四逆汤", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "少阴", "syndrome": "厥阴手足末梢厥寒、冻疮、糖尿病足课程案例", "indication": "", "composition": "当归三钱,桂枝三钱,芍药三钱,细辛二钱,通草二钱,大枣十枚,炙甘草二钱", "dosage": ""}
+{"id": "FOR_267", "name": "HT-42控涎丹", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "甘遂,大戟,白芥子", "dosage": ""}
+{"id": "FOR_268", "name": "HT-68", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "待查", "dosage": ""}
+{"id": "FOR_269", "name": "HT68清肝毒", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "倪海厦经验方（HT-68），用于清肝解毒。", "composition": "[]", "dosage": ""}
+{"id": "FOR_270", "name": "三黄泻心汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "三黄泻心汤清热泻火，用于胃中湿热所致口臭重、舌黄湿。", "composition": "黄芩、黄柏、黄连、大黄", "dosage": ""}
+{"id": "FOR_271", "name": "乌金丸", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "乌金丸为活血化瘀之丸剂。", "composition": "[]", "dosage": ""}
+{"id": "FOR_272", "name": "八味地黄丸", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "八味地黄丸补肾阳。用于肾阳不足所致疲劳、晨起累。", "composition": "熟地、山茱萸、淮山、茯苓、丹皮、泽泻、炮附子、桂枝", "dosage": ""}
+{"id": "FOR_273", "name": "六味地黄丸", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "六味地黄丸为补肾经典方剂。本案用于肾虚脚跟痛，配合汤剂使用。", "composition": "熟地黄、山茱萸、山药、泽泻、茯苓、牡丹皮", "dosage": ""}
+{"id": "FOR_274", "name": "利膈汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "炮附子,半夏,栀子", "dosage": ""}
+{"id": "FOR_275", "name": "半夏厚朴汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "半夏厚朴汤行气散结、降逆化痰。用于咽喉有异物感（梅核气）。", "composition": "半夏、厚朴、苏叶、茯苓、生姜", "dosage": ""}
+{"id": "FOR_276", "name": "半夏秫米汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "半夏,粳米", "dosage": ""}
+{"id": "FOR_277", "name": "四物汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "四物汤补血调经。用于血虚所致月经不调。", "composition": "当归、川芎、白芍、熟地", "dosage": ""}
+{"id": "FOR_278", "name": "大黄附子细辛汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "大黄附子细辛汤出自《金匮要略》，为温下法的代表方剂。用于治疗寒实内结、便秘腹痛之证。附子、细辛温阳散寒，大黄泻下通便，温通与攻下并用。", "composition": "大黄、附子、细辛", "dosage": ""}
+{"id": "FOR_279", "name": "射干麻黄汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "射干麻黄汤为治疗寒饮咳喘、喉中痰鸣之方。", "composition": "射干,麻黄,紫菀,冬花,半夏,五味子,生姜,细辛,大枣", "dosage": ""}
+{"id": "FOR_280", "name": "小半夏汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "半夏,生姜", "dosage": ""}
+{"id": "FOR_281", "name": "平胃散", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "平胃散燥湿健脾、行气和胃。", "composition": "苍术,厚朴,陈皮,甘草", "dosage": ""}
+{"id": "FOR_282", "name": "当归四逆加吴茱萸干姜汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "当归四逆加吴茱萸干姜汤温胃散寒、降逆止呕。用于胃里寒所致严重恶心呕吐。", "composition": "当归、桂枝、白芍、细辛、木通、炙甘草、大枣、吴茱萸、干姜", "dosage": ""}
+{"id": "FOR_283", "name": "排脓汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "排脓汤用于排出脓液，治疗疮疡溃破。", "composition": "桔梗,甘草,生姜,大枣", "dosage": ""}
+{"id": "FOR_284", "name": "枳实薤白桂枝汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "枳实薤白桂枝汤宽胸散结、强心通阳。用于心气不足所致晕眩、胸闷。", "composition": "枳实、薤白、桂枝、瓜蒌实、厚朴", "dosage": ""}
+{"id": "FOR_285", "name": "桂枝二麻黄一汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "桂枝二麻黄一汤为桂枝汤与麻黄汤的合方，用于表虚有汗而表邪未尽。", "composition": "桂枝,白芍,麻黄,杏仁,甘草,生姜,大枣", "dosage": ""}
+{"id": "FOR_286", "name": "桂枝芍药知母汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "桂枝芍药知母汤去风湿、止关节痛。用于风湿历节、关节肿痛。", "composition": "桂枝、白芍、知母、白术、防风、炮附子、麻黄、生姜、炙甘草", "dosage": ""}
+{"id": "FOR_287", "name": "桔梗甘草汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "桔梗甘草汤为排脓之方，用于肺痈、肺癌排痰。", "composition": "桔梗,甘草", "dosage": ""}
+{"id": "FOR_288", "name": "汉唐26号", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "汉唐26号为猪苓汤加减，具体药物组成参考猪苓汤。", "dosage": ""}
+{"id": "FOR_289", "name": "温经汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "吴茱萸,当归,川芎,白芍,熟地,阿胶,桂枝,炙甘草,黄芩,黄柏,酸枣仁,防己,牡蛎,瓦楞子,炒麦芽,小麦,大枣", "dosage": ""}
+{"id": "FOR_290", "name": "炙甘草汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "又名复脉汤，为补心血、通心脉之方。", "composition": "炙甘草,桂枝,生姜,人参,麦门冬,麻子仁,阿胶,大枣,生地", "dosage": ""}
+{"id": "FOR_291", "name": "瓜蒌薤白白酒汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "瓜蒌薤白白酒汤宽胸散结。用于心气郁结所致胸痛、背痛。", "composition": "瓜蒌实、薤白、白酒", "dosage": ""}
+{"id": "FOR_292", "name": "甘草干姜汤", "aliases": [], "source_book": "临床记录", "chapter": "5.辨太阳病脉证并治法下篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "干姜,炙甘草", "dosage": ""}
+{"id": "FOR_293", "name": "甘草附子汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "甘草附子汤出自《伤寒论》，治疗风湿相搏，骨节疼烦掣痛。本案用治双膝疼痛、痛风。", "composition": "甘草、附子、白术、桂枝", "dosage": ""}
+{"id": "FOR_294", "name": "甘麦大枣汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "小麦,大枣,炙甘草", "dosage": ""}
+{"id": "FOR_295", "name": "百合地黄汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "百合,生地黄", "dosage": ""}
+{"id": "FOR_296", "name": "肾着汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "肾着汤去肾家寒湿，使湿由小便出。用于小便不利、量少次数多。", "composition": "白术、茯苓、猪苓、泽泻", "dosage": ""}
+{"id": "FOR_297", "name": "苓甘五味姜辛汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "茯苓,炙甘草,五味子,干姜,细辛", "dosage": ""}
+{"id": "FOR_298", "name": "藜芦甘草汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "藜芦,甘草", "dosage": ""}
+{"id": "FOR_299", "name": "补阳还五汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "补阳还五汤为王清任方，用于补气活血通络，治疗中风后半身不遂。", "composition": "黄芪,当归,赤芍,川芎,桃仁,红花,地龙", "dosage": ""}
+{"id": "FOR_300", "name": "麦门冬汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "麦门冬汤润肺降逆、益胃生津。", "composition": "麦门冬,半夏,人参,甘草,粳米,大枣", "dosage": ""}
+{"id": "FOR_301", "name": "麻杏甘石汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "麻黄三钱,杏仁三钱,炙甘草二钱,石膏八钱", "dosage": ""}
+{"id": "FOR_302", "name": "麻杏苡甘汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "麻杏苡甘汤出自《金匮要略》，治疗风湿在表。本案用治牛皮癣，开毛孔，补肺津，去皮下旧的湿。", "composition": "麻黄、杏仁、薏苡仁、炙甘草", "dosage": ""}
+{"id": "FOR_303", "name": "麻杏薏甘汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "麻杏薏甘汤使湿热从表解，用于风湿在表、皮肤病变。", "composition": "麻黄、杏仁、薏苡仁、炙甘草", "dosage": ""}
+{"id": "FOR_304", "name": "麻黄连翘赤小豆汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "麻黄连翘赤小豆汤解表清热利湿，用于湿热郁表之皮肤痒疹。", "composition": "麻黄,连翘,赤小豆,杏仁,大枣,桑白皮,生姜,甘草", "dosage": ""}
+{"id": "FOR_305", "name": "黄芪建中汤", "aliases": [], "source_book": "临床记录", "chapter": "", "six_channel": "", "syndrome": "", "indication": "黄芪建中汤为小建中汤加黄芪，补虚建中、益气固表。", "composition": "黄芪,桂枝,白芍,甘草,生姜,大枣,饴糖", "dosage": ""}
+{"id": "FOR_306", "name": "四逆加人參湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_307", "name": "而復參湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_308", "name": "四逆加人參湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_309", "name": "五苓散", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_310", "name": "理中丸", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_311", "name": "四逆湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_312", "name": "通脈四逆加豬膽汁湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_313", "name": "通脈四逆加豬膽汁湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_314", "name": "白虎加人參湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_315", "name": "百合地黃湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_316", "name": "百合知母湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_317", "name": "百合滑石代赭湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_318", "name": "百合雞子湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_319", "name": "百合洗方", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_320", "name": "栝蔞牡蠣散", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_321", "name": "百合滑石散", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_322", "name": "甘草瀉心湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_323", "name": "升麻鱉甲湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_324", "name": "升麻鱉甲湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_325", "name": "升麻鱉甲湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_326", "name": "升麻鱉甲湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_327", "name": "升麻鱉甲湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_328", "name": "鱉甲煎丸", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_329", "name": "白虎加桂枝湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_330", "name": "白虎加桂枝湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_331", "name": "蜀漆散", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_332", "name": "桂枝芍藥知母湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_333", "name": "桂枝芍藥知母湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_334", "name": "桂枝芍藥知母湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_335", "name": "烏頭湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_336", "name": "黃耆桂枝五物湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_337", "name": "骨牡蠣湯桂枝龍骨牡蠣湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_338", "name": "天雄散", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_339", "name": "酸棗仁湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_340", "name": "大黃蟅蟲丸", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_341", "name": "皂莢丸", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_342", "name": "皂荚丸", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_343", "name": "皂莢丸", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_344", "name": "皂荚丸", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_345", "name": "厚朴麻黃湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_346", "name": "澤漆湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_347", "name": "澤漆湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_348", "name": "澤漆湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_349", "name": "麥門冬湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_350", "name": "葶藶大棗瀉肺湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_351", "name": "葶藶大棗瀉肺湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_352", "name": "奔豚湯", "aliases": [], "source_book": "金匮要略", "chapter": "奔豚氣病脈證并治第八", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_353", "name": "栝蔞薤白白酒湯", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_354", "name": "栝蔞薤白白酒湯", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_355", "name": "栝蔞薤白半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_356", "name": "枳實薤白桂枝湯", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_357", "name": "人參湯", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_358", "name": "茯苓杏仁甘草湯", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_359", "name": "橘枳生薑湯", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_360", "name": "薏苡散", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_361", "name": "薏苡附子散", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_362", "name": "桂枝生薑枳實湯", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_363", "name": "烏頭赤石脂丸", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_364", "name": "乌頭赤石脂丸", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_365", "name": "乌头赤石脂丸", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_366", "name": "烏頭赤石脂丸", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_367", "name": "乌头赤石脂丸", "aliases": [], "source_book": "金匮要略", "chapter": "痺心痛短氣病脈證并治第九", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_368", "name": "厚朴七物湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_369", "name": "厚朴七物湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_370", "name": "附子粳米湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_371", "name": "附子粳米湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_372", "name": "大柴胡湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_373", "name": "大承氣湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_374", "name": "大建中湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_375", "name": "大建中湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_376", "name": "大黃附子湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_377", "name": "當歸生薑羊肉湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_378", "name": "旋覆湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_379", "name": "旋覆花湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_380", "name": "旋覆花湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_381", "name": "麻子仁丸", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_382", "name": "甘薑苓朮湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_383", "name": "甘草乾薑茯苓朮湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_384", "name": "甘草乾薑茯苓白朮湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證并治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_385", "name": "苓桂朮甘湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_386", "name": "苓桂朮甘湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_387", "name": "甘遂半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_388", "name": "甘遂半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_389", "name": "十棗湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_390", "name": "十棗湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_391", "name": "大青龍湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_392", "name": "小青龍湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_393", "name": "小青龍湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_394", "name": "木防己湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_395", "name": "宜木防己湯去石膏加茯苓芒硝湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_396", "name": "木防己湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_397", "name": "宜木防己湯去石膏加茯苓芒硝湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_398", "name": "澤瀉湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_399", "name": "厚朴大黃湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_400", "name": "澤瀉湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_401", "name": "厚朴大黃湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_402", "name": "己椒藶黃丸", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_403", "name": "己椒藶黃丸", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_404", "name": "己椒藶黃丸", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_405", "name": "小半夏加茯苓湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_406", "name": "為有水十棗湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_407", "name": "宜十棗十棗湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_408", "name": "十棗湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_409", "name": "小青龍湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_410", "name": "小青龍湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_411", "name": "苓甘五味薑辛湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_412", "name": "甘五味加薑辛半夏杏仁湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_413", "name": "小半夏加茯苓湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_414", "name": "腎氣丸", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_415", "name": "五苓散", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_416", "name": "栝蔞瞿麥丸", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_417", "name": "白虎加人參湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_418", "name": "白虎加人參湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_419", "name": "白虎加人參湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_420", "name": "豬苓湯", "aliases": [], "source_book": "金匮要略", "chapter": "痰飲欬嗽病脈證并治第十二", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_421", "name": "越婢加朮湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_422", "name": "防己茯苓湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_423", "name": "防己茯苓湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_424", "name": "麻黃附子湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_425", "name": "蒲灰散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_426", "name": "桂枝加黃耆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_427", "name": "桂甘薑棗麻辛附子湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_428", "name": "枳术湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_429", "name": "枳术湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_430", "name": "枳朮湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_431", "name": "茵陳蒿湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_432", "name": "茵陳蒿湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_433", "name": "茵陳蒿湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_434", "name": "硝石礬石散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_435", "name": "硝石礬石散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_436", "name": "宜桂枝加黃耆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_437", "name": "桂枝加黃耆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_438", "name": "桂枝加黃耆湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_439", "name": "宜桂枝加黃耆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_440", "name": "桂枝加黃耆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_441", "name": "宜桂枝加黃耆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_442", "name": "桂枝加黃耆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_443", "name": "大黃硝石湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_444", "name": "大黃硝石湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_445", "name": "大黃硝石湯", "aliases": [], "source_book": "金匮要略", "chapter": "續傷寒霍亂篇", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_446", "name": "大黃硝石湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_447", "name": "噦者小半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_448", "name": "小半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_449", "name": "柴胡湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_450", "name": "噦者小半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_451", "name": "小半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_452", "name": "柴胡湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_453", "name": "桂枝去芍藥加蜀漆牡蠣龍骨救逆湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_454", "name": "半夏麻黃丸", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_455", "name": "柏葉湯", "aliases": [], "source_book": "金匮要略", "chapter": "腹滿寒疝宿食病脈證並治第十", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_456", "name": "柏葉湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_457", "name": "黃土湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_458", "name": "黃土湯主黃土湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_459", "name": "黃土湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_460", "name": "赤豆當歸散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_461", "name": "瀉心湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_462", "name": "当归散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_463", "name": "赤豆当归散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_464", "name": "赤豆當歸散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_465", "name": "瀉心湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_466", "name": "吳茱萸湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_467", "name": "吳茱萸湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_468", "name": "吳茱萸湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_469", "name": "半夏瀉心湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_470", "name": "小半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_471", "name": "豬苓散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_472", "name": "条文及猪苓散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_473", "name": "小半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_474", "name": "豬苓散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_475", "name": "四逆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_476", "name": "大半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_477", "name": "大黃甘草湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_478", "name": "茯苓澤瀉湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_479", "name": "茯苓澤瀉湯主茯苓澤瀉湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_480", "name": "半夏乾薑散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_481", "name": "半夏乾薑散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_482", "name": "生薑半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_483", "name": "生薑半夏湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_484", "name": "橘皮湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_485", "name": "小承氣湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_486", "name": "桃花湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_487", "name": "白頭翁湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_488", "name": "通脈四逆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_489", "name": "通脈四逆湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_490", "name": "紫參湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_491", "name": "紫參湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_492", "name": "紫參湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_493", "name": "薏苡附子敗醬散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_494", "name": "雞矢白散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_495", "name": "蜘蛛散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_496", "name": "桂枝湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_497", "name": "桂枝湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_498", "name": "桂枝茯苓丸", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_499", "name": "茯苓丸", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_500", "name": "膠艾湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_501", "name": "當歸芍藥散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_502", "name": "乾薑人參半夏丸", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_503", "name": "當歸散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_504", "name": "小柴胡湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_505", "name": "承氣湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_506", "name": "薑羊肉湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_507", "name": "枳實芍藥散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_508", "name": "宜下瘀血湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_509", "name": "下瘀血湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_510", "name": "宜大承氣湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_511", "name": "宜大承氣湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_512", "name": "陽旦湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_513", "name": "竹葉湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_514", "name": "竹皮大丸", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_515", "name": "甘麥大棗湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_516", "name": "甘麥大棗湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_517", "name": "甘麥大棗湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_518", "name": "小青龍湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_519", "name": "瀉心湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_520", "name": "膠薑湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_521", "name": "大黃甘遂湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_522", "name": "抵當湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_523", "name": "蛇牀子散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_524", "name": "蛇床子散", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_525", "name": "狼牙湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_526", "name": "枳實梔子豉湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_527", "name": "實梔子豉湯", "aliases": [], "source_book": "金匮要略", "chapter": "水氣病脈證并治第十四", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_528", "name": "桂枝湯", "aliases": [], "source_book": "伤寒论", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_529", "name": "解脈洪大者白虎加人參湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_530", "name": "解脈洪大者白虎加人參湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_531", "name": "桂枝去桂加茯苓白朮湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_532", "name": "葛根湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_533", "name": "喘者桂枝加厚朴杏子湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_534", "name": "桂枝加附子湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_535", "name": "枝加芍藥生薑人參新加湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_536", "name": "大青龍湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_537", "name": "桂枝加附子湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_538", "name": "麻黃湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_539", "name": "麻黃杏仁甘草石膏湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_540", "name": "欲得水飲者白虎加人參湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_541", "name": "猪苓湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_542", "name": "桃核承氣湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_543", "name": "五苓散", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_544", "name": "茯苓甘草湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_545", "name": "不汗出而煩躁者大青龍湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_546", "name": "不汗出而煩躁者大青龍湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_547", "name": "解脈洪大者白虎加人參湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_548", "name": "桂枝湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_549", "name": "小青龍湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_550", "name": "大柴胡湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_551", "name": "下血者桃花湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_552", "name": "柴胡加芒硝湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_553", "name": "水無表證者白虎加人參湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_554", "name": "抵當湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_555", "name": "大青龍湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_556", "name": "小青龍湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_557", "name": "痛者此為結胸也大陷胸湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_558", "name": "半夏瀉心湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_559", "name": "半夏瀉心湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_560", "name": "半夏瀉心湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_561", "name": "出惡風脈浮緩者宜桂枝湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_562", "name": "附子瀉心湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_563", "name": "生薑瀉心湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_564", "name": "生薑瀉心湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_565", "name": "桂枝人參湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_566", "name": "桂枝加芍藥湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_567", "name": "桂枝湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_568", "name": "葛根黃芩黃連湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_569", "name": "桂枝人參湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_570", "name": "大黃黃連瀉心湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_571", "name": "黃芩加半夏生薑湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_572", "name": "十棗湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_573", "name": "十棗湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_574", "name": "黃連湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_575", "name": "宜桂枝加白虎湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_576", "name": "桂枝附子湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_577", "name": "宜桂枝加白虎湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陽病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_578", "name": "大承氣湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_579", "name": "大承氣湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_580", "name": "大承氣湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_581", "name": "大承氣湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_582", "name": "大承氣湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_583", "name": "大承氣湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_584", "name": "大承氣湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_585", "name": "小承氣湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_586", "name": "梔子豉湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_587", "name": "梔子豉湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_588", "name": "梔子豉湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_589", "name": "梔子豉湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_590", "name": "茵陳蒿湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_591", "name": "茵陳蒿湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_592", "name": "吳茱萸湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_593", "name": "吳茱萸湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_594", "name": "麻子仁丸", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_595", "name": "麻仁丸", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_596", "name": "麻仁丸", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_597", "name": "豬苓湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_598", "name": "麻仁丸", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_599", "name": "豬苓湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_600", "name": "麻子仁丸", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_601", "name": "茵陳蒿湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_602", "name": "麻黃連軺赤小豆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨陽明病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_603", "name": "大黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陽病脈證並治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_604", "name": "桂枝加大黃湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨太陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_605", "name": "眞武湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_606", "name": "麻黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_607", "name": "大黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_608", "name": "麻黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_609", "name": "大黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_610", "name": "麻黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_611", "name": "大黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_612", "name": "麻黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證並治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_613", "name": "麻黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_614", "name": "大黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_615", "name": "大黃附子細辛湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證並治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_616", "name": "麻黃附子甘草湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_617", "name": "黃連阿膠湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_618", "name": "附子湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_619", "name": "黃連阿膠湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_620", "name": "附子湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_621", "name": "桃花湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_622", "name": "桃花湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_623", "name": "桃花湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_624", "name": "桃花湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_625", "name": "吳茱萸湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_626", "name": "甘草湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_627", "name": "及湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_628", "name": "半夏散及湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_629", "name": "四逆散", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_630", "name": "白通湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_631", "name": "白通加豬膽汁湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_632", "name": "通脈四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_633", "name": "真武湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_634", "name": "通脈四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_635", "name": "通脈四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_636", "name": "通脈四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_637", "name": "通脈四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_638", "name": "通脈四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_639", "name": "四逆散", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_640", "name": "四逆散", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_641", "name": "四逆散", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_642", "name": "豬苓湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_643", "name": "豬苓湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_644", "name": "豬苓湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_645", "name": "豬苓湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨少陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_646", "name": "烏梅丸", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_647", "name": "烏梅丸", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_648", "name": "烏梅丸", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_649", "name": "乌梅丸", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_650", "name": "當歸四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_651", "name": "當歸四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_652", "name": "當歸四逆加吳茱萸生薑湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_653", "name": "麻黃升麻湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_654", "name": "乾薑黃芩黃連人參湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_655", "name": "乾薑黃連黃芩人參湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥隂病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_656", "name": "通脈四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_657", "name": "白頭翁湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_658", "name": "四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_659", "name": "小柴胡湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_660", "name": "吳茱萸湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_661", "name": "四逆湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_662", "name": "吳茱萸湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_663", "name": "小柴胡湯", "aliases": [], "source_book": "伤寒论", "chapter": "辨厥陰病脈證并治", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
+{"id": "FOR_664", "name": "左下方", "aliases": [], "source_book": "tianji", "chapter": "", "six_channel": "", "syndrome": "", "indication": "", "composition": "", "dosage": ""}
