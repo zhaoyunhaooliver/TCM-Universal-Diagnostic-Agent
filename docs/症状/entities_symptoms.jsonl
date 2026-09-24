@@ -1,0 +1,727 @@
+{"id": "SYM_1", "name": "发热恶寒", "category": "", "description": "", "first_gateway": "有汗/无汗，脉缓/脉紧", "differential": ""}
+{"id": "SYM_2", "name": "往来寒热", "category": "", "description": "", "first_gateway": "是否恶心、胸胁苦满、经期", "differential": ""}
+{"id": "SYM_3", "name": "高热大渴", "category": "", "description": "", "first_gateway": "大便通不通、腹是否拒按", "differential": ""}
+{"id": "SYM_4", "name": "便秘", "category": "", "description": "", "first_gateway": "小便深黄还是清白，腹痛拒按否", "differential": ""}
+{"id": "SYM_5", "name": "下利", "category": "", "description": "", "first_gateway": "热利/寒利/假水泻，小便颜色", "differential": ""}
+{"id": "SYM_6", "name": "腹胀腹痛", "category": "", "description": "", "first_gateway": "喜按/拒按，时痛/持续痛", "differential": ""}
+{"id": "SYM_7", "name": "失眠烦躁", "category": "", "description": "", "first_gateway": "汗吐下后虚烦，昼日烦躁，心中烦不得卧", "differential": ""}
+{"id": "SYM_8", "name": "心悸胸满", "category": "", "description": "", "first_gateway": "发汗后心下悸、胸满、脉结代", "differential": ""}
+{"id": "SYM_9", "name": "小便不利", "category": "", "description": "", "first_gateway": "口渴、尿血、结石、水逆", "differential": ""}
+{"id": "SYM_10", "name": "手足冷", "category": "", "description": "", "first_gateway": "冷到手足末端还是肘膝，是否下利脉微", "differential": ""}
+{"id": "SYM_11", "name": "经期感冒", "category": "", "description": "", "first_gateway": "是否正在月经，是否往来寒热/如见鬼状", "differential": ""}
+{"id": "SYM_12", "name": "咽痛", "category": "", "description": "", "first_gateway": "少阴咽痛、下利、心烦、声不出", "differential": ""}
+{"id": "SYM_13", "name": "表现", "category": "", "description": "", "first_gateway": "课程辨证", "differential": ""}
+{"id": "SYM_14", "name": "小便深黄、大便臭、腹拒按", "category": "", "description": "", "first_gateway": "热实便秘/阳明腑实", "differential": ""}
+{"id": "SYM_15", "name": "不放屁、无食欲、谵语、天枢剧痛", "category": "", "description": "", "first_gateway": "阳明腑实重", "differential": ""}
+{"id": "SYM_16", "name": "尚能食且放屁", "category": "", "description": "", "first_gateway": "阳明腑实轻", "differential": ""}
+{"id": "SYM_17", "name": "羊屎状便", "category": "", "description": "", "first_gateway": "脾约、津液枯竭", "differential": ""}
+{"id": "SYM_18", "name": "十日不便无痛苦、小便清白", "category": "", "description": "", "first_gateway": "寒实便秘", "differential": ""}
+{"id": "SYM_19", "name": "善忘、黑便、少腹硬满、小便自利", "category": "", "description": "", "first_gateway": "蓄血", "differential": ""}
+{"id": "SYM_20", "name": "1-3am醒", "category": "睡眠", "description": "凌晨1-3点醒来，为肝经气血流注时间，提示肝有问题。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肝损伤\"]}"}
+{"id": "SYM_21", "name": "1-3点睡不好", "category": "睡眠", "description": "1-3点（丑时）睡眠不好，本案为肝病影响。", "first_gateway": "", "differential": "{\"关联方剂\": [\"酸枣仁汤\", \"黄连阿胶汤\"], \"关联病机\": [\"肝病\", \"肝经问题\"]}"}
+{"id": "SYM_22", "name": "ALS渐冻人", "category": "全身", "description": "肌萎缩侧索硬化症（ALS），俗称渐冻人。本案病人说话不清、身肿、四肢无力，被西医诊断为ALS。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大黄附子细辛汤\", \"麻黄附子细辛汤\", \"四逆汤\"], \"关联病机\": [\"下焦寒实\", \"里真寒证\", \"少阴证\"]}"}
+{"id": "SYM_23", "name": "Angelman syndrome", "category": "全身", "description": "Angelman syndrome，一种神经发育障碍。特征：约6-12个月大开始出现发育迟缓，尤其是功能方面；语言障碍；活动不平衡；行为上可能合并有经常笑、表面上快乐、易被刺激的性格、手拍打的动作、过动行为、短暂的注意力集中；超过80%的小朋友颅骨不成比例的发育，形成小头畸形；3岁之前即有痉挛（癫痫）发作；其他可能有，斜视、吞咽问题、睡眠问题、流口水、吐舌头、特别易被「水」的吸引。", "first_gateway": "", "differential": "{\"关联方剂\": [\"HT-42控涎丹\", \"藜芦甘草汤\", \"小建中汤\", \"甘麦大枣汤\"], \"关联病机\": [\"胸中积痰\", \"血脉神经积痰\", \"肺中痰水\", \"肾阳不足\"]}"}
+{"id": "SYM_24", "name": "Cushing Disease", "category": "全身", "description": "库欣病，本案为IVF怀孕后得到Cushing Disease。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\", \"五苓散\"], \"关联病机\": [\"上虚热下寒湿\", \"肾上腺肿瘤\"]}"}
+{"id": "SYM_25", "name": "T5椎压痛", "category": "全身", "description": "第五胸椎（T5）有压痛，提示心包有痰湿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"乌梅丸\"], \"关联病机\": [\"心包痰湿\"]}"}
+{"id": "SYM_26", "name": "TMJ", "category": "头面", "description": "颞下颌关节紊乱综合征（TMJ），表现为双牙关痛，张合即痛。本案为足阳明经实症，仅一周病程。", "first_gateway": "", "differential": "{\"关联方剂\": [\"清胃散\", \"白虎汤\"], \"关联病机\": [\"足阳明经实症\", \"阳明经热\"]}"}
+{"id": "SYM_27", "name": "一点焦虑", "category": "全身", "description": "轻微的焦虑状态，本案为工作压力导致一点焦虑。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_28", "name": "三叉神经痛", "category": "全身", "description": "三叉神经分布区域反复发作的阵发性剧烈疼痛，右脸刺痛，吹风则加重。", "first_gateway": "", "differential": "{\"关联方剂\": [\"葛根汤\"], \"关联病机\": [\"风寒束表\", \"表证未解\", \"风痛\"]}"}
+{"id": "SYM_29", "name": "上半身热下半身冷", "category": "寒热", "description": "上半身发热，下半身寒冷，本案为阴阳格拒之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"阴阳格拒\", \"里寒实\"]}"}
+{"id": "SYM_30", "name": "上楼喘", "category": "全身", "description": "上楼梯时气喘，本案为里寒重，肾不得肺津。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"肾气丸\"], \"关联病机\": [\"里寒重\", \"肾不得肺津\"]}"}
+{"id": "SYM_31", "name": "上腹紧", "category": "胸腹", "description": "上腹部肌肉紧张。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"中风后遗症\"]}"}
+{"id": "SYM_32", "name": "下利多", "category": "二便", "description": "下利次数多，本案为肺中有很多痰水，一动痰水跑到下面肠子去就下利。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"五苓散\"], \"关联病机\": [\"肺中有痰水\", \"痰水下利\"]}"}
+{"id": "SYM_33", "name": "下利清谷", "category": "二便", "description": "腹泻且大便中有未消化的食物，本案为肾阳虚，脾阳虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"理中汤\"], \"关联病机\": [\"肾阳虚\", \"脾阳虚\"]}"}
+{"id": "SYM_34", "name": "下午以后身热加重", "category": "寒热", "description": "下午以后身体发热加重，本案为上热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"青蒿鳖甲汤\"], \"关联病机\": [\"上热下焦也热\"]}"}
+{"id": "SYM_35", "name": "下午热退许多", "category": "寒热", "description": "下午发热症状减轻很多，本案为病人进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"青蒿鳖甲汤\"], \"关联病机\": [\"病人进步中\"]}"}
+{"id": "SYM_36", "name": "下半身热", "category": "寒热", "description": "下半身发热。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阴阳不和\", \"阳不入阴\"]}"}
+{"id": "SYM_37", "name": "下背紧", "category": "全身", "description": "下背部时有紧张感。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\"]}"}
+{"id": "SYM_38", "name": "不孕", "category": "全身", "description": "无法怀孕，本案为八年婚姻，原不易怀孕。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大黄甘遂汤\", \"抵当汤\"], \"关联病机\": [\"上虚热下寒湿\", \"血水并结\"]}"}
+{"id": "SYM_39", "name": "不安腿", "category": "四肢", "description": "腿部有不安感，需不停活动才能缓解。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\", \"水气\"]}"}
+{"id": "SYM_40", "name": "不容易出汗去花园走则流汗", "category": "汗", "description": "平时不容易出汗，但去花园走动就会流汗。本案病人不容易出汗，去花园走则流汗。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"桂枝汤\"], \"关联病机\": [\"表闭\", \"阳气不畅\"]}"}
+{"id": "SYM_41", "name": "不常饿", "category": "饮食", "description": "不常感到饥饿，吃得少。为脾胃功能虚弱之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小建中汤\"], \"关联病机\": [\"脾虚\", \"后天失调\"]}"}
+{"id": "SYM_42", "name": "不想吐", "category": "胸腹", "description": "不想呕吐，本案为进步中，胃气恢复。", "first_gateway": "", "differential": "{\"关联方剂\": [\"吴茱萸汤\", \"半夏厚朴汤\"], \"关联病机\": [\"进步中\", \"胃气恢复\"]}"}
+{"id": "SYM_43", "name": "不易入眠", "category": "睡眠", "description": "难以入睡，本案为上焦太热、湿，不易入眠。处方中用黄连、黄芩、白芍、桂枝+生蛋黄补心血不足，定神安眠。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_44", "name": "不易入睡", "category": "睡眠", "description": "入睡困难，难以进入睡眠状态。", "first_gateway": "", "differential": "{\"关联方剂\": [\"半夏秫米汤\", \"黄连阿胶汤\"], \"关联病机\": [\"心血不足\", \"心阳不足\", \"中焦有水饮\"]}"}
+{"id": "SYM_45", "name": "不易出汗", "category": "全身", "description": "身体不易出汗。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"表实\", \"肺气不宣\"]}"}
+{"id": "SYM_46", "name": "不服西药", "category": "全身", "description": "停用西药，本案为高血压、糖尿病已不服西药。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡汤\", \"肾气丸\"], \"关联病机\": [\"肝积毒素\", \"肾阳不足\"]}"}
+{"id": "SYM_47", "name": "不流汗", "category": "全身", "description": "多年不流汗，本案为肝硬化、糖尿病，西药造成皮肤易破、不流汗。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"桂枝汤\"], \"关联病机\": [\"表实\", \"心阳不足\"]}"}
+{"id": "SYM_48", "name": "不自主抽动", "category": "四肢", "description": "身体不自主地抽动或跳动。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\"], \"关联病机\": [\"肾阳不足\", \"水气凌心\"]}"}
+{"id": "SYM_49", "name": "中午以后身冷", "category": "寒热", "description": "中午过后身体感觉寒冷，本案为里寒重症。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒\", \"阳虚\"]}"}
+{"id": "SYM_50", "name": "中午以后身有热", "category": "寒热", "description": "中午以后身体有热感，本案为病人好转。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"青蒿鳖甲汤\"], \"关联病机\": [\"阳脉大于阴脉\", \"病人好转\"]}"}
+{"id": "SYM_51", "name": "中午以后身热", "category": "寒热", "description": "中午过后身体发热，本案为阴阳格拒之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"阴阳格拒\", \"里寒实\"]}"}
+{"id": "SYM_52", "name": "中焦寒", "category": "胸腹", "description": "中焦（脾胃）有寒，吃水果后肚子会痛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"吴茱萸汤\"], \"关联病机\": [\"胃寒\", \"脾阳不足\"]}"}
+{"id": "SYM_53", "name": "中焦寒水", "category": "胸腹", "description": "中焦（心与小肠之间）有寒水停留，表现为饭后逆气、听到水声则欲小便（同气相求）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\"], \"关联病机\": [\"中焦有寒水\"]}"}
+{"id": "SYM_54", "name": "乳头挤黑色液体", "category": "全身", "description": "乳头挤出黑色液体，本案为乳癌第一期。", "first_gateway": "", "differential": "{\"关联方剂\": [\"活血化瘀剂\"], \"关联病机\": [\"乳癌\", \"奶水淤积\"]}"}
+{"id": "SYM_55", "name": "乳房硬块", "category": "头面", "description": "乳房内出现硬块或结节。本案为乳癌复发，服用抗生素后出现二个新硬块。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_56", "name": "乳房肿块", "category": "全身", "description": "乳房有肿块，乳痛不定处，腋下有颗粒，经期中治疗最佳。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四物汤加炒麦芽\", \"小柴胡汤\"], \"关联病机\": [\"奶水停聚中焦\", \"奶水累积乳房\", \"里寒\"]}"}
+{"id": "SYM_57", "name": "乳癌", "category": "其他", "description": "乳腺恶性肿瘤，中医认为多由奶水累积乳房、肝郁气滞、阴实形成所致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"四逆汤\", \"桂枝芍药知母汤\"], \"关联病机\": [\"奶水累积乳房\", \"阴实\", \"肝郁\"]}"}
+{"id": "SYM_58", "name": "乳癌复发", "category": "全身", "description": "乳癌治疗后再次出现，原有伤口出血，出现新硬块。多因阳气不足，阴实内结所致。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_59", "name": "人工流产", "category": "全身", "description": "人工终止妊娠，本案为怀孕后出现全身水肿、高血压之后人工流产。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大黄甘遂汤\", \"抵当汤\"], \"关联病机\": [\"上虚热下寒湿\"]}"}
+{"id": "SYM_60", "name": "人很疲倦", "category": "全身", "description": "身体感觉疲倦乏力。本案病人人很疲倦，ALS三诊。", "first_gateway": "", "differential": "{\"关联方剂\": [\"补中益气汤\", \"四君子汤\", \"六味地黄丸\"], \"关联病机\": [\"气虚\", \"脾虚\", \"肾虚\"]}"}
+{"id": "SYM_61", "name": "人迎脉明显跳动", "category": "脉象", "description": "人迎穴部位脉搏明显跳动，为甲状腺亢进的体征。本案为人迎脉有明显跳动。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_62", "name": "伤口出血", "category": "头面", "description": "手术或病变部位伤口出血。本案为乳癌复发，右乳过去伤口仍见出血。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_63", "name": "但欲寐", "category": "睡眠", "description": "白天站着也能睡着，精神萎靡欲寐，为少阴证典型表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄附子细辛汤\"], \"关联病机\": [\"少阴证\", \"肾阳不足\"]}"}
+{"id": "SYM_64", "name": "低烧", "category": "寒热", "description": "体温轻度升高，持续不退。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阴阳不和\", \"阴实\"]}"}
+{"id": "SYM_65", "name": "低血糖", "category": "全身", "description": "血糖过低，出现心慌、手抖、出汗等症状。患者伴有焦虑、心悸等心血不足表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\"], \"关联病机\": [\"心血不足\", \"气虚\"]}"}
+{"id": "SYM_66", "name": "体力不好", "category": "全身", "description": "体力不足，容易疲劳，精力不济。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四君子汤\", \"补中益气汤\"], \"关联病机\": [\"气虚\", \"阳虚\", \"肾虚\"]}"}
+{"id": "SYM_67", "name": "体力好", "category": "", "description": "体力充沛，精力旺盛。提示气血充足，阳气旺盛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"补中益气汤\", \"十全大补汤\"], \"关联病机\": [\"气血充足\", \"阳气旺盛\"]}"}
+{"id": "SYM_68", "name": "体力好转", "category": "全身", "description": "体力状况好转，本案为进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"八珍汤\"], \"关联病机\": [\"进步中\", \"下焦寒湿好转\"]}"}
+{"id": "SYM_69", "name": "体力差", "category": "全身", "description": "体力不足，容易疲劳，本案为虚热，胃寒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"八珍汤\", \"十全大补汤\"], \"关联病机\": [\"虚热\", \"胃寒\"]}"}
+{"id": "SYM_70", "name": "体力很好", "category": "全身", "description": "体力充沛，精力旺盛，无疲劳感。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阳气充足\", \"健康\"]}"}
+{"id": "SYM_71", "name": "体力略差", "category": "", "description": "长睡后起来体力略差，提示阳气不足或气血亏虚。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_72", "name": "体力还好", "category": "全身", "description": "体力处于中等水平，不算很好但也不差。本案为复诊，进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_73", "name": "体重下降", "category": "全身", "description": "体重持续下降，本案为癌症患者，体重下降中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"归脾汤\", \"十全大补汤\"], \"关联病机\": [\"里寒\", \"癌症消耗\"]}"}
+{"id": "SYM_74", "name": "体重降10磅", "category": "全身", "description": "体重下降10磅（约4.5公斤）。本案病人胃口减少，体重降了10磅，病人很高兴。", "first_gateway": "", "differential": "{\"关联方剂\": [\"参苓白术散\", \"白虎汤\"], \"关联病机\": [\"脾虚湿去\", \"胃肠实热\"]}"}
+{"id": "SYM_75", "name": "便秘一星期一次", "category": "二便", "description": "便秘严重，一周才排便一次。本案病人便秘不觉腹痛，属下焦寒实。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大黄附子细辛汤\", \"麻子仁丸\", \"半硫丸\"], \"关联病机\": [\"下焦寒实\", \"肠燥\", \"阳虚便秘\"]}"}
+{"id": "SYM_76", "name": "便血", "category": "二便", "description": "大便后出血。需鉴别痔疮出血与大肠癌出血。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"外痔\"]}"}
+{"id": "SYM_77", "name": "倦怠", "category": "全身", "description": "全身疲倦乏力，精神不振。患者伴有焦虑、心悸、不易入眠等心血不足表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"小建中汤\"], \"关联病机\": [\"心血不足\", \"气虚\", \"血虚\"]}"}
+{"id": "SYM_78", "name": "倦怠无力", "category": "全身", "description": "全身疲倦乏力，精神不振。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"少阴证\", \"肾阳不足\", \"脾虚\"]}"}
+{"id": "SYM_79", "name": "倦怠沮丧", "category": "全身", "description": "倦怠乏力且情绪低落，本案为酒客病。", "first_gateway": "", "differential": "{\"关联方剂\": [\"酸枣仁汤\", \"逍遥散\"], \"关联病机\": [\"酒客病\", \"中焦湿\"]}"}
+{"id": "SYM_80", "name": "偏头痛", "category": "头面", "description": "一侧头部疼痛，多为少阳经循行区域。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小柴胡汤\"], \"关联病机\": [\"少阳头痛\", \"风邪\"]}"}
+{"id": "SYM_81", "name": "停经", "category": "月经", "description": "月经停止，本案为55岁女性，今年五月最后一次月经。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"知柏地黄丸\"], \"关联病机\": [\"更年期\", \"脏躁\"]}"}
+{"id": "SYM_82", "name": "偶尔口渴", "category": "饮食", "description": "偶尔感到口渴，不是持续性的。本案为血小板减少紫瘢复诊患者。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_83", "name": "全身水肿", "category": "全身", "description": "全身水肿，本案为怀孕时出现全身水肿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\", \"五苓散\"], \"关联病机\": [\"上虚热下寒湿\", \"水湿\"]}"}
+{"id": "SYM_84", "name": "全身热", "category": "寒热", "description": "月经来时整晚全身发热，早上起床也觉热。提示阳气回复，或阳明经热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"白虎汤\"], \"关联病机\": [\"阳气回复\", \"阳明热\", \"血虚发热\"]}"}
+{"id": "SYM_85", "name": "全身紧绷", "category": "四肢", "description": "时常全身肌肉紧绷。", "first_gateway": "", "differential": "{\"关联方剂\": [\"甘麦大枣汤\"], \"关联病机\": [\"痰阻\", \"筋脉失养\"]}"}
+{"id": "SYM_86", "name": "全身都冷时又热", "category": "寒热", "description": "全身感觉寒冷，但时而又有热感。本案为热极生寒，阴阳交错之象。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_87", "name": "关节冷冰", "category": "四肢", "description": "关节感觉冰冷，本案为风寒湿三痺。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"甘草附子汤\"], \"关联病机\": [\"风寒湿三痺\", \"寒证\"]}"}
+{"id": "SYM_88", "name": "关节痛", "category": "四肢", "description": "关节疼痛，本案为表虚，服药后好转又痛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"甘草附子汤\", \"桂枝附子汤\"], \"关联病机\": [\"表虚\", \"风寒湿痹\"]}"}
+{"id": "SYM_89", "name": "凌晨1-2点醒", "category": "睡眠", "description": "患者在凌晨1-2点（丑时，肝经巡行时间）醒来，提示肝经有热或毒素，需清肝。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"柴胡疏肝散\"], \"关联病机\": [\"肝热\", \"肝中毒素\", \"里热\"]}"}
+{"id": "SYM_90", "name": "凌晨2-3点醒", "category": "睡眠", "description": "凌晨2-3点（丑时，肝经当令）醒来，之后可再入睡。本案为胰脏癌，肝热，丑时醒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡疏肝散\", \"旋覆代赭汤\", \"清肝汤\"], \"关联病机\": [\"肝热\", \"肝郁\", \"中焦湿热\"]}"}
+{"id": "SYM_91", "name": "减肥（体重减少）", "category": "全身", "description": "体重明显减少，减肥成功。本案减少50磅以上，但伴随皮肤变薄易破裂。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_92", "name": "出汗较多", "category": "全身", "description": "出汗量较多，本案为脉洪大浮，有汗，出汗较多。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_93", "name": "前额头痛", "category": "头面", "description": "前额部位疼痛，多与胃肠问题有关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"半夏秫米汤\"], \"关联病机\": [\"中焦有水饮\", \"胃肠问题\"]}"}
+{"id": "SYM_94", "name": "动物敏感", "category": "全身", "description": "对动物敏感，本案曾遇猫导致眼睛红肿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"玉屏风散\"], \"关联病机\": [\"表虚\", \"过敏体质\"]}"}
+{"id": "SYM_95", "name": "午后潮热", "category": "寒热", "description": "午后（申时15-17点）定时发热如潮汛，本案为肝硬化、里寒，午后潮热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"青蒿鳖甲汤\"], \"关联病机\": [\"阳明经热\", \"阴虚潮热\"]}"}
+{"id": "SYM_96", "name": "午后潮热退", "category": "寒热", "description": "午后潮热症状减轻或消失。本案为胰脏癌治疗后，中焦湿热减轻，潮热退。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"白虎汤\"], \"关联病机\": [\"中焦湿热减轻\", \"胰脏癌好转\"]}"}
+{"id": "SYM_97", "name": "半夜后下半身冷", "category": "寒热", "description": "半夜过后下半身感觉寒冷，本案为阴阳格拒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒实\", \"阴阳格拒\"]}"}
+{"id": "SYM_98", "name": "半夜盗汗", "category": "汗", "description": "半夜睡眠中出汗，醒后汗止。患者心血不足，虚热内扰。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"黄连阿胶汤\"], \"关联病机\": [\"心血不足\", \"阴虚内热\", \"上热\"]}"}
+{"id": "SYM_99", "name": "半夜肚子饿", "category": "饮食", "description": "半夜感到饥饿，为胃气回复的佳兆。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃气回复\", \"阳回头\"]}"}
+{"id": "SYM_100", "name": "卧床即痒", "category": "头面", "description": "一躺在床上就瘙痒。本案为皮肤过敏，一靠着椅子或卧床即痒。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_101", "name": "卵巢瘤", "category": "胸腹", "description": "卵巢瘤是指发生在卵巢部位的肿瘤，包括良性和恶性。中医认为其主要病机为里寒湿、下焦阴实、阳气不足等，与肝经气血不畅、瘀血阻滞密切相关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"生附子方\"], \"关联病机\": [\"里寒湿\", \"下焦阴实\", \"阳气不足\"]}"}
+{"id": "SYM_102", "name": "压力大", "category": "全身", "description": "心理压力大，精神紧张。本案病人压力大、沮丧、长年失眠。", "first_gateway": "", "differential": "{\"关联方剂\": [\"逍遥散\", \"柴胡疏肝散\", \"甘麦大枣汤\"], \"关联病机\": [\"肝气郁结\", \"心气不足\", \"肝郁化火\"]}"}
+{"id": "SYM_103", "name": "双侧腰眼痛", "category": "胸腹", "description": "双侧腰眼部位疼痛，本案为肾虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"六味地黄丸\"], \"关联病机\": [\"清肝活血强肾\", \"肾虚\"]}"}
+{"id": "SYM_104", "name": "双牙关痛", "category": "头面", "description": "双侧颞下颌关节疼痛，张合即痛。本案为足阳明经实症，病程一周。", "first_gateway": "", "differential": "{\"关联方剂\": [\"清胃散\", \"白虎汤\"], \"关联病机\": [\"足阳明经实症\", \"阳明经热\"]}"}
+{"id": "SYM_105", "name": "双眼无神", "category": "眼象", "description": "双眼无神，眼诊肾阳反应差。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小建中汤\", \"四逆汤\"], \"关联病机\": [\"肾阳不足\", \"心神失养\"]}"}
+{"id": "SYM_106", "name": "双肋痛", "category": "胸腹", "description": "双侧肋骨外侧疼痛，本案为高血压引起，沿足少阳胆经分布。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小柴胡汤\", \"四逆汤\"], \"关联病机\": [\"少阳证\", \"肝胆湿热\", \"心阳不足\"]}"}
+{"id": "SYM_107", "name": "双肘肿大", "category": "四肢", "description": "双侧肘关节肿大，本案病人与工作环境有关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝芍药知木汤\", \"白虎加桂枝汤\"], \"关联病机\": [\"风湿热痹\", \"痰瘀互结\"]}"}
+{"id": "SYM_108", "name": "双脚跟痛", "category": "四肢", "description": "双侧足跟部位疼痛，站立或行走时加重。足跟为肾经所过之处，脚跟痛多与肾虚相关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"六味地黄丸\"], \"关联病机\": [\"肾虚\"]}"}
+{"id": "SYM_109", "name": "双腿仍无力", "category": "四肢", "description": "双腿仍然无力。本案病人双腿仍无力，摔倒两次。", "first_gateway": "", "differential": "{\"关联方剂\": [\"六味地黄丸\", \"四逆汤\", \"补中益气汤\"], \"关联病机\": [\"肾虚\", \"气血不足\"]}"}
+{"id": "SYM_110", "name": "双足仍有冷", "category": "四肢", "description": "双足仍然冰冷，本案为病人进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"四逆汤\"], \"关联病机\": [\"病人进步中\", \"寒热并结\"]}"}
+{"id": "SYM_111", "name": "双足仍稍冷", "category": "四肢", "description": "双足仍然稍微冰冷，本案为病人进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"四逆汤\"], \"关联病机\": [\"病人进步中\"]}"}
+{"id": "SYM_112", "name": "双足冰", "category": "四肢", "description": "双足感觉冰冷，本案为肾阳虚，心阳不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"肾阳虚\", \"心阳不足\"]}"}
+{"id": "SYM_113", "name": "双足冷", "category": "四肢", "description": "双足感觉寒冷。本案为上焦太热，双足冷。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_114", "name": "双足冷且麻木", "category": "四肢", "description": "双足冰冷且麻木，本案为肾阳虚、心阳不足，阴不入肾，用芍药甘草附子汤治之。", "first_gateway": "", "differential": "{\"关联方剂\": [\"芍药甘草附子汤\", \"四逆汤\"], \"关联病机\": [\"肾阳虚\", \"心阳不足\", \"芍药甘草附子汤证\"]}"}
+{"id": "SYM_115", "name": "双足冷冰", "category": "四肢", "description": "双足感觉冰冷，本案为里寒重，肾阳虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒重\", \"肾阳虚\"]}"}
+{"id": "SYM_116", "name": "双足冷双手很热", "category": "四肢", "description": "双足冰冷双手很热，本案为上虚热下寒湿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\", \"桂枝汤\"], \"关联病机\": [\"上虚热下寒湿\", \"阴阳失调\"]}"}
+{"id": "SYM_117", "name": "双足冷手温", "category": "四肢", "description": "双足冰冷而手温暖，本案为上热下焦也热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"大承气汤\"], \"关联病机\": [\"上热下焦也热\", \"寒热并结\"]}"}
+{"id": "SYM_118", "name": "双足手皆冷", "category": "四肢", "description": "双手双足皆感觉寒冷，本案为里寒，四逆汤证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒\", \"四逆汤证\"]}"}
+{"id": "SYM_119", "name": "双足温", "category": "四肢", "description": "双足温暖，本案为进步中，下焦寒湿好转。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"四逆汤\"], \"关联病机\": [\"进步中\", \"下焦寒湿好转\"]}"}
+{"id": "SYM_120", "name": "双足温有时足趾麻", "category": "四肢", "description": "双足温暖但有时足趾麻木，本案为里热仍有。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"补阳还五汤\"], \"关联病机\": [\"里热仍有\"]}"}
+{"id": "SYM_121", "name": "双足温正常", "category": "四肢", "description": "双足温度恢复正常。本案病人双足温正常。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"真武汤\"], \"关联病机\": [\"阳气恢复\", \"下焦寒减\"]}"}
+{"id": "SYM_122", "name": "双足温许多", "category": "四肢", "description": "双足温暖很多，本案为下焦寒有转热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"四逆汤\"], \"关联病机\": [\"里热仍有\", \"下焦寒转热\"]}"}
+{"id": "SYM_123", "name": "双足热", "category": "四肢", "description": "双足感觉发热，本案为心阳上浮，上热所致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"知柏地黄丸\", \"四物汤\"], \"关联病机\": [\"下焦湿热\", \"阴虚火旺\"]}"}
+{"id": "SYM_124", "name": "双足稍冷", "category": "四肢", "description": "双足稍微冰冷，本案为病人好转。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"阳脉大于阴脉\", \"病人好转\"]}"}
+{"id": "SYM_125", "name": "双足背冷", "category": "四肢", "description": "双足背部感觉寒冷。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\", \"下焦寒\"]}"}
+{"id": "SYM_126", "name": "双足较冷", "category": "四肢", "description": "双足感觉比较冷，本案为上热下寒，肾阳虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"金匮肾气丸\"], \"关联病机\": [\"肾阳虚\", \"上热下寒\"]}"}
+{"id": "SYM_127", "name": "发育不佳", "category": "全身", "description": "儿童体格瘦小、发育迟缓。脾主四肢主肌肉，脾虚则瘦小。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小建中汤\", \"六味地黄丸\"], \"关联病机\": [\"先天不足\", \"后天失调\", \"脾虚\"]}"}
+{"id": "SYM_128", "name": "口渴", "category": "饮食", "description": "自觉口中干燥，欲饮水。本案口渴喜室温。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"竹叶石膏汤\"], \"关联病机\": [\"阳明热\", \"里热\", \"阴虚\"]}"}
+{"id": "SYM_129", "name": "口渴一直渴", "category": "全身", "description": "口渴持续不止，本案为里热仍有。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"玉女煎\"], \"关联病机\": [\"里热仍有\"]}"}
+{"id": "SYM_130", "name": "口渴冷饮", "category": "饮食", "description": "口渴喜欢喝冷饮，提示胃热。患者心热无法下到小肠，反逆于上造成肺热胃热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"白虎汤\"], \"关联病机\": [\"胃热\", \"上热下寒\"]}"}
+{"id": "SYM_131", "name": "口渴减少", "category": "饮食", "description": "口渴程度减轻，饮水量减少。本案为高血压治疗后，里热减轻，心阳回复。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"五苓散\"], \"关联病机\": [\"里热减轻\", \"心阳回复\", \"肾阳虚好转\"]}"}
+{"id": "SYM_132", "name": "口渴喜冰水", "category": "饮食", "description": "口渴明显，喜饮冰水。为阳明经热盛之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\"], \"关联病机\": [\"阳明经热\"]}"}
+{"id": "SYM_133", "name": "口渴喜冷饮", "category": "全身", "description": "口渴且喜欢冷饮，本案为上热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"黄连阿胶汤\"], \"关联病机\": [\"上热下焦也热\"]}"}
+{"id": "SYM_134", "name": "口渴喜嚼冰块", "category": "饮食", "description": "口渴且喜欢咀嚼冰块。本案为减肥后仍有上焦余热，热极生寒之象。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_135", "name": "口渴喜温饮", "category": "全身", "description": "口渴但喜饮温水，饮冷则胃胀满。提示胃寒。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃寒\"]}"}
+{"id": "SYM_136", "name": "口渴多", "category": "饮食", "description": "口渴明显，饮水量多。化疗后常见。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\"], \"关联病机\": [\"阳明经热\"]}"}
+{"id": "SYM_137", "name": "口渴多温饮", "category": "全身", "description": "口渴多饮且喜欢温热饮品，本案为里寒，肾阳虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"肾气丸\"], \"关联病机\": [\"里寒\", \"肾阳虚\"]}"}
+{"id": "SYM_138", "name": "口渴尚好", "category": "饮食", "description": "口渴程度不重，尚可忍受。本案为检查甲状腺，口渴尚好。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_139", "name": "口渴无", "category": "饮食", "description": "没有口渴的感觉。本案为过重、湿热造成，口渴无。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_140", "name": "口渴有", "category": "饮食", "description": "有口渴的感觉。本案为上焦太热、湿，口渴有。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_141", "name": "口渴还好", "category": "饮食", "description": "口渴程度一般，不算严重。本案为胰脏癌，中焦湿热，但津液未大伤，故口渴还好。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"五苓散\"], \"关联病机\": [\"中焦湿热\", \"湿热内蕴\", \"津液未伤\"]}"}
+{"id": "SYM_142", "name": "口渴重喜冷饮", "category": "饮食", "description": "口渴严重，喜欢喝冷饮。本案为高血压、心阳不足，里热炽盛，故口渴重喜冷饮。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"承气汤类\"], \"关联病机\": [\"阳明经热\", \"里热炽盛\", \"心阳不足\"]}"}
+{"id": "SYM_143", "name": "口臭", "category": "头面", "description": "口中呼出臭秽之气，胃热上蒸或肝家湿热的表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阳明热\", \"胃热\", \"肝家湿热\"]}"}
+{"id": "SYM_144", "name": "口苦", "category": "全身", "description": "口中苦涩，本案为上假热下真寒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小柴胡汤\", \"温胆汤\"], \"关联病机\": [\"上假热下真寒\", \"胆热\"]}"}
+{"id": "SYM_145", "name": "口角发炎", "category": "", "description": "口角发炎（两个月），提示胃热或脾虚湿热上泛。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_146", "name": "口角炎", "category": "头面", "description": "口角发炎、红肿、疼痛，多与湿热上蒸有关。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"湿热上蒸\", \"脾胃湿热\"]}"}
+{"id": "SYM_147", "name": "口齿不清", "category": "头面", "description": "口齿发音不清楚。倪师曰：说话不清楚责之于心，因为心开窍于舌，舌为心之表。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"利膈汤\"], \"关联病机\": [\"心气不足\", \"里真寒证\"]}"}
+{"id": "SYM_148", "name": "右上唇浮肿", "category": "头面", "description": "右上唇部位浮肿。本案因装置牙套金属过敏，一戴上即刻浮肿。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_149", "name": "右下腹痛", "category": "胸腹", "description": "右下腹部疼痛，本案为里寒兼久瘀，伤痛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"桃红四物汤\"], \"关联病机\": [\"里寒\", \"久瘀\", \"伤痛\"]}"}
+{"id": "SYM_150", "name": "右乳头下陷", "category": "胸腹", "description": "右侧乳头凹陷，乳癌的典型表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"乳癌\", \"阴实\"]}"}
+{"id": "SYM_151", "name": "右乳痒", "category": "胸腹", "description": "右侧乳房发痒，为阳回头、病向愈的征兆。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"乳癌\", \"阳回头\"]}"}
+{"id": "SYM_152", "name": "右侧卵巢刺痛", "category": "胸腹", "description": "右侧卵巢部位出现刺痛感，很快消失。提示下焦仍有实，右卵巢瘤未完全消散。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\"], \"关联病机\": [\"右卵巢瘤\", \"下焦瘀血\", \"里实\"]}"}
+{"id": "SYM_153", "name": "右侧喉痛", "category": "头面", "description": "右侧喉部疼痛，本案为更年期，表虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"半夏厚朴汤\"], \"关联病机\": [\"更年期\", \"表虚\"]}"}
+{"id": "SYM_154", "name": "右侧头痛", "category": "头面", "description": "右侧头部疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小柴胡汤\"], \"关联病机\": [\"少阳头痛\", \"风邪\"]}"}
+{"id": "SYM_155", "name": "右侧肾石点反应", "category": "耳象", "description": "耳诊右侧肾石点有反应，本案为肾结石。", "first_gateway": "", "differential": "{\"关联方剂\": [\"石韦散\", \"八正散\"], \"关联病机\": [\"肾结石\"]}"}
+{"id": "SYM_156", "name": "右侧胆石点反应", "category": "耳象", "description": "耳诊右侧胆石点有反应，本案为胆结石。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大柴胡汤\", \"四逆散\"], \"关联病机\": [\"胆结石\"]}"}
+{"id": "SYM_157", "name": "右太阳穴痛", "category": "头面", "description": "右侧太阳穴部位疼痛，本案为里寒兼久瘀。", "first_gateway": "", "differential": "{\"关联方剂\": [\"川芎茶调散\", \"桂枝汤\"], \"关联病机\": [\"里寒\", \"久瘀\"]}"}
+{"id": "SYM_158", "name": "右手无名指硬节", "category": "四肢", "description": "右手无名指出现硬节，本案为类风湿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"乌头汤\", \"HT-100历节丸\"], \"关联病机\": [\"风寒湿三痺\"]}"}
+{"id": "SYM_159", "name": "右眼静脉问题", "category": "头面", "description": "眼部静脉出现问题，本案患者服用 baby aspirin（阿司匹林）。可能与血瘀或循环障碍相关。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_160", "name": "右耳听力衰减", "category": "头面", "description": "右侧耳朵听力减退，本案为里寒重症，体力下降后发生。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"磁朱丸\"], \"关联病机\": [\"肾虚\", \"里寒\"]}"}
+{"id": "SYM_161", "name": "右耳鸣如鼓声", "category": "头面", "description": "右耳耳鸣，声音如鼓声。本案为鼻炎造成，右耳鸣如鼓声。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_162", "name": "右肋下痛", "category": "胸腹", "description": "右侧胁肋下方疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肝损伤\", \"肝郁\"]}"}
+{"id": "SYM_163", "name": "右肋偶痛", "category": "胸腹", "description": "右侧肋骨部位偶尔疼痛，本案为更年期，脏躁。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"柴胡疏肝散\"], \"关联病机\": [\"更年期\", \"脏躁\"]}"}
+{"id": "SYM_164", "name": "右肩不举", "category": "", "description": "右肩无法向后举，提示肩部经络气血阻滞。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_165", "name": "右肩痛", "category": "四肢", "description": "右肩部疼痛，可放射至肩胛骨。胆结石常见放射痛部位。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胆结石\"]}"}
+{"id": "SYM_166", "name": "右胸刺痛", "category": "胸腹", "description": "右胸内偶尔刺痛（stabbing），非心悸动（throbbing）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"乌梅丸\"], \"关联病机\": [\"心包痰湿\"]}"}
+{"id": "SYM_167", "name": "右脉大于左脉", "category": "脉象", "description": "右手脉象大于左手，女性异常脉象。正常女性应左脉大于右脉（血胜于气），右大于左提示气胜血。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\"], \"关联病机\": [\"气胜血\", \"上热下寒\", \"心血不足\"]}"}
+{"id": "SYM_168", "name": "右脉寸上寸", "category": "脉象", "description": "右脉在寸口部位向上延伸，为甲状腺亢进之脉象。本案为甲状腺脉象亢进。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_169", "name": "右脸刺痛", "category": "头面", "description": "右侧面部刺痛，三叉神经分布区域疼痛，吹风则加重。", "first_gateway": "", "differential": "{\"关联方剂\": [\"葛根汤\"], \"关联病机\": [\"风寒束表\", \"表证未解\"]}"}
+{"id": "SYM_170", "name": "右脸无汗", "category": "汗", "description": "脸部左侧撞伤后，右脸无汗，右半身汗亦少。二诊时针灸取左合谷、右太阳、右颊车、右地仓针对此证。三诊时右额上方有潮湿感，提示好转。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"气血瘀滞\", \"经络不通\"]}"}
+{"id": "SYM_171", "name": "右腰肾区痛", "category": "全身", "description": "白天工作时忘记喝水则右腰肾区会痛，喝了水就好些。提示肾阴不足。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阴不足\"]}"}
+{"id": "SYM_172", "name": "右腿无力", "category": "四肢", "description": "右腿时感无力，痛感时而在皮时而在关节。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": \"[]\"}"}
+{"id": "SYM_173", "name": "右膏肓痛", "category": "全身", "description": "右侧膏肓部位疼痛。膏肓穴位于背部第四胸椎棘突下旁开3寸，为病邪深伏之处。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"里寒\", \"风寒湿痹\"]}"}
+{"id": "SYM_174", "name": "右膝伤口", "category": "四肢", "description": "右膝关节部位有伤口，登山时撞伤。本案为真寒假热患者，皮肤薄易破裂。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_175", "name": "右膝痛", "category": "四肢", "description": "右膝盖部位疼痛，本案为摔倒后受伤所致。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"外伤\", \"跌打损伤\", \"经气不通\"]}"}
+{"id": "SYM_176", "name": "后肩胛骨痛", "category": "四肢", "description": "后肩胛骨部位疼痛，本案为里寒兼久瘀。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"葛根汤\"], \"关联病机\": [\"里寒\", \"久瘀\"]}"}
+{"id": "SYM_177", "name": "后脑痠", "category": "头面", "description": "后脑痠，似有东西堵住，后脑属太阳经，可用葛根治疗。", "first_gateway": "", "differential": "{\"关联方剂\": [\"葛根汤\"], \"关联病机\": [\"太阳经不利\"]}"}
+{"id": "SYM_178", "name": "后项强", "category": "四肢", "description": "后颈部强硬疼痛，活动不利。可能与太阳表证、津液不足或督脉受阻有关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"葛根汤\", \"桂枝加葛根汤\"], \"关联病机\": [\"太阳表证\", \"津液不足\", \"督脉受阻\"]}"}
+{"id": "SYM_179", "name": "吐出白黏稠痰", "category": "全身", "description": "服药后吐出许多透明、白黏稠痰，为痰饮排出的表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"HT-42控涎丹\", \"藜芦甘草汤\"], \"关联病机\": [\"胸中积痰\", \"肺中痰水\"]}"}
+{"id": "SYM_180", "name": "吐气困难", "category": "全身", "description": "吐气困难，本案为肺有问题。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"葶苈大枣泻肺汤\"], \"关联病机\": [\"肺有问题\", \"痰饮\"]}"}
+{"id": "SYM_181", "name": "吞咽困难", "category": "头面", "description": "吞咽食物或水时出现困难。本案病人吞咽仍有困难，用利膈汤（炮附子、半夏、栀子+南星）治疗。", "first_gateway": "", "differential": "{\"关联方剂\": [\"利膈汤\", \"半夏厚朴汤\", \"旋覆代赭汤\"], \"关联病机\": [\"心气不足\", \"痰气交阻\"]}"}
+{"id": "SYM_182", "name": "听到水声欲小便", "category": "二便", "description": "听到水声则想要小便，倪师称之为\"同气相求\"。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"中焦有寒水\"]}"}
+{"id": "SYM_183", "name": "吸入困难", "category": "全身", "description": "吸气困难，本案为肾不能纳气，吸入难为肾的问题。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"肾气丸\"], \"关联病机\": [\"肾不得肺津\", \"里寒重\"]}"}
+{"id": "SYM_184", "name": "呼吸困难", "category": "胸腹", "description": "呼吸费力，气不够用。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肺家阴实\", \"肺缩小\"]}"}
+{"id": "SYM_185", "name": "呼吸短", "category": "全身", "description": "呼吸短促，本案为肺积水。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"葶苈大枣泻肺汤\"], \"关联病机\": [\"肺积水\", \"上假热下真寒\"]}"}
+{"id": "SYM_186", "name": "命门痛", "category": "四肢", "description": "后背督脉命门穴部位疼痛，月经期出现。提示督脉受阻，阳虚造成。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"麻黄附子细辛汤\"], \"关联病机\": [\"督脉受阻\", \"阳虚\", \"肾气不足\"]}"}
+{"id": "SYM_187", "name": "咳嗽", "category": "胸腹", "description": "咳嗽，可伴有痰或无痰，根据寒热虚实不同而有不同表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻杏甘石汤\", \"大青龙汤\", \"小青龙汤\"], \"关联病机\": [\"肺热\", \"肝家湿热\", \"肺寒\"]}"}
+{"id": "SYM_188", "name": "咳嗽无痰", "category": "胸腹", "description": "咳嗽无痰或少痰。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桔梗甘草汤\"], \"关联病机\": [\"肺热\", \"肺阴不足\"]}"}
+{"id": "SYM_189", "name": "咳嗽有痰咳不出", "category": "头面", "description": "咳嗽伴有痰但难以咳出。本案病人上次治疗后出现咳嗽有痰咳不出，西医诊断支气管炎用抗生素无效。", "first_gateway": "", "differential": "{\"关联方剂\": [\"苓甘五味姜辛汤\", \"甘草干姜汤\", \"二陈汤\"], \"关联病机\": [\"肺阳不足\", \"痰饮阻肺\"]}"}
+{"id": "SYM_190", "name": "咳痰喉痒", "category": "头面", "description": "咳嗽伴有痰，咽喉发痒。本案为乳癌复诊，水气上逆所致。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_191", "name": "咽中如有炙脔", "category": "头面", "description": "咽喉中如有烤肉块堵塞的感觉，咯之不出，咽之不下。", "first_gateway": "", "differential": "{\"关联方剂\": [\"半夏厚朴汤\"], \"关联病机\": [\"痰气郁结\"]}"}
+{"id": "SYM_192", "name": "咽哑", "category": "头面", "description": "咽喉不适导致说话声音嘶哑，本案为肾阳不足，稍说话即咽哑。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄附子细辛汤\", \"麦门冬汤\"], \"关联病机\": [\"肾阳不足\", \"阴虚火旺\"]}"}
+{"id": "SYM_193", "name": "唇内水疱", "category": "头面", "description": "口唇内侧出现水疱，心热反逆的表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心热反逆\", \"心火上炎\"]}"}
+{"id": "SYM_194", "name": "唇肿", "category": "头面", "description": "口唇部位肿胀，白色唇肿。本案因金属过敏导致，牙套一戴上右上唇即刻浮肿。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_195", "name": "喉干", "category": "头面", "description": "咽喉干燥，本案为感冒后久未愈，阳明经热，津液不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"麦门冬汤\"], \"关联病机\": [\"白虎汤证\", \"阳明经热\", \"津液不足\"]}"}
+{"id": "SYM_196", "name": "喉有梗物", "category": "头面", "description": "咽喉部有异物感，吞之不下吐之不出。为痰气郁结之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"半夏厚朴汤\"], \"关联病机\": [\"心气郁结\"]}"}
+{"id": "SYM_197", "name": "喉痛", "category": "头面", "description": "咽喉部位疼痛。多因外感、肺热、上焦燥热等引起。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_198", "name": "喘清痰", "category": "全身", "description": "气喘且咳出清稀痰液，本案为上焦肺力量不够。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"小青龙汤\"], \"关联病机\": [\"上焦肺力量不够\", \"痰水\"]}"}
+{"id": "SYM_199", "name": "喝酒过量", "category": "全身", "description": "饮酒过量，本案为酒客病，中焦湿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"葛花解酲汤\", \"五苓散\"], \"关联病机\": [\"酒客病\", \"中焦湿\"]}"}
+{"id": "SYM_200", "name": "四肢无力", "category": "四肢", "description": "四肢无力，肢体倦怠。本案ALS病人四肢无力。倪师曰：手的力量由心脏管，脚的力量由肾脏管。", "first_gateway": "", "differential": "{\"关联方剂\": [\"补中益气汤\", \"六味地黄丸\", \"四逆汤\"], \"关联病机\": [\"脾虚\", \"肾虚\", \"气血不足\"]}"}
+{"id": "SYM_201", "name": "声哑", "category": "头面", "description": "声音嘶哑，本案为肾阳不足，稍说话即咽哑。过去声哑现已好转。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄附子细辛汤\", \"麦门冬汤\"], \"关联病机\": [\"肾阳不足\", \"阴虚火旺\"]}"}
+{"id": "SYM_202", "name": "外痔", "category": "二便", "description": "外痔，便后出血，时有未尽之感。治疗需先将大便软化易排，病情才不致反复。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大承气汤\"], \"关联病机\": [\"燥屎内结\"]}"}
+{"id": "SYM_203", "name": "多发性骨髓瘤", "category": "全身", "description": "多发性骨髓瘤，本案为48岁瘦小男性，曾做多种切片及西药治疗。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"四逆汤\"], \"关联病机\": [\"里寒重症\", \"阴实\"]}"}
+{"id": "SYM_204", "name": "多梦", "category": "睡眠", "description": "睡眠中多梦，本案为里寒重，心阳不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"归脾汤\", \"安神定志丸\"], \"关联病机\": [\"里寒重\", \"心阳不足\"]}"}
+{"id": "SYM_205", "name": "夜尿", "category": "二便", "description": "夜间因尿意醒来，本案为夜尿有一两次。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"缩泉丸\"], \"关联病机\": [\"表虚里寒\"]}"}
+{"id": "SYM_206", "name": "夜睡时身冷", "category": "寒热", "description": "夜间睡眠时身体感觉寒冷，本案为里寒重症。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒\", \"阳虚\"]}"}
+{"id": "SYM_207", "name": "夜间时冷时热", "category": "寒热", "description": "夜间身体阵发性发冷或发热，时冷时热。本案病人夜间睡时，时冷时热，伴更年期身热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小柴胡汤\", \"桂枝汤\", \"二仙汤\"], \"关联病机\": [\"少阳证\", \"更年期\", \"阴阳不调\"]}"}
+{"id": "SYM_208", "name": "夜间燥热", "category": "寒热", "description": "夜间身体燥热不适。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阴虚\", \"阴阳不和\"]}"}
+{"id": "SYM_209", "name": "夜间痒甚", "category": "头面", "description": "夜间瘙痒加重。本案为皮肤过敏，夜间尤差。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_210", "name": "夜间频尿", "category": "二便", "description": "夜间频繁小便，本案为2次。真寒假热，下焦虚寒所致。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_211", "name": "大便一日二次", "category": "二便", "description": "大便一日两次，排便通畅。本案为胰脏癌治疗后，腑气通畅，湿热减轻之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"白虎汤\"], \"关联病机\": [\"中焦湿热减轻\", \"腑气通畅\", \"胰脏癌好转\"]}"}
+{"id": "SYM_212", "name": "大便三天一次", "category": "二便", "description": "大便三天一次，本案为大肠便秘产生燥气。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大承气汤\", \"大柴胡汤\"], \"关联病机\": [\"上热下焦也热\", \"寒热并结\"]}"}
+{"id": "SYM_213", "name": "大便不尽出", "category": "二便", "description": "大便不尽出，肚子不痛。三诊时出现此症状。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"中焦气滞\", \"胃肠燥热\"]}"}
+{"id": "SYM_214", "name": "大便不规则", "category": "二便", "description": "大便不规则，时好时坏。本案病人大便不规则。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻子仁丸\", \"黄芪汤\", \"润肠丸\"], \"关联病机\": [\"脾虚\", \"肠燥\", \"气滞\"]}"}
+{"id": "SYM_215", "name": "大便二日一行", "category": "二便", "description": "大便二日一行，排气多。停经妇女须令其至少一日大便二次，助排净奶水。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小承气汤\"], \"关联病机\": [\"热实证\", \"宿食\"]}"}
+{"id": "SYM_216", "name": "大便仍有秘", "category": "二便", "description": "大便仍然秘结，本案为进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大承气汤\", \"麻子仁丸\"], \"关联病机\": [\"进步中\"]}"}
+{"id": "SYM_217", "name": "大便如鞭", "category": "二便", "description": "大便形状细如鞭，为内有燥屎、大肠通道阻滞所致，便出不畅有未尽之感。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大承气汤\"], \"关联病机\": [\"燥屎内结\"]}"}
+{"id": "SYM_218", "name": "大便很好", "category": "二便", "description": "大便状况很好，本案为病人好转。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"大承气汤\"], \"关联病机\": [\"阳脉大于阴脉\", \"病人好转\"]}"}
+{"id": "SYM_219", "name": "大便时不易出", "category": "二便", "description": "大便每日一行但时不易排出，排便困难。患者伴有心血不足、血虚等。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"麻子仁丸\"], \"关联病机\": [\"血虚便秘\", \"气虚便秘\", \"津亏便秘\"]}"}
+{"id": "SYM_220", "name": "大便时每日一次时隔日", "category": "二便", "description": "大便有时每日一次，有时隔日一次，排便不规律。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻子仁丸\", \"黄芪汤\", \"润肠丸\"], \"关联病机\": [\"脾虚\", \"肠燥\", \"气滞\"]}"}
+{"id": "SYM_221", "name": "大便时隔日", "category": "二便", "description": "大便隔日一次，因进食量减少所致。本案为减肥后，吃不多导致大便时隔日。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_222", "name": "大便未尽出", "category": "二便", "description": "大便排出不畅，感觉未排干净，属腑实气滞。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大承气汤\", \"厚朴三物汤\"], \"关联病机\": [\"阳明腑实\", \"中焦湿热\", \"气滞\"]}"}
+{"id": "SYM_223", "name": "大便正常", "category": "二便", "description": "大便恢复正常，本案为病人进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"大承气汤\"], \"关联病机\": [\"病人进步中\"]}"}
+{"id": "SYM_224", "name": "大便每日行", "category": "二便", "description": "大便每日一次，排便正常。本案病人大便好转每日行（之前便秘一星期一次）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"参苓白术散\", \"麻子仁丸\"], \"关联病机\": [\"脾虚\", \"肠燥好转\"]}"}
+{"id": "SYM_225", "name": "大便浅咖啡色", "category": "二便", "description": "大便呈浅咖啡色，本案为胃家寒证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"理中汤\", \"黄土汤\"], \"关联病机\": [\"胃家寒证\", \"消化道出血\"]}"}
+{"id": "SYM_226", "name": "大便秘（两天一次）", "category": "二便", "description": "大便干燥秘结，两日一次，排便困难。多因胃热肠燥，津液亏损所致。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_227", "name": "大便稀", "category": "二便", "description": "大便稀软不成形，本案一日2-3次稀便。", "first_gateway": "", "differential": "{\"关联方剂\": [\"参苓白术散\", \"理中汤\"], \"关联病机\": [\"脾虚湿盛\", \"中焦虚寒\"]}"}
+{"id": "SYM_228", "name": "大便稍利", "category": "二便", "description": "大便稍稀，本案为进步许多。", "first_gateway": "", "differential": "{\"关联方剂\": [\"五苓散\", \"理中汤\"], \"关联病机\": [\"进步许多\"]}"}
+{"id": "SYM_229", "name": "大肠癌", "category": "胸腹", "description": "大肠恶性肿瘤，手术化疗后易转移至肺。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肺家阴实\"]}"}
+{"id": "SYM_230", "name": "太溪穴附近疼痛", "category": "穴位", "description": "太溪穴（肾经原穴）附近疼痛，本案为膀胱结石，耳诊肾结石点按之疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"猪苓汤\", \"麻黄附子细辛汤\"], \"关联病机\": [\"膀胱结石\", \"肾阳不足\"]}"}
+{"id": "SYM_231", "name": "失去平衡约5次", "category": "全身", "description": "失去平衡感，约5次。倪师曰：失去平衡可见于金属中毒如铅汞，生硫磺可解金属毒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"天麻钩藤饮\", \"六味地黄丸\", \"补中益气汤\"], \"关联病机\": [\"肝风内动\", \"金属中毒\", \"气血不足\"]}"}
+{"id": "SYM_232", "name": "失眠", "category": "睡眠", "description": "不易入睡或睡不长。心血不足则神不入心，痰饮扰心亦致失眠。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"栀子豉汤\"], \"关联病机\": [\"心血不足\", \"肾阳上浮\", \"痰饮扰心\"]}"}
+{"id": "SYM_233", "name": "头发掉很多", "category": "头面", "description": "头发脱落很多，本案为肾虚，上虚热下寒湿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\", \"肾气丸\"], \"关联病机\": [\"上虚热下寒湿\", \"肾虚\"]}"}
+{"id": "SYM_234", "name": "头昏", "category": "头面", "description": "头部昏沉感，本案为里寒重，清阳不升。", "first_gateway": "", "differential": "{\"关联方剂\": [\"半夏白术天麻汤\", \"益气聪明汤\"], \"关联病机\": [\"里寒重\", \"清阳不升\"]}"}
+{"id": "SYM_235", "name": "头昏项强", "category": "头面", "description": "头昏且颈项强硬，本案为鼻炎很重造成。", "first_gateway": "", "differential": "{\"关联方剂\": [\"HT-39鼻渊丸\", \"葛根汤\"], \"关联病机\": [\"鼻炎固执\"]}"}
+{"id": "SYM_236", "name": "头晕", "category": "头面", "description": "头晕，本案为服药后药瞑眩，代表药作用到了。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"苓桂术甘汤\"], \"关联病机\": [\"表虚\", \"药瞑眩\"]}"}
+{"id": "SYM_237", "name": "头痛", "category": "头面", "description": "头痛为临床常见症状，倪师用白附子治疗风痛（头痛游走不定）尤其好。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\"], \"关联病机\": [\"太阳中风\"]}"}
+{"id": "SYM_238", "name": "头胀", "category": "头面", "description": "头部胀满不适感。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阳不入阴\", \"肝阳上亢\"]}"}
+{"id": "SYM_239", "name": "头顶肉瘤", "category": "头面", "description": "头顶长肉瘤，表面平滑，近来变大。本案为肝积肥气，燥热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"海藻玉壶汤\"], \"关联病机\": [\"肝积肥气\", \"痰湿凝聚\"]}"}
+{"id": "SYM_240", "name": "如砂子磨擦感", "category": "头面", "description": "感觉像砂子磨擦一样，本案为金属过敏导致眼袋红肿、唇肿时的伴随感觉。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_241", "name": "子宫肌瘤", "category": "全身", "description": "子宫肌瘤，本案为55岁女性，因有子宫肌瘤尚未绝经。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"桃红四物汤\"], \"关联病机\": [\"里寒湿\", \"少阴症\"]}"}
+{"id": "SYM_242", "name": "寸关有脉且数", "category": "脉象", "description": "寸关部位有脉且数，本案为痰饮。", "first_gateway": "", "differential": "{\"关联方剂\": [\"藜芦甘草汤\", \"白虎汤\"], \"关联病机\": [\"痰饮\", \"有热\"]}"}
+{"id": "SYM_243", "name": "寸脉大于尺脉", "category": "脉象", "description": "寸脉比尺脉强，本案为上盛下虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡汤\", \"金匮肾气丸\"], \"关联病机\": [\"进步中\", \"上盛下虚\"]}"}
+{"id": "SYM_244", "name": "寸脉沉无力", "category": "脉象", "description": "寸部脉沉而无力，提示心气不伸。高壮之人脉却很小，脉与体型不合。", "first_gateway": "", "differential": "{\"关联方剂\": [\"乌梅丸\"], \"关联病机\": [\"心气不伸\", \"心包痰湿\"]}"}
+{"id": "SYM_245", "name": "对宠物过敏", "category": "全身", "description": "对宠物过敏，本案为肺中寒湿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"玉屏风散\"], \"关联病机\": [\"肺中寒湿\", \"过敏\"]}"}
+{"id": "SYM_246", "name": "小便中黄", "category": "", "description": "小便呈中黄色，提示下焦湿热或阴虚内热。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_247", "name": "小便中黄深黄", "category": "二便", "description": "小便颜色中等偏黄至深黄。本案为阳明经热，白虎汤证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"五苓散\"], \"关联病机\": [\"阳明经热\", \"湿热下注\"]}"}
+{"id": "SYM_248", "name": "小便仍频数", "category": "二便", "description": "小便仍然频繁，本案为里热仍有。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"五苓散\"], \"关联病机\": [\"里热仍有\"]}"}
+{"id": "SYM_249", "name": "小便困难", "category": "二便", "description": "排尿困难，需用力才能排出。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\", \"膀胱气化不利\"]}"}
+{"id": "SYM_250", "name": "小便时深时淡", "category": "二便", "description": "小便颜色时深时淡，变化不定。本案为胰脏癌，中焦湿热，湿热下注，故小便时深时淡。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"五苓散\", \"肾气丸\"], \"关联病机\": [\"中焦湿热\", \"湿热下注\", \"肾气不足\"]}"}
+{"id": "SYM_251", "name": "小便泡多", "category": "", "description": "小便泡沫多，提示小便中有机物或蛋白质含量偏高，或下焦湿热。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_252", "name": "小便泡沫", "category": "二便", "description": "小便有泡沫，量多，多与湿热下注或肾虚有关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"五苓散\"], \"关联病机\": [\"湿热下注\", \"肾虚\"]}"}
+{"id": "SYM_253", "name": "小便淡白", "category": "二便", "description": "小便颜色清淡、色白，为寒象，提示体内阳气不足，寒邪在下焦。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"真武汤\"], \"关联病机\": [\"里寒\", \"肾阳虚\", \"下焦寒湿\"]}"}
+{"id": "SYM_254", "name": "小便淡白清", "category": "二便", "description": "小便颜色淡白清澈，本案为寒证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"五苓散\"], \"关联病机\": [\"进步中\", \"寒证\"]}"}
+{"id": "SYM_255", "name": "小便淡黄", "category": "二便", "description": "小便颜色淡黄，本案为过重、湿热造成，小便淡黄。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_256", "name": "小便淡黄时淡白", "category": "二便", "description": "小便颜色淡黄，有时呈淡白色。本案病人小便淡黄时淡白。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"真武汤\", \"五苓散\"], \"关联病机\": [\"下焦寒\", \"肾阳虚\", \"寒湿\"]}"}
+{"id": "SYM_257", "name": "小便深黄", "category": "二便", "description": "小便颜色深黄。可见于劳力工作出汗多者（汗尿同源），亦可见于内有宿便。需鉴别。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"宿食\", \"汗尿同源\"]}"}
+{"id": "SYM_258", "name": "小便清", "category": "", "description": "小便颜色清澈，提示下焦无湿热，或肾阳不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"金匮肾气丸\", \"右归丸\"], \"关联病机\": [\"下焦寒\", \"肾阳不足\"]}"}
+{"id": "SYM_259", "name": "小便量增多", "category": "二便", "description": "小便量较之前增多，水液代谢改善。本案为高血压肾病治疗后，心阳回复，水液代谢改善。", "first_gateway": "", "differential": "{\"关联方剂\": [\"五苓散\", \"四逆汤\"], \"关联病机\": [\"肾阳虚好转\", \"心阳回复\", \"水液代谢改善\"]}"}
+{"id": "SYM_260", "name": "小便量少", "category": "二便", "description": "小便量减少，本案为肾衰竭，腹水。", "first_gateway": "", "differential": "{\"关联方剂\": [\"胃苓汤\", \"五苓散\"], \"关联病机\": [\"肾衰竭\", \"腹水\"]}"}
+{"id": "SYM_261", "name": "小便黄混浊", "category": "二便", "description": "小便颜色黄且混浊，本案为体内寒湿，色黄混浊。", "first_gateway": "", "differential": "{\"关联方剂\": [\"五苓散\", \"猪苓汤\"], \"关联病机\": [\"下焦湿热\", \"寒湿\"]}"}
+{"id": "SYM_262", "name": "小腿周围觉冰", "category": "四肢", "description": "小腿周围感觉冰冷，本案为更年期，阳虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"四逆汤\"], \"关联病机\": [\"更年期\", \"阳虚\"]}"}
+{"id": "SYM_263", "name": "小腿水肿", "category": "四肢", "description": "小腿部位水肿，本案为六个月小腿水肿，二诊已退掉。", "first_gateway": "", "differential": "{\"关联方剂\": [\"五苓散\", \"真武汤\"], \"关联病机\": [\"脾虚湿盛\", \"肾阳虚\"]}"}
+{"id": "SYM_264", "name": "小腿痒", "category": "四肢", "description": "小腿部位瘙痒，本案为肝排毒素。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归饮子\", \"消风散\"], \"关联病机\": [\"肝排毒\", \"血虚风燥\"]}"}
+{"id": "SYM_265", "name": "少放屁", "category": "胸腹", "description": "排气减少，本案为大肠有堵塞。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大黄牡丹皮汤\", \"承气汤\"], \"关联病机\": [\"大肠堵塞\", \"肠痈\"]}"}
+{"id": "SYM_266", "name": "尺部无脉", "category": "脉象", "description": "尺部无脉搏，本案为阳虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"肾气丸\"], \"关联病机\": [\"阳虚\", \"肾虚\"]}"}
+{"id": "SYM_267", "name": "尾闾痛", "category": "四肢", "description": "尾闾部位疼痛，本案为车祸外伤所致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桃红四物汤\", \"桂枝茯苓丸\"], \"关联病机\": [\"外伤\", \"瘀血\"]}"}
+{"id": "SYM_268", "name": "尿急", "category": "二便", "description": "小便急迫感，与频尿相伴出现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"下焦寒\", \"肾家寒湿\"]}"}
+{"id": "SYM_269", "name": "尿酸", "category": "全身", "description": "血中尿酸过高，可致关节疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\", \"湿浊内停\"]}"}
+{"id": "SYM_270", "name": "左乳下方痛", "category": "胸腹", "description": "左侧乳房下方区域疼痛，可能与胰区不适相关。倪师认为此区域不适可能与胰区过酸有关。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_271", "name": "左乳溃烂", "category": "胸腹", "description": "左侧乳房溃烂，乳癌晚期表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"乳癌\", \"阴实\"]}"}
+{"id": "SYM_272", "name": "左乳癌", "category": "全身", "description": "左侧乳腺癌第一期，乳头挤出黑色液体。本案为心阳上浮，奶水淤积所致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"牡蛎汤\"], \"关联病机\": [\"上热\", \"心阳上浮\", \"奶水淤积\"]}"}
+{"id": "SYM_273", "name": "左乳硬块", "category": "胸腹", "description": "左侧乳房内硬块。本案复诊左乳中硬块较软了。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡疏肝散\", \"海藻玉壶汤\"], \"关联病机\": [\"乳癌\", \"肝气郁\", \"痰气交阻\"]}"}
+{"id": "SYM_274", "name": "左侧麻痹", "category": "四肢", "description": "左侧肢体麻痹不遂，活动不利。", "first_gateway": "", "differential": "{\"关联方剂\": [\"补阳还五汤\"], \"关联病机\": [\"中风后遗症\", \"阳不足\"]}"}
+{"id": "SYM_275", "name": "左半身冷", "category": "全身", "description": "身体左侧感觉寒冷，右侧正常。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\"], \"关联病机\": [\"血虚\", \"当归四逆汤证\"]}"}
+{"id": "SYM_276", "name": "左后头痛", "category": "头面", "description": "左侧后头部疼痛，本案为里寒兼久瘀。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"葛根汤\"], \"关联病机\": [\"里寒\", \"久瘀\"]}"}
+{"id": "SYM_277", "name": "左小腿肚抽筋", "category": "四肢", "description": "左小腿肚部位抽筋，半夜严重。本案为真寒假热，减肥后体重减少50磅以上。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_278", "name": "左少腹硬块", "category": "全身", "description": "左少腹有条索状硬块，触诊可及，随月经周期变化（月经来时变大，月经后变小），可能在卵巢上。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四物汤\", \"小柴胡汤\"], \"关联病机\": [\"奶水停聚中焦\", \"里寒\", \"下焦寒\", \"瘀血\"]}"}
+{"id": "SYM_279", "name": "左手外关痛", "category": "四肢", "description": "左手外关穴（三焦经穴位）疼痛，月经期出现。提示三焦经不畅，左侧主血。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\"], \"关联病机\": [\"三焦经不畅\", \"阳虚\", \"瘀血\"]}"}
+{"id": "SYM_280", "name": "左手臂外侧麻", "category": "四肢", "description": "左手臂外侧麻木，时好时麻。本案为手三阳经虚症。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"补阳还五汤\"], \"关联病机\": [\"手三阳经虚症\", \"血虚\"]}"}
+{"id": "SYM_281", "name": "左眼失明", "category": "头面", "description": "左眼视力丧失。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肝病\", \"阴实\"]}"}
+{"id": "SYM_282", "name": "左眼过干", "category": "眼象", "description": "左眼过于干燥，本案为肝血不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"杞菊地黄丸\", \"一贯煎\"], \"关联病机\": [\"肝血不足\", \"肾阴不足\"]}"}
+{"id": "SYM_283", "name": "左耳发炎", "category": "头面", "description": "左耳部位发炎，本案为鼻炎仍有一点，造成左耳如发炎。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_284", "name": "左肋下时痛", "category": "胸腹", "description": "左侧肋骨下间歇性疼痛。本案自显影扫描后开始痛，提示显影剂可能损伤经络。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"四逆散\"], \"关联病机\": [\"肝气不舒\", \"气滞\", \"显影剂损伤\"]}"}
+{"id": "SYM_285", "name": "左肋下痛", "category": "胸腹", "description": "左侧肋骨下方疼痛，本案为病患平时有喝咖啡。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"四逆散\"], \"关联病机\": [\"表虚里寒\", \"胰脏炎\"]}"}
+{"id": "SYM_286", "name": "左肋偶尔痛", "category": "胸腹", "description": "左侧肋骨部位偶尔疼痛，本案为饮酒造成。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"四逆散\"], \"关联病机\": [\"脾受损\", \"酸克甘\"]}"}
+{"id": "SYM_287", "name": "左肋又痛", "category": "胸腹", "description": "左侧肋骨部位又疼痛，本案为偶尔发一次。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"四逆散\"], \"关联病机\": [\"肝热\"]}"}
+{"id": "SYM_288", "name": "左肋痛去", "category": "胸腹", "description": "左侧肋骨部位疼痛消失，本案为病人进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"旋覆代赭汤\"], \"关联病机\": [\"病人进步中\"]}"}
+{"id": "SYM_289", "name": "左肋突出", "category": "胸腹", "description": "左侧肋骨突出。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"中风后遗症\"]}"}
+{"id": "SYM_290", "name": "左肩麻痛", "category": "四肢", "description": "左肩部麻木疼痛，本案为里寒兼久瘀。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"葛根汤\"], \"关联病机\": [\"里寒\", \"久瘀\"]}"}
+{"id": "SYM_291", "name": "左胁下痛", "category": "胸腹", "description": "左侧胁肋下方疼痛，可放射至后背，夜间加重。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\"], \"关联病机\": [\"胰脏癌\", \"阴实\", \"肝郁\"]}"}
+{"id": "SYM_292", "name": "左胫内侧痛", "category": "四肢", "description": "左胫骨内侧疼痛，月经期出现。提示督脉受阻，阳虚寒凝。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"麻黄附子细辛汤\"], \"关联病机\": [\"督脉受阻\", \"阳虚\", \"寒凝\"]}"}
+{"id": "SYM_293", "name": "左脉小右脉大", "category": "脉象", "description": "女子应左脉大于右（左主血右主气），左脉小右脉大为血虚之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\"], \"关联病机\": [\"血虚\"]}"}
+{"id": "SYM_294", "name": "左脸发青春痘", "category": "头面", "description": "左脸隔一阵子就发很多青春痘，左脸属肝，为虚热、肝热之象。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": [\"虚热\", \"肝热\"]}"}
+{"id": "SYM_295", "name": "左腋下淋巴结肿", "category": "四肢", "description": "左侧腋下淋巴结肿大。本案复诊感觉左腋下的淋巴结肿已缩小。", "first_gateway": "", "differential": "{\"关联方剂\": [\"消瘰丸\", \"海藻玉壶汤\"], \"关联病机\": [\"淋巴癌\", \"痰气交阻\", \"肝气郁\"]}"}
+{"id": "SYM_296", "name": "左腋淋巴结肿", "category": "全身", "description": "左腋很里面的淋巴结肿大，触诊表面光滑、可移动，为良性。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"奶水累积乳房\"]}"}
+{"id": "SYM_297", "name": "左膝痛", "category": "四肢", "description": "左侧膝关节疼痛，本案为开过刀，需活血化瘀。", "first_gateway": "", "differential": "{\"关联方剂\": [\"酸枣仁汤\", \"四物汤\"], \"关联病机\": [\"清肝活血强肾\"]}"}
+{"id": "SYM_298", "name": "左膝痠痛", "category": "", "description": "左膝走路会痠痛，提示膝部经络气血不畅。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_299", "name": "左足丘墟麻", "category": "四肢", "description": "左足丘墟穴部位麻木，本案为饮酒造成。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"柴胡汤\"], \"关联病机\": [\"胆经问题\", \"酒毒\"]}"}
+{"id": "SYM_300", "name": "左足冷", "category": "四肢", "description": "左侧足部感觉寒冷。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\"], \"关联病机\": [\"血虚\", \"下焦寒\"]}"}
+{"id": "SYM_301", "name": "左足掌内侧痛", "category": "四肢", "description": "左足掌内侧疼痛，沿足太阴脾经分布。本案为摔倒后受伤。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"脾经受伤\", \"外伤\"]}"}
+{"id": "SYM_302", "name": "左足无力", "category": "四肢", "description": "左侧足部无力，行走困难。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"中风后遗症\", \"阳不足\"]}"}
+{"id": "SYM_303", "name": "左足涌泉痛", "category": "四肢", "description": "左足涌泉穴处疼痛。涌泉为肾经井穴，痛提示肾气不足或寒湿阻滞。本案持续几个月。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"真武汤\"], \"关联病机\": [\"肾虚\", \"肾气不足\", \"寒湿\"]}"}
+{"id": "SYM_304", "name": "左足趾甲黑", "category": "四肢", "description": "左侧足趾甲变黑，瘀血的表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"瘀血\", \"阴实\"]}"}
+{"id": "SYM_305", "name": "左足踝痛", "category": "四肢", "description": "左侧足踝关节疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\", \"风寒湿痹\"]}"}
+{"id": "SYM_306", "name": "巴金森氏症", "category": "全身", "description": "巴金森氏症，本案为74岁女性患者。", "first_gateway": "", "differential": "{\"关联方剂\": [\"天麻钩藤饮\", \"六味地黄丸\"], \"关联病机\": [\"肝风内动\", \"肾精不足\"]}"}
+{"id": "SYM_307", "name": "带下", "category": "月经", "description": "阴道分泌物增多。本案复诊时补充提及有带下（之前忘了说）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"完带汤\", \"易黄汤\"], \"关联病机\": [\"脾虚湿盛\", \"肾虚\", \"湿热下注\"]}"}
+{"id": "SYM_308", "name": "带脉腰痛", "category": "四肢", "description": "腰痛如带状横于腰骶部，属带脉病症。本案为痛如带状横于腰骶部。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_309", "name": "干眼症", "category": "眼象", "description": "眼睛干涩，本案为肾阳不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"杞菊地黄丸\", \"一贯煎\"], \"关联病机\": [\"肾阳不足\", \"肝血不足\"]}"}
+{"id": "SYM_310", "name": "平衡不稳", "category": "四肢", "description": "站立或行走时身体平衡感差，容易倾倒。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"中风后遗症\", \"肾虚\"]}"}
+{"id": "SYM_311", "name": "心区偏大", "category": "眼象", "description": "眼诊见心区偏大。倪师解释：阳不足则无法固守阴，故心区偏大。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心阳不足\"]}"}
+{"id": "SYM_312", "name": "心口如有重物压", "category": "胸腹", "description": "心口部位感觉有重物压迫，本案为里寒重。", "first_gateway": "", "differential": "{\"关联方剂\": [\"枳实薤白桂枝汤\", \"四逆汤\"], \"关联病机\": [\"里寒重\", \"心阳不足\"]}"}
+{"id": "SYM_313", "name": "心导管术后", "category": "全身", "description": "心导管手术后，本案为动脉严重阻塞，心肌功能受损。", "first_gateway": "", "differential": "{\"关联方剂\": [\"血府逐瘀汤\", \"炙甘草汤\"], \"关联病机\": [\"瘀血\", \"心阳虚\"]}"}
+{"id": "SYM_314", "name": "心悸", "category": "胸腹", "description": "自觉心跳不安，悸动感。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心阳不足\", \"心包痰湿\"]}"}
+{"id": "SYM_315", "name": "心慌", "category": "胸腹", "description": "心中慌乱不安，自觉心跳不宁的感觉。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\"], \"关联病机\": [\"心血不足\", \"心阳不足\"]}"}
+{"id": "SYM_316", "name": "心瓣膜闭锁不全", "category": "胸腹", "description": "心脏瓣膜无法正常关闭，导致血液回流。本案病人担心登高山时无法呼吸。", "first_gateway": "", "differential": "{\"关联方剂\": [\"枳实薤白桂枝汤\", \"桂枝甘草汤\", \"炙甘草汤\"], \"关联病机\": [\"心气不足\", \"心血瘀阻\", \"心阳虚\"]}"}
+{"id": "SYM_317", "name": "心肌功能受损", "category": "全身", "description": "心肌功能受损，本案为心肌功能只剩1/3。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"生脉散\"], \"关联病机\": [\"心阳虚\", \"瘀血\"]}"}
+{"id": "SYM_318", "name": "心跳过速", "category": "胸腹", "description": "心跳过快，自觉心中悸动不安。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"黄芪建中汤\"], \"关联病机\": [\"心血不足\", \"心阳不足\"]}"}
+{"id": "SYM_319", "name": "忧郁", "category": "全身", "description": "无原因易忧郁伤心，甘麦大枣汤主之。", "first_gateway": "", "differential": "{\"关联方剂\": [\"甘麦大枣汤\"], \"关联病机\": [\"肝脾不和\", \"血虚\"]}"}
+{"id": "SYM_320", "name": "忧郁症", "category": "全身", "description": "被西医判定为忧郁症，本案为心血不足，心阳不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝甘草汤\", \"柴胡加龙骨牡蛎汤\"], \"关联病机\": [\"心血不足\", \"心阳不足\"]}"}
+{"id": "SYM_321", "name": "怕冷", "category": "寒热", "description": "怕冷，本案为里寒重，阳虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"附子汤\"], \"关联病机\": [\"里寒重\", \"阳虚\"]}"}
+{"id": "SYM_322", "name": "怕风怕冷", "category": "寒热", "description": "既怕风又怕冷，表虚的表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\"], \"关联病机\": [\"表虚\", \"太阳中风\"]}"}
+{"id": "SYM_323", "name": "思虑无法集中", "category": "全身", "description": "思虑无法集中，注意力分散。本案复诊时仍存在此症状，情绪较好。", "first_gateway": "", "differential": "{\"关联方剂\": [\"归脾汤\", \"安神定志丸\"], \"关联病机\": [\"心血不足\", \"思虑过度\", \"脾虚\"]}"}
+{"id": "SYM_324", "name": "恶寒足冷", "category": "寒热", "description": "怕冷，足部尤其寒冷。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\", \"少阴证\"]}"}
+{"id": "SYM_325", "name": "恶心", "category": "胸腹", "description": "胃中不适欲吐的感觉。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小柴胡汤\", \"吴茱萸汤\"], \"关联病机\": [\"少阳证\", \"胃寒\", \"肝气犯胃\"]}"}
+{"id": "SYM_326", "name": "恶心呕吐", "category": "胸腹", "description": "恶心欲吐或呕吐。胃寒所致，口渴甚者用吴茱萸止呕而非半夏。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆加吴茱萸干姜汤\"], \"关联病机\": [\"胃里寒\"]}"}
+{"id": "SYM_327", "name": "恶风", "category": "寒热", "description": "怕风，自觉风灌入身体，本案为表虚，前方无固表药。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"玉屏风散\"], \"关联病机\": [\"表虚\", \"里寒湿\"]}"}
+{"id": "SYM_328", "name": "情绪好转", "category": "全身", "description": "情绪状况好转，本案为病人进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"酸枣仁汤\", \"逍遥散\"], \"关联病机\": [\"病人进步中\"]}"}
+{"id": "SYM_329", "name": "想吐", "category": "胸腹", "description": "有想吐的感觉，本案为胃家寒证，偶而想吐。", "first_gateway": "", "differential": "{\"关联方剂\": [\"吴茱萸汤\", \"小柴胡汤\"], \"关联病机\": [\"胃家寒证\", \"肝气犯胃\", \"胃气上逆\"]}"}
+{"id": "SYM_330", "name": "感觉身温正常", "category": "寒热", "description": "感觉身体温度正常，本案为进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡汤\", \"桂枝汤\"], \"关联病机\": [\"进步中\"]}"}
+{"id": "SYM_331", "name": "慢性成长癌", "category": "全身", "description": "慢性成长的癌症，本案为额头肿块自2000年开始。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"大承气汤\"], \"关联病机\": [\"上热下焦也热\", \"寒热并结\"]}"}
+{"id": "SYM_332", "name": "慢性盲肠炎", "category": "胸腹", "description": "慢性盲肠炎，本案为肠痈，中下焦实热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大黄牡丹皮汤\", \"薏苡附子败酱散\"], \"关联病机\": [\"肠痈\", \"中下焦实热\"]}"}
+{"id": "SYM_333", "name": "手关节疼痛", "category": "四肢", "description": "手部关节疼痛，属于痹证范畴。本案为风寒湿痹，手关节红肿已消失但仍有疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"桂枝芍药知母汤\"], \"关联病机\": [\"风寒湿痹\", \"当归四逆汤证\"]}"}
+{"id": "SYM_334", "name": "手关节痛", "category": "四肢", "description": "手部关节疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"风寒湿痹\"]}"}
+{"id": "SYM_335", "name": "手冰", "category": "四肢", "description": "手部冰冷不温。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心阳不足\", \"血虚\"]}"}
+{"id": "SYM_336", "name": "手冷", "category": "四肢", "description": "手部感觉寒冷，本案为里寒重，阳虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒重\", \"阳虚\"]}"}
+{"id": "SYM_337", "name": "手冷肿", "category": "四肢", "description": "手部冷且肿胀。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心阳不足\", \"三焦积湿\"]}"}
+{"id": "SYM_338", "name": "手冷额热", "category": "寒热", "description": "手部冰冷而额头发热。本案为乳癌患者，阳不入阴之象。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_339", "name": "手凉额温", "category": "四肢", "description": "手部感觉凉，额头感觉温热，呈现上热下寒之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"麻黄附子细辛汤\", \"桂枝汤\"], \"关联病机\": [\"上热下寒\", \"阳浮于上\", \"阳虚\"]}"}
+{"id": "SYM_340", "name": "手抖", "category": "四肢", "description": "手部不自主抖动，本案为有风有痰。", "first_gateway": "", "differential": "{\"关联方剂\": [\"藜芦甘草汤\", \"天麻钩藤饮\"], \"关联病机\": [\"风痰\", \"痰饮\"]}"}
+{"id": "SYM_341", "name": "手指冰", "category": "四肢", "description": "手指冰冷，提示心阳不足，心热无法下到小肠。患者伴有双足冷、额头热等上热下寒表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"桂枝汤\"], \"关联病机\": [\"心阳不足\", \"心血不足\", \"上热下寒\"]}"}
+{"id": "SYM_342", "name": "手指尖冷", "category": "四肢", "description": "手指尖发冷，手掌温。为阳气不足、四末不温之象。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\", \"脾阳不足\"]}"}
+{"id": "SYM_343", "name": "手指手腕关节严重变形", "category": "四肢", "description": "手指与手腕关节严重变形，本案为类风湿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"乌头汤\", \"HT-100历节丸\"], \"关联病机\": [\"风寒湿三痺\"]}"}
+{"id": "SYM_344", "name": "手指麻", "category": "四肢", "description": "手指麻木感。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"血虚\", \"上焦阳不足\"]}"}
+{"id": "SYM_345", "name": "手掌硬筋", "category": "四肢", "description": "手掌筋脉僵硬，无法握拳，晨起尤甚。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阳明热\", \"心阳不足\"]}"}
+{"id": "SYM_346", "name": "手掌红且手上皮肤干燥", "category": "四肢", "description": "手掌红且手上皮肤干燥，为阳不足、肺内津液不足之象。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": [\"阳不足\", \"肺内津液不足\"]}"}
+{"id": "SYM_347", "name": "手掌黄", "category": "四肢", "description": "手掌皮肤发黄。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肝病\", \"脾虚\"]}"}
+{"id": "SYM_348", "name": "手温头热手背凉", "category": "四肢", "description": "手温热、头热、手背凉，属上热下寒之象，心热无法下趋小肠。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"潜阳丹\"], \"关联病机\": [\"上热下寒\", \"心热不降\"]}"}
+{"id": "SYM_349", "name": "手热额热", "category": "寒热", "description": "手部与额头触之发热，提示上焦有热或阳气外越。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_350", "name": "手皮稍粗不够润泽", "category": "头面", "description": "手部皮肤稍粗糙、不够润泽。本案为血小板减少紫瘢复诊，肾阳反应不足。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_351", "name": "手稍凉额稍热", "category": "寒热", "description": "手部稍凉而额头稍热。本案为血小板减少紫瘢复诊，尚未完全达到\"手掌要热，额要凉\"的标准。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_352", "name": "手足冰冷", "category": "四肢", "description": "手足感觉冰冷，本案为真寒假热，胃寒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"四逆汤\"], \"关联病机\": [\"真寒假热\", \"胃寒\"]}"}
+{"id": "SYM_353", "name": "手足多冷", "category": "四肢", "description": "手足多处冰冷，本案为里寒重症，阴实。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"四逆汤\"], \"关联病机\": [\"里寒重症\", \"阴实\"]}"}
+{"id": "SYM_354", "name": "手足心干燥热出汗", "category": "四肢", "description": "手足心干燥发热且出汗，本案为表虚，手足心出汗。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四物汤\", \"知柏地黄丸\"], \"关联病机\": [\"血虚\", \"里热\"]}"}
+{"id": "SYM_355", "name": "手足温热", "category": "四肢", "description": "手足温暖，温度正常。本案病人手足温热，里寒证但无手足冷。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"阳气来复\", \"里寒渐退\"]}"}
+{"id": "SYM_356", "name": "手足温额凉", "category": "四肢", "description": "手足温暖，额头感觉凉。本案病人睡时无寒热，手足温额凉。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"麻黄附子细辛汤\"], \"关联病机\": [\"上热下寒\", \"阳浮于上\", \"阳虚\"]}"}
+{"id": "SYM_357", "name": "手麻", "category": "四肢", "description": "手部麻木感，手背手面皆麻。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"上焦阳不足\", \"心气不足\", \"血虚\"]}"}
+{"id": "SYM_358", "name": "打喷嚏", "category": "头面", "description": "打喷嚏是鼻部受到刺激后的反射性动作，常见于感冒、过敏性鼻炎等。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"麻黄汤\"], \"关联病机\": [\"太阳中风\", \"过敏性鼻炎\"]}"}
+{"id": "SYM_359", "name": "打嗝", "category": "胸腹", "description": "膈肌痉挛，俗称打嗝。本案走路后打嗝，胃部不适症状缓解。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"橘皮竹茹汤\"], \"关联病机\": [\"胃气上逆\", \"胃家寒证\"]}"}
+{"id": "SYM_360", "name": "打鼾", "category": "睡眠", "description": "睡眠时打鼾，本案为上焦湿热，肺热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"乌梅丸\"], \"关联病机\": [\"上焦湿热\", \"肺热\"]}"}
+{"id": "SYM_361", "name": "抽筋", "category": "四肢", "description": "肌肉痉挛抽筋，本案为肝硬化、糖尿病，常抽筋。", "first_gateway": "", "differential": "{\"关联方剂\": [\"芍药甘草汤\", \"芍药甘草附子汤\"], \"关联病机\": [\"肝血不足\", \"阳虚寒凝\"]}"}
+{"id": "SYM_362", "name": "排气", "category": "二便", "description": "肠道排气（放屁）。本案为肠胃积滞，小承气汤证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"承气汤类\"], \"关联病机\": [\"肠胃积滞\", \"阳明腑实\"]}"}
+{"id": "SYM_363", "name": "排气多", "category": "二便", "description": "排气（矢气）频繁。本案为淋巴癌患者，时胀气，排气多（气利）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"诃黎勒散\", \"补中益气汤\"], \"关联病机\": [\"气利\", \"湿阻三焦\", \"脾虚气滞\"]}"}
+{"id": "SYM_364", "name": "排气少", "category": "二便", "description": "肠道排气减少，肠气减少。本案为胰脏癌，中焦湿热，气机不畅，故排气少。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"六君子汤\"], \"关联病机\": [\"中焦湿热\", \"脾胃虚弱\", \"气机不畅\"]}"}
+{"id": "SYM_365", "name": "摄护腺结石", "category": "二便", "description": "摄护腺（前列腺）内形成结石，造成肾痛、腰痛。本案为摄护腺结石，双腰肾有压力感。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_366", "name": "摇头不止", "category": "头面", "description": "头部不自主摇动不止，本案为有风有痰。", "first_gateway": "", "differential": "{\"关联方剂\": [\"藜芦甘草汤\", \"天麻钩藤饮\"], \"关联病机\": [\"风痰\", \"痰饮\"]}"}
+{"id": "SYM_367", "name": "摔倒两次", "category": "全身", "description": "因无力或失衡而摔倒。本案病人双腿仍无力，摔倒两次。", "first_gateway": "", "differential": "{\"关联方剂\": [\"天麻钩藤饮\", \"六味地黄丸\", \"补中益气汤\"], \"关联病机\": [\"肝风内动\", \"气血不足\", \"肾虚\"]}"}
+{"id": "SYM_368", "name": "无力感", "category": "全身", "description": "自觉力量缓下，有疲劳无力感，月经停后体力仍差。提示气血不足或阳气正在恢复中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"补中益气汤\"], \"关联病机\": [\"阳气回复\", \"气血不足\", \"脾虚\"]}"}
+{"id": "SYM_369", "name": "无口渴", "category": "饮食", "description": "没有口渴的感觉。本案病人无口渴，但理智上会提醒自己喝水。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"五苓散\", \"真武汤\"], \"关联病机\": [\"里寒\", \"水饮内停\", \"阳虚\"]}"}
+{"id": "SYM_370", "name": "无口渴逼自己喝水", "category": "饮食", "description": "没有口渴感觉但理智上逼自己喝水。本案病人无口渴逼自己喝水。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"五苓散\"], \"关联病机\": [\"里寒\", \"水饮内停\"]}"}
+{"id": "SYM_371", "name": "无心跳加剧", "category": "全身", "description": "心跳没有加速或加剧，本案为检查甲状腺，近来无心跳加剧。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_372", "name": "无排气", "category": "胸腹", "description": "无肠气排出（不排气），提示腑气不通或气滞。本案为初诊，无排气。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_373", "name": "无晨举", "category": "全身", "description": "早晨无勃起现象，本案为48岁男性，素食者，已无晨举。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"金匮肾气丸\"], \"关联病机\": [\"肾阳虚\", \"里寒\"]}"}
+{"id": "SYM_374", "name": "无汗", "category": "全身", "description": "身体无汗，本案为心阳问题（心主五液）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"桂枝汤\"], \"关联病机\": [\"心阳不足\", \"表实\"]}"}
+{"id": "SYM_375", "name": "无汗出", "category": "全身", "description": "没有出汗，本案为里寒重，表闭。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"桂枝汤\"], \"关联病机\": [\"里寒重\", \"表闭\"]}"}
+{"id": "SYM_376", "name": "无法说话", "category": "全身", "description": "有声音，但无法说话。", "first_gateway": "", "differential": "{\"关联方剂\": [\"甘麦大枣汤\"], \"关联病机\": [\"痰阻血脉神经\", \"心神失养\"]}"}
+{"id": "SYM_377", "name": "无身热", "category": "寒热", "description": "身体无发热现象，本案为检查甲状腺，无身热。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_378", "name": "早上5点热醒", "category": "寒热", "description": "早上5:30热醒，为卯时（5-7点）气血流注大肠经，阳明经热之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"承气汤类\"], \"关联病机\": [\"阳明经热\", \"气血流注大肠经\"]}"}
+{"id": "SYM_379", "name": "早上起床发汗身热", "category": "寒热", "description": "早上起床时发汗且身热，本案为更年期脏躁，阳不入阴。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"桂枝汤\"], \"关联病机\": [\"更年期\", \"脏躁\", \"表虚\"]}"}
+{"id": "SYM_380", "name": "时好时麻", "category": "四肢", "description": "麻木症状时好时坏，间歇性发作。本案为手三阳经虚症，气血不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"补中益气汤\"], \"关联病机\": [\"手三阳经虚症\", \"气血不足\"]}"}
+{"id": "SYM_381", "name": "昏倒时呕吐更重", "category": "全身", "description": "昏倒时呕吐症状加重，本案为阳虚，见光则吐。", "first_gateway": "", "differential": "{\"关联方剂\": [\"藜芦甘草汤\", \"四逆汤\"], \"关联病机\": [\"阳虚\", \"痰饮\"]}"}
+{"id": "SYM_382", "name": "昏眩没了", "category": "全身", "description": "昏眩症状消失，本案为进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡汤\", \"半夏白术天麻汤\"], \"关联病机\": [\"进步中\"]}"}
+{"id": "SYM_383", "name": "易出汗", "category": "全身", "description": "容易出汗，本案为里热仍有。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"玉屏风散\"], \"关联病机\": [\"里热仍有\"]}"}
+{"id": "SYM_384", "name": "易打喷嚏", "category": "头面", "description": "容易打喷嚏，本案为阳虚，肺阳较强。", "first_gateway": "", "differential": "{\"关联方剂\": [\"HT-81\", \"桂枝汤\"], \"关联病机\": [\"阳虚\", \"肺阳较强\"]}"}
+{"id": "SYM_385", "name": "易落发", "category": "头面", "description": "容易掉头发，本案为胃寒，营养不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"生发丸\", \"七宝美髯丹\"], \"关联病机\": [\"血虚\", \"胃寒\"]}"}
+{"id": "SYM_386", "name": "春秋鼻炎重", "category": "头面", "description": "春秋季节鼻炎症状加重，本案为上焦肺力量不够。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"桂枝汤\"], \"关联病机\": [\"上焦肺力量不够\", \"过敏\"]}"}
+{"id": "SYM_387", "name": "晕眩", "category": "头面", "description": "自觉天旋地转或站立不稳之感。", "first_gateway": "", "differential": "{\"关联方剂\": [\"枳实薤白桂枝汤\", \"真武汤\"], \"关联病机\": [\"心气不足\", \"少阴证\"]}"}
+{"id": "SYM_388", "name": "晨起呕感", "category": "胸腹", "description": "晨起有呕感，低头时也有呕感。更年期女性需考虑停经后奶水停聚中焦所致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\"], \"关联病机\": [\"奶水停聚中焦\", \"胃家微寒\"]}"}
+{"id": "SYM_389", "name": "晨起累", "category": "全身", "description": "早晨起床后仍感疲倦，为肾阳不足之象。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\"]}"}
+{"id": "SYM_390", "name": "曲身走路挺不直", "category": "四肢", "description": "曲身走路，身体挺不直，为阳虚之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\"], \"关联病机\": [\"阳虚\"]}"}
+{"id": "SYM_391", "name": "更年期身热", "category": "全身", "description": "更年期女性因停经后荷尔蒙变化，出现身热、潮热、多汗等症状。倪师认为此与奶水（心之液）无法正常下行有关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"桂枝汤\"], \"关联病机\": [\"阳明经热\", \"胃家微寒\", \"子宫血块\"]}"}
+{"id": "SYM_392", "name": "月经一天色黑", "category": "月经", "description": "月经每次来只有一天且色黑，本案为肾阳虚，血瘀。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桃红四物汤\", \"桂枝茯苓丸\"], \"关联病机\": [\"肾阳虚\", \"血瘀\"]}"}
+{"id": "SYM_393", "name": "月经不止", "category": "月经", "description": "月经持续不止，停药后月经直来不停。本案为陈旧奶水积聚所致，服胶艾汤+干姜可止。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_394", "name": "月经不规则", "category": "月经", "description": "月经周期不规律，本案为虚热，胃寒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"逍遥散\"], \"关联病机\": [\"虚热\", \"胃寒\"]}"}
+{"id": "SYM_395", "name": "月经前头痛", "category": "头面", "description": "月经来潮前出现头痛症状，与月经周期相关。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"风寒束表\", \"血虚\"]}"}
+{"id": "SYM_396", "name": "月经提前", "category": "月经", "description": "月经提前来潮，本案为21天周期（正常28天左右）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"温经汤\"], \"关联病机\": [\"上热下焦也热\", \"寒热并结\"]}"}
+{"id": "SYM_397", "name": "月经来9天停11天", "category": "月经", "description": "月经周期异常，来月经9天，停止11天，周期约20天。本案为陈旧奶水积聚所致。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_398", "name": "月经血块", "category": "月经", "description": "月经排出大血块，提示下焦有瘀血。腹中瘀血需热药（如生附子、炮附子）软化排出。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"桃核承气汤\"], \"关联病机\": [\"下焦瘀血\", \"寒凝血瘀\"]}"}
+{"id": "SYM_399", "name": "月经量多", "category": "月经", "description": "月经量多，前两天量特别多。可能与血热、气虚或瘀血有关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"四物汤\"], \"关联病机\": [\"血热\", \"气虚\", \"瘀血\"]}"}
+{"id": "SYM_400", "name": "月经量少", "category": "月经", "description": "月经来量很少，月经有时提前且来量很少。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒\", \"心阳不足\", \"奶水逆流\"]}"}
+{"id": "SYM_401", "name": "有时身热", "category": "寒热", "description": "有时感觉身体发热，不是持续性的。本案为脉洪大浮，有时身热。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_402", "name": "有汗", "category": "全身", "description": "身体有汗出，正常或异常出汗。本案为87岁患者，有汗。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_403", "name": "有汗恶风", "category": "全身", "description": "出汗且怕风，太阳中风证的典型表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\"], \"关联病机\": [\"太阳中风\", \"表虚\"]}"}
+{"id": "SYM_404", "name": "有身热但无汗", "category": "寒热", "description": "身体有热感但无汗液排出。本案病人有身热但无汗，为里寒证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"麻黄附子细辛汤\"], \"关联病机\": [\"里寒证\", \"表闭\"]}"}
+{"id": "SYM_405", "name": "服用Gleevec副作用", "category": "全身", "description": "服用Gleevec三个月后出现副作用，本案为失眠、忧郁、倦怠、呕心。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"大承气汤\"], \"关联病机\": [\"上热下焦也热\", \"寒热并结\"]}"}
+{"id": "SYM_406", "name": "歇斯底里", "category": "全身", "description": "阵发性情绪失控，口出恶言，自残。本案为14岁少女，皮下湿所致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"甘麦大枣汤\", \"HT-70定心丸\"], \"关联病机\": [\"皮下湿\", \"情志失调\"]}"}
+{"id": "SYM_407", "name": "气喘", "category": "胸腹", "description": "呼吸急促，喘促不宁，严重时张口抬肩。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\"], \"关联病机\": [\"肺寒\", \"上热下寒\", \"肾不纳气\"]}"}
+{"id": "SYM_408", "name": "汗出减少", "category": "全身", "description": "出汗量减少，本案为表虚汗出，用炮附子固表。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"玉屏风散\"], \"关联病机\": [\"表虚\", \"阳虚\"]}"}
+{"id": "SYM_409", "name": "沮丧", "category": "全身", "description": "情绪沮丧，心情低落。本案病人长年沮丧，伴压力大、失眠。", "first_gateway": "", "differential": "{\"关联方剂\": [\"逍遥散\", \"甘麦大枣汤\", \"补中益气汤\"], \"关联病机\": [\"肝郁\", \"心脾两虚\", \"阳虚\"]}"}
+{"id": "SYM_410", "name": "流眼泪", "category": "头面", "description": "流眼泪指眼泪不由自主地流出，可由风寒刺激、肝虚、风热等原因引起。", "first_gateway": "", "differential": "{\"关联方剂\": [\"吴茱萸汤\", \"葛根汤\"], \"关联病机\": [\"肝开窍于目\", \"风寒犯目\"]}"}
+{"id": "SYM_411", "name": "流鼻水", "category": "头面", "description": "流鼻水指鼻腔分泌物增多，自行流出，常见于感冒、过敏性鼻炎、鼻窦炎等疾病。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"小青龙汤\"], \"关联病机\": [\"太阳中风\", \"水饮上逆\"]}"}
+{"id": "SYM_412", "name": "流鼻血", "category": "头面", "description": "鼻部出血。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肺热\", \"阳明热\"]}"}
+{"id": "SYM_413", "name": "浮肿", "category": "全身", "description": "身体浮肿，按之凹陷。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\"], \"关联病机\": [\"肾阳不足\", \"脾虚\", \"三焦水道不利\"]}"}
+{"id": "SYM_414", "name": "渐冻人", "category": "全身", "description": "渐冻人（ALS, amyotrophic lateral sclerosis）是一种神经系统退行性疾病，主要表现为肌肉逐渐萎缩、无力，最终导致瘫痪和呼吸衰竭。中医认为其主要病机为下焦寒实、上焦假热、里真寒证等，与肾阳气不足、肺阳不足密切相关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大黄附子细辛汤\", \"四逆汤\", \"麻黄附子细辛汤\", \"利膈汤\", \"苓甘五味姜辛汤\"], \"关联病机\": [\"下焦寒实\", \"上焦假热\", \"里真寒证\", \"肺阳不足\", \"少阴证\"]}"}
+{"id": "SYM_415", "name": "游走性疼痛", "category": "全身", "description": "身上偶有游走性疼痛，在皮肤与肌肉之间，为风痛表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾着汤\", \"苓桂术甘汤\"], \"关联病机\": [\"水饮\", \"中焦寒水\", \"风痛\"]}"}
+{"id": "SYM_416", "name": "潮热", "category": "寒热", "description": "阵发性发热感，多见于更年期妇女。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"更年期\"]}"}
+{"id": "SYM_417", "name": "焦虑", "category": "全身", "description": "情绪焦虑不安，心神不宁，可伴有睡眠不佳。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\", \"心阳不足\", \"肾阳不守\"]}"}
+{"id": "SYM_418", "name": "牙痕重", "category": "舌象", "description": "舌体边缘有牙齿压迫的痕迹，提示血虚或脾虚湿盛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"血虚\", \"瘀血\", \"脾虚\"]}"}
+{"id": "SYM_419", "name": "牙龈萎缩", "category": "全身", "description": "牙龈萎缩，提示肾虚。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\"]}"}
+{"id": "SYM_420", "name": "牛皮癣", "category": "全身", "description": "牛皮癣又称银屑病，是一种慢性复发性炎症性皮肤病。表现为红色丘疹或斑块上覆多层银白色鳞屑。本案起于感冒发烧后，西药压制后从头皮起皮癣。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻杏苡甘汤\"], \"关联病机\": [\"毛孔不开\", \"肺津不伸\", \"表汗未透\"]}"}
+{"id": "SYM_421", "name": "环跳痛", "category": "四肢", "description": "环跳穴（髋关节）部位疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\", \"风寒湿痹\"]}"}
+{"id": "SYM_422", "name": "环跳肌肉萎缩", "category": "四肢", "description": "环跳穴周围肌肉萎缩。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\", \"阳不足\"]}"}
+{"id": "SYM_423", "name": "理解力差", "category": "头面", "description": "理解能力下降，反应迟钝。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"中风后遗症\", \"心藏神未复\"]}"}
+{"id": "SYM_424", "name": "甲状腺稍肿", "category": "头面", "description": "甲状腺轻微肿大，本案无心悸，非甲状腺本身病变，而是热毒上冲之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"海藻玉壶汤\", \"半夏厚朴汤\"], \"关联病机\": [\"痰气交阻\", \"肝郁气滞\"]}"}
+{"id": "SYM_425", "name": "畏光", "category": "头面", "description": "眼睛怕光、睁不开。阳不足之象。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\"]}"}
+{"id": "SYM_426", "name": "疲劳", "category": "全身", "description": "全身疲倦乏力，晨起累，全天都累。肾阳不足之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"八味地黄丸\"], \"关联病机\": [\"肾阳虚\", \"心血不足\"]}"}
+{"id": "SYM_427", "name": "疲惫", "category": "全身", "description": "全身疲倦乏力。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"少阴证\", \"肾阳不足\"]}"}
+{"id": "SYM_428", "name": "痛风", "category": "四肢", "description": "痛风是一种因尿酸代谢异常导致的关节炎。本案患者痛风10多年，足踝痛风最常发，右膝关节痛，右胯骨关节痛，服止痛药止痛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"甘草附子汤\", \"桂枝芍药知母汤\"], \"关联病机\": [\"风寒湿痹\", \"湿热\"]}"}
+{"id": "SYM_429", "name": "痤疮样红色小颗粒", "category": "头面", "description": "面部嘴唇周围布有痤疮样红色小颗粒，本案为阳明胃经虚热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"黄连解毒汤\"], \"关联病机\": [\"阳明经热\", \"虚热\"]}"}
+{"id": "SYM_430", "name": "痰很多", "category": "全身", "description": "痰液很多，本案为痰饮之固痰。", "first_gateway": "", "differential": "{\"关联方剂\": [\"藜芦甘草汤\", \"二陈汤\"], \"关联病机\": [\"痰饮\", \"固痰\"]}"}
+{"id": "SYM_431", "name": "痰水", "category": "头面", "description": "口中痰涎较多。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肺寒\", \"脾虚湿盛\"]}"}
+{"id": "SYM_432", "name": "白内障轻微", "category": "头面", "description": "白内障程度很轻，仅有一点。本案为检查甲状腺时发现，白内障只一点，很轻微。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_433", "name": "白发", "category": "头面", "description": "头发过早变白。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\", \"肝血不足\"]}"}
+{"id": "SYM_434", "name": "白头发", "category": "头面", "description": "头发变白，本案为32岁女性，白头发仍多，落发多。", "first_gateway": "", "differential": "{\"关联方剂\": [\"七宝美髯丹\", \"首乌丸\"], \"关联病机\": [\"肝肾不足\", \"血热\"]}"}
+{"id": "SYM_435", "name": "皮下囊肿", "category": "全身", "description": "皮下肌肉之间有囊肿（cyst），与三焦水道不利有关。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"三焦水道不利\"]}"}
+{"id": "SYM_436", "name": "皮痒红疹", "category": "全身", "description": "皮肤瘙痒伴红色疹子。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻杏薏甘汤\", \"麻黄连翘赤小豆汤\"], \"关联病机\": [\"表湿热\", \"表汗未透\"]}"}
+{"id": "SYM_437", "name": "皮肤易破", "category": "全身", "description": "皮肤一碰即破，本案为西药造成的副作用。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"四物汤\"], \"关联病机\": [\"血热\", \"气血不足\"]}"}
+{"id": "SYM_438", "name": "皮肤疖子", "category": "全身", "description": "皮肤上长出疖肿，湿热或热毒外发的表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"湿热\", \"热毒\"]}"}
+{"id": "SYM_439", "name": "皮肤红疹", "category": "全身", "description": "皮肤出现红色疹子，可伴有瘙痒。本案周六吃海鲜皮肤出红疹，会痒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"消风散\", \"防风通圣散\"], \"关联病机\": [\"风热\", \"湿热\", \"血热\"]}"}
+{"id": "SYM_440", "name": "皮肤薄易破裂", "category": "头面", "description": "皮肤变薄，容易破裂。本案为减肥50磅以上后出现，可能与气血不足相关。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_441", "name": "皮肤过敏", "category": "头面", "description": "皮肤出现过敏反应，瘙痒不适。本案为四周以来皮肤过敏，夜间尤差，一靠着椅子或卧床即痒。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_442", "name": "盗汗", "category": "汗", "description": "睡眠时出汗，醒后汗止。为阴虚或阳浮之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\"], \"关联病机\": [\"心血不足\", \"肾阳上浮\"]}"}
+{"id": "SYM_443", "name": "盗汗很少", "category": "汗", "description": "夜间睡眠时出汗很少，提示表虚不重或阳虚不甚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝加龙骨牡蛎汤\"], \"关联病机\": [\"阳虚\", \"表虚\"]}"}
+{"id": "SYM_444", "name": "眉棱骨痛", "category": "头面", "description": "眉棱骨部位疼痛，属阳明经循行区域。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阳明经热\", \"风邪\"]}"}
+{"id": "SYM_445", "name": "眩晕呕吐", "category": "头面", "description": "眩晕伴恶心呕吐。", "first_gateway": "", "differential": "{\"关联方剂\": [\"苓桂术甘汤\"], \"关联病机\": [\"中隔有水饮\", \"痰饮\"]}"}
+{"id": "SYM_446", "name": "眼周围青黄色", "category": "眼象", "description": "眼周围出现青黄色，可能原因：一是喝酒，二是肝胆湿热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"龙胆泻肝汤\", \"茵陈蒿汤\"], \"关联病机\": [\"肝胆湿热\", \"饮酒过度\"]}"}
+{"id": "SYM_447", "name": "眼干口干", "category": "头面", "description": "眼睛和口腔干燥。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阴虚\", \"津液不足\"]}"}
+{"id": "SYM_448", "name": "眼球红", "category": "头面", "description": "眼球充血发红，肝火上炎的表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肝火\", \"肝热\"]}"}
+{"id": "SYM_449", "name": "眼白区痰多", "category": "眼象", "description": "眼白区（心包区）显示痰多，提示心包痰湿或痰热内扰。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温胆汤\", \"黄连温胆汤\"], \"关联病机\": [\"心包痰湿\", \"痰热内扰\"]}"}
+{"id": "SYM_450", "name": "眼袋红肿", "category": "头面", "description": "眼袋部位红肿疼痛。本案因金属过敏导致，心火所致。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_451", "name": "眼诊心包区有黄块", "category": "眼象", "description": "眼诊时心包区出现黄色块状物，提示心包有痰湿或热邪。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温胆汤\", \"黄连温胆汤\", \"安宫牛黄丸\"], \"关联病机\": [\"心包有痰湿\", \"心火亢盛\"]}"}
+{"id": "SYM_452", "name": "眼诊肝区圈纹", "category": "眼象", "description": "眼诊时在肝区（内眼角下方区域）见到圈纹，表示肝脏有损伤或肝气郁结。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡疏肝散\"], \"关联病机\": [\"肝损伤\", \"肝气郁结\"]}"}
+{"id": "SYM_453", "name": "眼诊肝区少量褐点", "category": "眼象", "description": "眼诊时肝区出现少量褐色斑点。本案病人眼诊肝区少量褐点。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡疏肝散\", \"龙胆泻肝汤\"], \"关联病机\": [\"肝中有毒素\", \"肝胆湿热\"]}"}
+{"id": "SYM_454", "name": "眼诊肝区黄点", "category": "眼象", "description": "眼诊时肝区出现黄点，提示肝中有毒素。本案病人肝区黄点。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡疏肝散\", \"龙胆泻肝汤\", \"茵陈蒿汤\"], \"关联病机\": [\"肝中有毒素\", \"肝胆湿热\"]}"}
+{"id": "SYM_455", "name": "眼诊肾区反应不好", "category": "眼象", "description": "眼诊时肾区反应不良，提示肾虚。本案病人肾区反应不好。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"真武汤\", \"右归丸\"], \"关联病机\": [\"肾阳虚\", \"肾气虚\"]}"}
+{"id": "SYM_456", "name": "眼诊肾区反应差", "category": "眼象", "description": "眼诊时肾区反应差，本案为下焦寒湿，肾虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"真武汤\"], \"关联病机\": [\"下焦寒湿\", \"肾虚\"]}"}
+{"id": "SYM_457", "name": "睡不好", "category": "睡眠", "description": "睡眠质量差，难以入睡或易醒。本案为胰脏癌，中焦湿热，胃不和则卧不安。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"酸枣仁汤\", \"旋覆代赭汤\"], \"关联病机\": [\"心肾不交\", \"胃不和则卧不安\", \"中焦湿热\"]}"}
+{"id": "SYM_458", "name": "睡不深", "category": "睡眠", "description": "睡眠深度不足，本案为更年期脏躁。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"甘麦大枣汤\"], \"关联病机\": [\"更年期\", \"脏躁\"]}"}
+{"id": "SYM_459", "name": "睡不饱", "category": "睡眠", "description": "睡眠后仍感觉未充分休息，本案为虚热，胃寒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"归脾汤\", \"安神定志丸\"], \"关联病机\": [\"虚热\", \"胃寒\"]}"}
+{"id": "SYM_460", "name": "睡好些", "category": "睡眠", "description": "睡眠状况好转一些，本案为里热仍有。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"酸枣仁汤\"], \"关联病机\": [\"里热仍有\"]}"}
+{"id": "SYM_461", "name": "睡好可通霄", "category": "睡眠", "description": "睡眠可以整夜安睡，本案为进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"酸枣仁汤\"], \"关联病机\": [\"里热仍有\", \"进步中\"]}"}
+{"id": "SYM_462", "name": "睡时无寒热", "category": "睡眠", "description": "睡眠时没有寒热感觉，本案为病人进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"桂枝汤\"], \"关联病机\": [\"病人进步中\"]}"}
+{"id": "SYM_463", "name": "睡时身冷", "category": "寒热", "description": "睡眠时身体感觉冷，提示下焦虚寒。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"上热下寒\", \"下焦寒\"]}"}
+{"id": "SYM_464", "name": "睡时身热", "category": "寒热", "description": "睡觉的时候身体发热。本案为过重、湿热造成，睡时身热。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_465", "name": "睡有时2-3AM醒来", "category": "睡眠", "description": "睡眠有时在凌晨2-3点醒来，本案为进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"酸枣仁汤\", \"柴胡加龙骨牡蛎汤\"], \"关联病机\": [\"进步中\"]}"}
+{"id": "SYM_466", "name": "睡眠3-4点醒", "category": "睡眠", "description": "凌晨3-4点（寅时）醒来，肺经气血流注时间。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肺家阴实\", \"肺热\"]}"}
+{"id": "SYM_467", "name": "睡眠4点醒", "category": "睡眠", "description": "凌晨4点醒来，本案为进步许多。", "first_gateway": "", "differential": "{\"关联方剂\": [\"酸枣仁汤\", \"天王补心丹\"], \"关联病机\": [\"进步许多\"]}"}
+{"id": "SYM_468", "name": "睡眠不佳", "category": "睡眠", "description": "入睡困难或睡眠质量差。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄芪建中汤\"], \"关联病机\": [\"心血不足\", \"心阳不足\", \"心肾不交\"]}"}
+{"id": "SYM_469", "name": "睡眠不好", "category": "睡眠", "description": "睡眠质量差，难以入睡或易醒，睡眠维持困难。", "first_gateway": "", "differential": "{\"关联方剂\": [\"酸枣仁汤\", \"黄连阿胶汤\"], \"关联病机\": [\"心阳不足\", \"心血不足\", \"阴虚\"]}"}
+{"id": "SYM_470", "name": "睡眠仍时醒", "category": "睡眠", "description": "睡眠中仍然时常醒来，睡眠质量不佳。本案病人睡眠情况未变，仍时醒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"酸枣仁汤\", \"天王补心丹\"], \"关联病机\": [\"心肾不交\", \"阴虚火旺\"]}"}
+{"id": "SYM_471", "name": "睡眠因频尿无法睡通宵", "category": "睡眠", "description": "因频尿导致睡眠中断，无法一觉睡到天亮。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"缩泉丸\", \"交泰丸\"], \"关联病机\": [\"肾虚\", \"膀胱虚寒\", \"心肾不交\"]}"}
+{"id": "SYM_472", "name": "睡眠好", "category": "睡眠", "description": "睡眠质量好，能通宵睡眠。本案初诊睡眠好、能通宵。", "first_gateway": "", "differential": "{\"关联方剂\": [\"安神定志丸\", \"酸枣仁汤\"], \"关联病机\": [\"心肾交泰\", \"阳气充足\"]}"}
+{"id": "SYM_473", "name": "睡眠好转", "category": "睡眠", "description": "睡眠质量改善，睡眠时间延长或易醒改善。本案为胰脏癌治疗后，胃气和，睡眠好转。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"白虎汤\"], \"关联病机\": [\"中焦湿热减轻\", \"胃气和\", \"胰脏癌好转\"]}"}
+{"id": "SYM_474", "name": "睡眠差", "category": "睡眠", "description": "睡眠质量差。本案二诊睡眠睡较差，倪师认为与前用麻黄有关。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"潜阳丹\"], \"关联病机\": [\"心肾不交\", \"阳虚浮越\", \"麻黄副作用\"]}"}
+{"id": "SYM_475", "name": "睡眠很好", "category": "睡眠", "description": "睡眠质量很好，本案为一切好转。", "first_gateway": "", "differential": "{\"关联方剂\": [\"酸枣仁汤\", \"归脾汤\"], \"关联病机\": [\"一切好转\"]}"}
+{"id": "SYM_476", "name": "睡眠进步", "category": "睡眠", "description": "睡眠状况改善，本案二诊可睡到四五点。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒实\", \"阴实\"]}"}
+{"id": "SYM_477", "name": "瞳孔大对光无反应", "category": "眼象", "description": "瞳孔扩大且对光反射消失或减弱，提示肾阳严重不足，元神将脱。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"真武汤\"], \"关联病机\": [\"肾阳不足\", \"心阳不足\"]}"}
+{"id": "SYM_478", "name": "瞳孔无反应", "category": "眼象", "description": "瞳孔对光反射无反应，为心阳不足、肾阳衰竭之危象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\"], \"关联病机\": [\"肾阳衰竭\", \"心阳不足\"]}"}
+{"id": "SYM_479", "name": "短气", "category": "全身", "description": "呼吸短促，气不够用。本案为偶尔会短气一下，倪师曰可能是走路太快造成，不要紧。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_480", "name": "磨牙", "category": "头面", "description": "睡眠中不自主磨牙。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃热\", \"虫积\"]}"}
+{"id": "SYM_481", "name": "秃头长黑发", "category": "头面", "description": "原本秃头处长出黑发，为肾气回复的佳兆。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾气回复\", \"阳回头\"]}"}
+{"id": "SYM_482", "name": "类似妊娠纹", "category": "全身", "description": "全身多处有类似妊娠纹，本案为水湿泛溢肌肤。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\", \"五苓散\"], \"关联病机\": [\"上虚热下寒湿\", \"水湿\"]}"}
+{"id": "SYM_483", "name": "类风湿", "category": "四肢", "description": "类风湿性关节炎，本案为风寒湿三痺。", "first_gateway": "", "differential": "{\"关联方剂\": [\"乌头汤\", \"HT-100历节丸\"], \"关联病机\": [\"风寒湿三痺\"]}"}
+{"id": "SYM_484", "name": "精子太稀", "category": "全身", "description": "精子过于稀薄，本案为不孕，西医检查精子太稀。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"知柏地黄丸\"], \"关联病机\": [\"上焦湿热\"]}"}
+{"id": "SYM_485", "name": "精神较差", "category": "", "description": "精神状态较差，提示气虚或阳虚，精气不足。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_486", "name": "糖尿病", "category": "全身", "description": "糖尿病，本案为两年前得糖尿病，血糖饭前150-200，饭后200-300。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎加人参汤\", \"六味地黄丸\"], \"关联病机\": [\"阴虚燥热\", \"脾胃积热\"]}"}
+{"id": "SYM_487", "name": "紧张想吐想尿", "category": "胸腹", "description": "紧张时想吐且想小便，本案为心阳不足，肾虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝甘草汤\", \"肾气丸\"], \"关联病机\": [\"心阳不足\", \"肾虚\"]}"}
+{"id": "SYM_488", "name": "紫瘢", "category": "全身", "description": "皮肤出现紫红色瘀斑，血小板减少所致。倪师认为自体免疫疾病源于疫苗。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"桂枝芍药知母汤\"], \"关联病机\": [\"肾阳不足\", \"脾阳不足\", \"自体免疫\"]}"}
+{"id": "SYM_489", "name": "经期不规律", "category": "月经", "description": "月经周期或经期不规律，或提前或延后，或经期长短不一。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四物汤\", \"温经汤\"], \"关联病机\": [\"血虚\", \"里寒\", \"肝郁\"]}"}
+{"id": "SYM_490", "name": "绝经延迟", "category": "月经", "description": "应该绝经但延迟，本案为55岁女性，因子宫肌瘤尚未绝经。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"知柏地黄丸\"], \"关联病机\": [\"里寒湿\", \"少阴症\"]}"}
+{"id": "SYM_491", "name": "缺铁性贫血", "category": "全身", "description": "西医诊断缺铁性贫血，本案为74岁女性。", "first_gateway": "", "differential": "{\"关联方剂\": [\"归脾汤\", \"八珍汤\"], \"关联病机\": [\"血虚\", \"脾胃虚弱\"]}"}
+{"id": "SYM_492", "name": "耳重听", "category": "头面", "description": "听力减退，听不清楚。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\", \"肾阳不足\"]}"}
+{"id": "SYM_493", "name": "耳鸣", "category": "头面", "description": "耳鸣是指患者自觉耳中鸣响，如蝉鸣、潮声等。本案患者耳鸣30多年，一直不停。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阴不足\", \"肾精不足\"]}"}
+{"id": "SYM_494", "name": "肌肉瞤动", "category": "全身", "description": "肌肉瞤动，肌肉不自主跳动，为水气在肌肉间表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"苓桂术甘汤\", \"桂枝汤\"], \"关联病机\": [\"水饮\", \"里寒\"]}"}
+{"id": "SYM_495", "name": "肌肉萎缩", "category": "四肢", "description": "肌肉萎缩消减，肢体变细。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阳不足\", \"脾虚\", \"中风后遗症\"]}"}
+{"id": "SYM_496", "name": "肚脐痛", "category": "胸腹", "description": "肚脐部位疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"脾病\", \"水反侮土\"]}"}
+{"id": "SYM_497", "name": "肝区受损", "category": "眼象", "description": "眼诊时肝区显示受损，但肝木润泽。本案为过重、湿热造成。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_498", "name": "肝区有褐点", "category": "眼象", "description": "眼诊肝区出现褐色斑点，提示肝中毒素累积或肝损伤。本案为高血压肾病，快肾衰竭。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"五苓散\"], \"关联病机\": [\"肝中毒素\", \"肾衰竭\", \"肝损伤\"]}"}
+{"id": "SYM_499", "name": "肝区有黄点", "category": "眼象", "description": "眼诊时肝区出现黄点，提示肝胆湿热或肝中毒素。", "first_gateway": "", "differential": "{\"关联方剂\": [\"龙胆泻肝汤\", \"茵陈蒿汤\"], \"关联病机\": [\"肝胆湿热\", \"肝中毒素\"]}"}
+{"id": "SYM_500", "name": "肝指数升高", "category": "全身", "description": "肝功能检查指数升高，常与服用止痛药等肝损伤因素有关。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肝损伤\"]}"}
+{"id": "SYM_501", "name": "肝斑", "category": "头面", "description": "面部出现肝斑，提示肝功能问题，肝毒积聚。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肝郁\", \"肝毒\"]}"}
+{"id": "SYM_502", "name": "肝硬化", "category": "全身", "description": "肝硬化五年多，本案为70岁女性，腹水。", "first_gateway": "", "differential": "{\"关联方剂\": [\"胃苓汤\", \"补气治湿汤\"], \"关联病机\": [\"上假热下真寒\", \"肝病腹水\"]}"}
+{"id": "SYM_503", "name": "肠鸣", "category": "胸腹", "description": "肠鸣，肠间咕噜声，为水饮在肠间表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"苓桂术甘汤\"], \"关联病机\": [\"水饮\", \"脾湿\"]}"}
+{"id": "SYM_504", "name": "肠鸣多", "category": "胸腹", "description": "肠鸣音频繁，本案为近来大便软，肠鸣多。", "first_gateway": "", "differential": "{\"关联方剂\": [\"参苓白术散\", \"苓桂术甘汤\"], \"关联病机\": [\"脾虚湿盛\", \"肠中有水气\"]}"}
+{"id": "SYM_505", "name": "肢体抖动", "category": "四肢", "description": "肢体抖动，为痰饮造成，并非癫痫（看似癫痫）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"藜芦甘草汤\"], \"关联病机\": [\"痰饮造成\"]}"}
+{"id": "SYM_506", "name": "肢体痉挛", "category": "四肢", "description": "肢体出现痉挛现象，睡着时即停止，早上醒后20分钟才会开始（因白天醒后引动痰）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"藜芦甘草汤\", \"甘麦大枣汤\"], \"关联病机\": [\"痰阻\", \"肝风内动\"]}"}
+{"id": "SYM_507", "name": "肩不举", "category": "四肢", "description": "肩关节无法上举，活动受限。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"少阴证\"]}"}
+{"id": "SYM_508", "name": "肩膀痛", "category": "四肢", "description": "肩部疼痛，可伴活动受限。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"风寒湿痹\", \"阳不足\"]}"}
+{"id": "SYM_509", "name": "肩项强", "category": "四肢", "description": "肩部和颈部僵硬不适，活动受限。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心气不足\"]}"}
+{"id": "SYM_510", "name": "肩项背痛", "category": "四肢", "description": "肩部、项部及背部疼痛不适。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"风寒湿痹\", \"太阳经病\"]}"}
+{"id": "SYM_511", "name": "肺癌", "category": "胸腹", "description": "肺部恶性肿瘤，常表现为咳嗽、胸痛、气喘等。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾着汤\"], \"关联病机\": [\"肺家阴实\"]}"}
+{"id": "SYM_512", "name": "肺部灼热感", "category": "胸腹", "description": "肺部有灼热感。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肺热\", \"肺家阴实\"]}"}
+{"id": "SYM_513", "name": "肾上腺肿瘤术后", "category": "全身", "description": "肾上腺肿瘤手术后，本案为IVF怀孕后得到Cushing Disease，肾上腺肿瘤手术。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\", \"五苓散\"], \"关联病机\": [\"上虚热下寒湿\"]}"}
+{"id": "SYM_514", "name": "肾痛", "category": "胸腹", "description": "肾脏部位疼痛，本案为摄护腺结石造成双腰肾有压力感、肾痛。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_515", "name": "肾结石点反应", "category": "耳象", "description": "在两足或耳部肾结石点出现压痛或反应，提示肾脏或膀胱有结石。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_516", "name": "肾脉重按则无", "category": "脉象", "description": "肾脉重按则无，表示没有实证。如果重按仍有乃是实证。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\", \"肾家寒湿\"]}"}
+{"id": "SYM_517", "name": "肾衰", "category": "全身", "description": "肾功能衰竭是指肾脏功能部分或全部丧失的病理状态。本案患者肾衰洗肾，BP154/92下降（以前180/120）。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳虚\", \"心阳不足\"]}"}
+{"id": "SYM_518", "name": "肾衰竭", "category": "全身", "description": "肾衰竭，本案为尿液排出越来越少。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"真武汤\"], \"关联病机\": [\"上假热下真寒\", \"肾虚\"]}"}
+{"id": "SYM_519", "name": "胀气", "category": "胸腹", "description": "腹部胀满有气。本案为淋巴癌患者，时胀气，排气多（气利）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"平胃散\", \"藿香正气散\"], \"关联病机\": [\"气滞\", \"湿阻\", \"三焦湿\"]}"}
+{"id": "SYM_520", "name": "胁痛", "category": "胸腹", "description": "胁肋部疼痛，右侧多见。为肝胆病变之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大柴胡汤\"], \"关联病机\": [\"胆结石\", \"大柴胡汤证\"]}"}
+{"id": "SYM_521", "name": "胃中有呕心感", "category": "胸腹", "description": "胃中有恶心的感觉，但尚未呕吐。本案病人有胃中有呕心感。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小半夏汤\", \"吴茱萸汤\", \"旋覆代赭汤\"], \"关联病机\": [\"胃气上逆\", \"胃寒\", \"肝气犯胃\"]}"}
+{"id": "SYM_522", "name": "胃口仍好", "category": "全身", "description": "胃口仍然很好，本案为里热仍有。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"承气汤\"], \"关联病机\": [\"里热仍有\", \"上热下寒\"]}"}
+{"id": "SYM_523", "name": "胃口减少", "category": "饮食", "description": "食欲减少，进食量下降。本案病人胃口减少，体重降10磅，病人很高兴。", "first_gateway": "", "differential": "{\"关联方剂\": [\"六君子汤\", \"健脾丸\"], \"关联病机\": [\"胃气减弱\", \"脾虚\"]}"}
+{"id": "SYM_524", "name": "胃口大", "category": "饮食", "description": "胃口很好，食量大。胃热或虚热均可致胃口大。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳虚\", \"阳明经热\"]}"}
+{"id": "SYM_525", "name": "胃口好", "category": "", "description": "食欲旺盛，胃口良好。可能提示胃热或胃强脾弱。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"清胃散\"], \"关联病机\": [\"胃热\", \"胃强脾弱\"]}"}
+{"id": "SYM_526", "name": "胃口好吃太多", "category": "全身", "description": "胃口很好且吃太多，本案为里热仍有。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"承气汤\"], \"关联病机\": [\"里热仍有\"]}"}
+{"id": "SYM_527", "name": "胃口好转", "category": "全身", "description": "胃口状况好转，本案为进步许多。", "first_gateway": "", "differential": "{\"关联方剂\": [\"平胃散\", \"补中益气汤\"], \"关联病机\": [\"进步许多\"]}"}
+{"id": "SYM_528", "name": "胃口正常会饥饿", "category": "全身", "description": "胃口正常且容易饥饿，本案为病人好转。", "first_gateway": "", "differential": "{\"关联方剂\": [\"平胃散\", \"补中益气汤\"], \"关联病机\": [\"阳脉大于阴脉\", \"病人好转\"]}"}
+{"id": "SYM_529", "name": "胃口过好", "category": "饮食", "description": "食欲过于旺盛，本案为32岁女性，胃口过好。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"玉女煎\"], \"关联病机\": [\"胃热\", \"中焦热盛\"]}"}
+{"id": "SYM_530", "name": "胃尚好", "category": "胸腹", "description": "胃功能尚可，无特殊不适，无胃酸等症状。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃气和\"]}"}
+{"id": "SYM_531", "name": "胃热", "category": "胸腹", "description": "胃中有热感，可伴胃胀。上热下寒时胃热而下焦寒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"麻黄附子细辛汤\"], \"关联病机\": [\"上热下寒\"]}"}
+{"id": "SYM_532", "name": "胃痛", "category": "胸腹", "description": "胃脘部疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃寒\", \"胃气上逆\"]}"}
+{"id": "SYM_533", "name": "胃痛喜按", "category": "胸腹", "description": "胃痛时喜欢按压，为虚证之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆加吴茱萸干姜汤\"], \"关联病机\": [\"胃里寒\"]}"}
+{"id": "SYM_534", "name": "胃胀", "category": "胸腹", "description": "胃部胀满不适，觉得肚子里很多气。下焦寒肠子蠕动差所致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄附子细辛汤\"], \"关联病机\": [\"上热下寒\", \"少阴证\"]}"}
+{"id": "SYM_535", "name": "胃胀气", "category": "胸腹", "description": "胃部胀满不适，按之柔软。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大柴胡汤\"], \"关联病机\": [\"胃寒\", \"脾虚\", \"胃气上逆\"]}"}
+{"id": "SYM_536", "name": "胃脘不舒服", "category": "胸腹", "description": "胃脘部位（心窝下）不适感，可伴有胀满、疼痛等。", "first_gateway": "", "differential": "{\"关联方剂\": [\"半夏厚朴汤\", \"旋覆代赭汤\"], \"关联病机\": [\"胃寒\", \"胃热\", \"食滞\"]}"}
+{"id": "SYM_537", "name": "胃部不适", "category": "胸腹", "description": "胃部感觉不舒服，本案为胃家寒证，偶而想吐。", "first_gateway": "", "differential": "{\"关联方剂\": [\"吴茱萸汤\", \"理中汤\"], \"关联病机\": [\"胃家寒证\", \"中焦虚寒\"]}"}
+{"id": "SYM_538", "name": "胃酸", "category": "胸腹", "description": "胃酸过多，胃部不适，有灼热感或反酸。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\"], \"关联病机\": [\"胃家寒症\", \"胃寒\"]}"}
+{"id": "SYM_539", "name": "胃酸反逆", "category": "胸腹", "description": "胃酸向上逆流，自觉胃中有酸水上冲。本案病人有胃酸反逆，服用西药制酸剂，倪师指出胃酸过多是癌症的温床。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"吴茱萸汤\", \"左金丸\"], \"关联病机\": [\"胃气上逆\", \"肝胃不和\", \"胃寒\"]}"}
+{"id": "SYM_540", "name": "胆结石疼痛", "category": "胸腹", "description": "胆结石引起的右上腹或胁肋部疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胆结石\"]}"}
+{"id": "SYM_541", "name": "背后生疣", "category": "", "description": "背部生长疣体，可能与湿热毒邪有关。建议先切片排查黑色素瘤（meloma）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"皂荚丸\"], \"关联病机\": [\"肺中湿热\", \"湿热毒邪\"]}"}
+{"id": "SYM_542", "name": "背椎痛", "category": "四肢", "description": "背部第十一至第十四椎疼痛。本案因作园艺工作引起。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝芍药知母汤\", \"葛根汤\"], \"关联病机\": [\"外伤\", \"肾虚\", \"经络不通\"]}"}
+{"id": "SYM_543", "name": "背痛", "category": "胸腹", "description": "背部疼痛，本案病人为背面痛，需一直动才比较舒服。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"葛根汤\", \"肾着汤\", \"真武汤\"], \"关联病机\": [\"肾虚\", \"太阳经证\", \"寒湿痹阻\"]}"}
+{"id": "SYM_544", "name": "胰脏癌", "category": "全身", "description": "胰脏癌，本案为胰脏癌复诊。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"旋覆代赭汤\"], \"关联病机\": [\"寒热并结\", \"燥热\"]}"}
+{"id": "SYM_545", "name": "胸痛", "category": "胸腹", "description": "胸部疼痛，可牵及胁肋或后背。", "first_gateway": "", "differential": "{\"关联方剂\": [\"瓜蒌薤白白酒汤\", \"枳实薤白桂枝汤\"], \"关联病机\": [\"心阳不足\", \"胸阳不振\", \"瘀血\"]}"}
+{"id": "SYM_546", "name": "胸痛彻背", "category": "胸腹", "description": "胸部疼痛放射至背部。", "first_gateway": "", "differential": "{\"关联方剂\": [\"瓜蒌薤白白酒汤\", \"枳实薤白桂枝汤\"], \"关联病机\": [\"心阳不足\", \"胸阳不振\", \"阴实\"]}"}
+{"id": "SYM_547", "name": "胸胀痛", "category": "全身", "description": "胸部胀痛，通常与气血运行不畅、寒邪凝滞、奶水排出不畅等因素有关。在妇科中，常与月经周期相关，可能提示里寒导致奶水无法完全下行。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\"], \"关联病机\": [\"里寒\", \"奶水停聚\"]}"}
+{"id": "SYM_548", "name": "胸腔积水", "category": "胸腹", "description": "胸腔内积水，本案为半个月前发生，影响呼吸。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"十枣汤\"], \"关联病机\": [\"上假热下真寒\", \"肺病\"]}"}
+{"id": "SYM_549", "name": "胸部变大", "category": "头面", "description": "自觉胸部变大，本案为停经但仍有奶水分泌停留之故。", "first_gateway": "", "differential": "{\"关联方剂\": [\"温经汤\", \"逍遥散\"], \"关联病机\": [\"更年期\", \"奶水停留\"]}"}
+{"id": "SYM_550", "name": "胸闷", "category": "胸腹", "description": "胸部闷塞不舒，深呼吸或揉按后可缓解。", "first_gateway": "", "differential": "{\"关联方剂\": [\"枳实薤白桂枝汤\", \"瓜蒌薤白白酒汤\"], \"关联病机\": [\"心气不足\", \"心包痰湿\", \"胸阳不振\"]}"}
+{"id": "SYM_551", "name": "胸骨痛", "category": "胸腹", "description": "胸骨部位疼痛或不适感。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃家寒症\"]}"}
+{"id": "SYM_552", "name": "脂肪瘤", "category": "全身", "description": "皮下脂肪组织增生形成的良性肿瘤。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"更年期\"]}"}
+{"id": "SYM_553", "name": "脉大有力", "category": "脉象", "description": "脉象大而有力，本案为肥壮体型，脉大有力，脉形相合。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_554", "name": "脉小细缓", "category": "脉象", "description": "脉象细小而缓，提示心血不足，气血亏虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"桂枝汤\"], \"关联病机\": [\"心血不足\", \"气虚\", \"阳气不足\"]}"}
+{"id": "SYM_555", "name": "脉弦数无力", "category": "脉象", "description": "脉弦而数但无力，弦为肝脉，数为热，无力为虚。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"上热下寒\", \"肝损伤\"]}"}
+{"id": "SYM_556", "name": "脉弦数有力", "category": "脉象", "description": "脉象弦而数，按之有力。弦主肝胆病、痛证，数主热，有力主实。本案病人脉弦数有力，辨为胃有湿热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"龙胆泻肝汤\", \"白虎汤\", \"小柴胡汤\"], \"关联病机\": [\"肝火\", \"阳明热\", \"少阳证\"]}"}
+{"id": "SYM_557", "name": "脉弦有水", "category": "脉象", "description": "脉象弦，倪师判断体内有水饮。弦脉主水饮、痛证、肝胆病。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小半夏汤\", \"茯苓桂枝白术甘草汤\", \"五苓散\"], \"关联病机\": [\"水饮内停\", \"痰饮\", \"水气凌心\"]}"}
+{"id": "SYM_558", "name": "脉微时有时无", "category": "脉象", "description": "脉象微弱，有时摸不到。本案病人脉微，时有时无。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"通脉四逆汤\"], \"关联病机\": [\"阳衰气微\", \"少阴证\"]}"}
+{"id": "SYM_559", "name": "脉数有力", "category": "脉象", "description": "脉象数而有力，本案为中下焦实热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大黄牡丹皮汤\", \"白虎汤\"], \"关联病机\": [\"中下焦实热\", \"肠痈\"]}"}
+{"id": "SYM_560", "name": "脉沈细小无力", "category": "脉象", "description": "脉象沉、细小、无力，为少阴证、肾阳不足之象。本案寸上寸无附骨脉，咽喉无癌症。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄附子细辛汤\", \"四逆汤\"], \"关联病机\": [\"肾阳不足\", \"少阴证\"]}"}
+{"id": "SYM_561", "name": "脉沉缓有力", "category": "脉象", "description": "脉象沉缓而有力，本案为风寒湿三痺。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"甘草附子汤\"], \"关联病机\": [\"风寒湿三痺\", \"里寒\"]}"}
+{"id": "SYM_562", "name": "脉洪大", "category": "脉象", "description": "脉象洪大有力，提示热盛或实证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大承气汤\", \"白虎汤\"], \"关联病机\": [\"阳明经热\", \"热实证\"]}"}
+{"id": "SYM_563", "name": "脉洪大浮", "category": "脉象", "description": "脉象洪大且浮，本案为金属过敏，上焦热盛。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_564", "name": "脉洪大浮数中空", "category": "脉象", "description": "脉象洪大浮数，按之中空，为芤脉，阳明热而血虚的表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阳明热\", \"血虚\"]}"}
+{"id": "SYM_565", "name": "脉洪数无力", "category": "脉象", "description": "脉来洪大数疾但按之无力，阴虚阳浮之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"黄连阿胶汤\"], \"关联病机\": [\"阴虚火旺\", \"阳气浮越\"]}"}
+{"id": "SYM_566", "name": "脉洪有力", "category": "脉象", "description": "脉象洪大且有力。本案为上焦太热、湿，脉洪有力。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_567", "name": "脉洪缓有力", "category": "脉象", "description": "脉象洪大、和缓、有力。本案为血小板减少紫瘢复诊，脉洪缓有力。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_568", "name": "脉浮", "category": "脉象", "description": "脉位浮，轻按即得。本案二诊脉由沉细（少阴脉）转为脉浮，提示阳气渐复。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"桂枝汤\"], \"关联病机\": [\"阳气回复\", \"表证\", \"阴阳调和\"]}"}
+{"id": "SYM_569", "name": "脉浮稍洪", "category": "脉象", "description": "脉象浮而稍洪，本案为肝积毒素。", "first_gateway": "", "differential": "{\"关联方剂\": [\"柴胡汤\", \"龙胆泻肝汤\"], \"关联病机\": [\"肝积毒素\", \"肝热\"]}"}
+{"id": "SYM_570", "name": "脉浮缓", "category": "脉象", "description": "脉浮缓为太阳中风典型脉象。浮主表，缓主风，提示病在表、有汗出。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\"], \"关联病机\": [\"太阳中风\"]}"}
+{"id": "SYM_571", "name": "脉稍弦数", "category": "脉象", "description": "脉象稍弦而数。弦脉主寒、主痛、主肝胆病；数脉主热。脉稍弦数提示里有寒实，阳气与邪气相争。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"里寒\", \"少阳证\", \"肝阳上亢\"]}"}
+{"id": "SYM_572", "name": "脉稍数", "category": "脉象", "description": "脉象稍数（稍快）。本案为甲状腺脉象亢进，脉稍数。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_573", "name": "脉细小无力", "category": "脉象", "description": "脉细、小、无力，表示气血不足、阳虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"小建中汤\"], \"关联病机\": [\"阳虚\", \"气血不足\", \"肾阳不足\"]}"}
+{"id": "SYM_574", "name": "脉细无力", "category": "脉象", "description": "脉象细弱无力。倪师曰：脉细无力为少阴证的脉。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"通脉四逆汤\"], \"关联病机\": [\"少阴证\", \"阳衰气微\"]}"}
+{"id": "SYM_575", "name": "脉缓有力", "category": "脉象", "description": "脉象缓而有力。缓脉主湿、主脾胃虚弱；有力主实。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"五苓散\", \"平胃散\"], \"关联病机\": [\"湿邪困阻\", \"气血不足\", \"实证\"]}"}
+{"id": "SYM_576", "name": "脉芤", "category": "脉象", "description": "脉浮大而软，按之中空，如按葱管。主血虚、失血。本案为表血虚，故掉头发。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_577", "name": "脉虚数", "category": "脉象", "description": "脉象虚而数，重按则无，本案为真寒假热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"四逆汤\"], \"关联病机\": [\"真寒假热\", \"虚热\"]}"}
+{"id": "SYM_578", "name": "脉虚数弦无力", "category": "脉象", "description": "脉象虚、数、弦、无力：虚为正气不足，数为有热，弦为肝气郁结，无力为气虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"小建中汤\"], \"关联病机\": [\"心血不足\", \"心阳不足\", \"肝气郁结\"]}"}
+{"id": "SYM_579", "name": "脉附骨", "category": "脉象", "description": "脉重按至骨，仍感有力。为阴实（癌症）之脉象。本案初诊有附骨脉，复诊无附骨脉（好转）。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_580", "name": "脊柱肿瘤", "category": "全身", "description": "脊柱肿瘤，T6,T7有肿瘤，引起背痛，沿阳维脉到前肋下。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\"], \"关联病机\": [\"奶水逆流\", \"里寒\", \"心阳不足\"]}"}
+{"id": "SYM_581", "name": "脑瘤", "category": "全身", "description": "脑瘤，女人脑部长东西绝大多数是月经停了，奶水又无法从下面排出，奶水回逆到脑部造成的。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": [\"奶水回逆\"]}"}
+{"id": "SYM_582", "name": "脖子生癣", "category": "全身", "description": "颈部皮肤生癣，本案为皮下湿，之前湿疹已愈。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻杏薏甘汤\"], \"关联病机\": [\"皮下湿\", \"风湿热\"]}"}
+{"id": "SYM_583", "name": "脖子痠", "category": "全身", "description": "颈部酸痛不适，活动不利。", "first_gateway": "", "differential": "{\"关联方剂\": [\"葛根汤\"], \"关联病机\": [\"风寒束表\", \"表证未解\"]}"}
+{"id": "SYM_584", "name": "脚冷", "category": "", "description": "脚部感觉冷，温度降低，提示阳虚或气血不足，阳气不能温煦四肢。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_585", "name": "脚抽筋", "category": "四肢", "description": "小腿或足部肌肉痉挛抽筋。", "first_gateway": "", "differential": "{\"关联方剂\": [\"芍药甘草汤\"], \"关联病机\": [\"血虚\", \"肝血不足\"]}"}
+{"id": "SYM_586", "name": "脸颊蝴蝶斑", "category": "头面", "description": "脸颊两侧出现蝴蝶状红斑，多见于阴虚内热或血瘀证。本案提示可能为自身免疫病或癌症表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"血府逐瘀汤\"], \"关联病机\": [\"阴虚内热\", \"血瘀\", \"中焦湿热\"]}"}
+{"id": "SYM_587", "name": "脸颊蝴蝶斑退", "category": "头面", "description": "脸颊蝴蝶状红斑消退。本案为胰脏癌治疗后，热毒外透，蝴蝶斑退去。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"白虎汤\"], \"关联病机\": [\"中焦湿热减轻\", \"热毒外透\", \"胰脏癌好转\"]}"}
+{"id": "SYM_588", "name": "腋下肿块热烫", "category": "四肢", "description": "腋下肿块，触之热烫，为乳癌淋巴转移的表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"乳癌\", \"阴实\", \"淋巴转移\"]}"}
+{"id": "SYM_589", "name": "腋下肿大", "category": "四肢", "description": "腋下肿大，乳癌淋巴转移的表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"乳癌\", \"淋巴转移\"]}"}
+{"id": "SYM_590", "name": "腰痛", "category": "四肢", "description": "腰部疼痛，本案为里寒重，肾虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"独活寄生汤\"], \"关联病机\": [\"里寒重\", \"肾虚\"]}"}
+{"id": "SYM_591", "name": "腰背潮热", "category": "寒热", "description": "腰背部阵发性发热。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"阴阳不和\", \"肾虚\"]}"}
+{"id": "SYM_592", "name": "腰酸", "category": "四肢", "description": "腰部酸软疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\", \"肾阳不足\"]}"}
+{"id": "SYM_593", "name": "腹中水声", "category": "胸腹", "description": "腹中偶有水声，平躺时多出现，为水饮在腹中表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"苓桂术甘汤\", \"肾着汤\"], \"关联病机\": [\"水饮\", \"中焦寒水\", \"脾湿\"]}"}
+{"id": "SYM_594", "name": "腹水", "category": "胸腹", "description": "腹部积水，本案为肝硬化导致腹水。", "first_gateway": "", "differential": "{\"关联方剂\": [\"胃苓汤\", \"分消汤\"], \"关联病机\": [\"上假热下真寒\", \"肝病腹水\"]}"}
+{"id": "SYM_595", "name": "腿冷", "category": "四肢", "description": "腿部感觉冷。本案双足温，仍及腿冷，提示下焦有寒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\", \"四逆汤\", \"麻黄附子细辛汤\"], \"关联病机\": [\"肾阳虚\", \"下焦寒\", \"阳虚\"]}"}
+{"id": "SYM_596", "name": "腿有力些双臂无力", "category": "四肢", "description": "腿部力量有所恢复但双臂仍然无力。倪师曰：手的力量由心脏管，脚的力量由肾脏管。", "first_gateway": "", "differential": "{\"关联方剂\": [\"六味地黄丸\", \"四逆汤\"], \"关联病机\": [\"肾虚好转\", \"心气不足\"]}"}
+{"id": "SYM_597", "name": "腿痠", "category": "四肢", "description": "腿部酸痛不适，乏力感。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"风寒束表\", \"表证未解\"]}"}
+{"id": "SYM_598", "name": "膀胱癌术后", "category": "全身", "description": "膀胱癌手术后，本案为三个月前开刀。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"桂枝茯苓丸\"], \"关联病机\": [\"里寒\", \"久瘀\"]}"}
+{"id": "SYM_599", "name": "膝下麻痛", "category": "四肢", "description": "膝盖以下部位出现麻木和疼痛，本案病人双膝下麻、痛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝芍药知母汤\", \"当归四逆汤\", \"补阳还五汤\"], \"关联病机\": [\"肾虚\", \"风湿痹痛\", \"血瘀\"]}"}
+{"id": "SYM_600", "name": "膝痛", "category": "四肢", "description": "膝关节疼痛、酸痛，行走时加重，多与肾虚、寒湿有关。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\", \"寒湿\"]}"}
+{"id": "SYM_601", "name": "自喉开始咳", "category": "头面", "description": "从喉咙开始咳嗽，本案为上焦肺力量不够。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"桔梗汤\"], \"关联病机\": [\"上焦肺力量不够\", \"痰水\"]}"}
+{"id": "SYM_602", "name": "自杀倾向", "category": "全身", "description": "有自杀的想法或行为，本案为心血不足，心阳不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝甘草汤\", \"远志饮子\"], \"关联病机\": [\"心血不足\", \"心阳不足\"]}"}
+{"id": "SYM_603", "name": "自残", "category": "全身", "description": "自我伤害行为，本案为14岁少女发病时自残。", "first_gateway": "", "differential": "{\"关联方剂\": [\"甘麦大枣汤\", \"HT-70定心丸\"], \"关联病机\": [\"皮下湿\", \"情志失调\"]}"}
+{"id": "SYM_604", "name": "自觉手足冰冷", "category": "四肢", "description": "自觉手足冰冷，本案为表虚里寒。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"四逆汤\"], \"关联病机\": [\"表虚里寒\"]}"}
+{"id": "SYM_605", "name": "舌如干橘子", "category": "舌象", "description": "舌质干燥皱缩，形如干橘子皮。为心阴已伤之象，常由西药造成。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆加吴茱萸干姜汤\"], \"关联病机\": [\"心阴伤\"]}"}
+{"id": "SYM_606", "name": "舌形扁", "category": "舌象", "description": "舌体形状扁平，提示血虚。舌形胖为气虚，舌形扁为血虚。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"血虚\"]}"}
+{"id": "SYM_607", "name": "舌根有地图舌", "category": "舌象", "description": "舌根有地图舌，表示心已伤。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": [\"心已伤\"]}"}
+{"id": "SYM_608", "name": "舌淡白干", "category": "舌象", "description": "舌质淡白，苔干燥。为里寒兼津液不足之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大柴胡汤\"], \"关联病机\": [\"大柴胡汤证\", \"胆道阻塞\"]}"}
+{"id": "SYM_609", "name": "舌淡白湿", "category": "舌象", "description": "舌质淡白，苔湿润。为里寒湿或脾肾阳虚之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小建中汤\", \"麻黄附子细辛汤\"], \"关联病机\": [\"少阴证\", \"脾虚\", \"先天不足\"]}"}
+{"id": "SYM_610", "name": "舌淡白红", "category": "舌象", "description": "舌色淡白偏红，为脾阳不足，气血不足之象。本案为复诊，舌淡白红。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_611", "name": "舌淡白红干", "category": "舌象", "description": "舌质淡白，舌尖红，舌体干燥。为心阳不足、阴血亏虚之象。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心阳不足\", \"肝损伤\"]}"}
+{"id": "SYM_612", "name": "舌淡白黄", "category": "舌象", "description": "舌质淡白，苔黄。为里寒实兼上热之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\"], \"关联病机\": [\"里寒实\"]}"}
+{"id": "SYM_613", "name": "舌淡白黄干", "category": "舌象", "description": "舌质淡白，苔黄而干。为里寒兼热、津液不足之象。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\", \"肝积毒素\"]}"}
+{"id": "SYM_614", "name": "舌淡红干", "category": "舌象", "description": "舌色淡红，但舌面干燥，提示阴液不足或湿热伤阴。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_615", "name": "舌淡红白", "category": "舌象", "description": "舌质淡红，苔白。为少阳证或肝脾两虚之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小柴胡汤\"], \"关联病机\": [\"少阳证\", \"肝脾两虚\"]}"}
+{"id": "SYM_616", "name": "舌淡红苔薄", "category": "舌象", "description": "舌质颜色淡红，舌苔薄。本案倪师辨为虚证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"八珍汤\", \"桂枝汤\", \"小建中汤\"], \"关联病机\": [\"气血不足\", \"虚证\", \"表证\"]}"}
+{"id": "SYM_617", "name": "舌淡黄干", "category": "舌象", "description": "舌质淡黄，苔干燥。为津液不足、内有郁热之象。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胆结石\", \"心气郁结\"]}"}
+{"id": "SYM_618", "name": "舌淡黄湿", "category": "舌象", "description": "舌苔淡黄而湿润。提示湿热或上焦湿热。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_619", "name": "舌淡黄湿裂痕", "category": "舌象", "description": "舌苔淡黄湿润有裂痕，提示寒湿兼有热象。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃家微寒\", \"湿\"]}"}
+{"id": "SYM_620", "name": "舌淡黄白厚", "category": "舌象", "description": "舌质淡黄，苔白厚。为脾肾阳虚、湿盛之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"桂枝芍药知母汤\"], \"关联病机\": [\"肾阳不足\", \"脾阳不足\"]}"}
+{"id": "SYM_621", "name": "舌淡黄白湿", "category": "舌象", "description": "舌质淡，苔黄白，湿润。本案为过重、湿热造成。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_622", "name": "舌淡黄红有裂痕", "category": "", "description": "舌诊淡黄红，有裂痕，提示热盛伤津或阴虚内热。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_623", "name": "舌淡黄红湿", "category": "舌象", "description": "舌质淡黄，舌尖红，苔湿润。为肝中毒素、心血不足之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\"], \"关联病机\": [\"肝中毒素\", \"肾阳上浮\"]}"}
+{"id": "SYM_624", "name": "舌生疮", "category": "头面", "description": "舌上或口腔内出现溃疡疮点，心火上炎的表现。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心火上炎\", \"心热反逆\"]}"}
+{"id": "SYM_625", "name": "舌白湿厚", "category": "舌象", "description": "舌苔白、湿、厚，为寒湿内盛之象。倪师说此乃典型的肾脏不好之舌象（快肾衰竭了）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"五苓散\"], \"关联病机\": [\"寒湿\", \"肾阳虚\", \"肾衰竭\"]}"}
+{"id": "SYM_626", "name": "舌白湿红干", "category": "舌象", "description": "舌苔白而湿润，舌质红而干燥。寒凝于胃，虚热上浮之象。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃家寒症\", \"阳虚\", \"湿热\"]}"}
+{"id": "SYM_627", "name": "舌稍黄有裂纹", "category": "舌象", "description": "舌苔稍黄且有裂纹，本案为心有受损，有瘀在内。", "first_gateway": "", "differential": "{\"关联方剂\": [\"血府逐瘀汤\", \"天王补心丹\"], \"关联病机\": [\"心受损\", \"有瘀在内\"]}"}
+{"id": "SYM_628", "name": "舌肥大", "category": "舌象", "description": "舌体肥大，充满口腔。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"脾虚\", \"湿盛\"]}"}
+{"id": "SYM_629", "name": "舌苔黄湿厚", "category": "舌象", "description": "舌苔黄、湿润、厚腻，提示湿热内蕴，常见于肺中湿热、肠胃湿热、肝胆湿热等。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"三黄泻心汤\"], \"关联病机\": [\"肺中湿热\", \"肠胃湿热\", \"肝胆湿热\"]}"}
+{"id": "SYM_630", "name": "舌裂纹多", "category": "舌象", "description": "舌面上有多条裂纹，多为阴虚、津液不足的表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\"], \"关联病机\": [\"阴虚\", \"心血不足\"]}"}
+{"id": "SYM_631", "name": "舌麻", "category": "舌象", "description": "舌头麻木，本案为服用生附子后的正常反应，说明剂量达到。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\"], \"关联病机\": [\"里寒\", \"药物反应\"]}"}
+{"id": "SYM_632", "name": "舌黄厚干", "category": "舌象", "description": "舌苔黄色，厚而干燥。提示热盛伤津，里热炽盛。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_633", "name": "舌黄干", "category": "舌象", "description": "舌苔黄而干燥。为阳明经热、津液已伤之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\"], \"关联病机\": [\"阳明经热\", \"脂肪肝\"]}"}
+{"id": "SYM_634", "name": "舌黄干稍厚", "category": "舌象", "description": "舌苔黄色，干燥，稍厚。提示上焦燥热或胃热炽盛，津液受损。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_635", "name": "舌黄湿", "category": "舌象", "description": "舌苔黄而湿润，提示湿热或痰湿内蕴。", "first_gateway": "", "differential": "{\"关联方剂\": [\"乌梅丸\"], \"关联病机\": [\"湿热\", \"心包痰湿\"]}"}
+{"id": "SYM_636", "name": "舌黄湿厚", "category": "舌象", "description": "舌苔黄湿厚，提示湿热或热实证。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"热实证\", \"湿\"]}"}
+{"id": "SYM_637", "name": "舌黄湿裂痕", "category": "舌象", "description": "舌苔黄湿有裂痕，提示湿热内蕴。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"湿热\", \"宿食\"]}"}
+{"id": "SYM_638", "name": "舞蹈症", "category": "四肢", "description": "走路有如舞蹈状，肢体不自主运动。", "first_gateway": "", "differential": "{\"关联方剂\": [\"百合地黄汤\"], \"关联病机\": [\"痰阻血脉神经\", \"风痰\"]}"}
+{"id": "SYM_639", "name": "落发", "category": "头面", "description": "头发脱落，可因肝肾不足、血热、湿热上蒸等引起。", "first_gateway": "", "differential": "{\"关联方剂\": [\"六味地黄丸\", \"桂枝茯苓丸\"], \"关联病机\": [\"肝肾不足\", \"血热\", \"中焦湿热\"]}"}
+{"id": "SYM_640", "name": "落发多", "category": "头面", "description": "头发脱落多，本案为32岁女性，落发多，白头发仍多。", "first_gateway": "", "differential": "{\"关联方剂\": [\"七宝美髯丹\", \"首乌丸\"], \"关联病机\": [\"肝肾不足\", \"血热\"]}"}
+{"id": "SYM_641", "name": "血中酸过多", "category": "全身", "description": "血液中酸性物质过多，本案为饮酒造成。", "first_gateway": "", "differential": "{\"关联方剂\": [\"五苓散\", \"四妙丸\"], \"关联病机\": [\"脾受损\", \"酸克甘\"]}"}
+{"id": "SYM_642", "name": "血小板减少紫瘢", "category": "全身", "description": "血小板减少导致的皮肤紫斑、出血倾向。本案为复诊，服前方后好转。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_643", "name": "血尿", "category": "二便", "description": "小便频尿时伴血尿，排尿时疼痛。痛位在膀胱少腹。", "first_gateway": "", "differential": "{\"关联方剂\": [\"猪苓汤\"], \"关联病机\": [\"肾家寒湿\", \"膀胱湿热\"]}"}
+{"id": "SYM_644", "name": "血糖300以上", "category": "全身", "description": "血糖值超过300mg/dL，本案为里热仍有。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"玉女煎\"], \"关联病机\": [\"里热仍有\", \"上热下寒\"]}"}
+{"id": "SYM_645", "name": "见光则吐", "category": "头面", "description": "见到光线就呕吐，本案为阳虚，光是阳，阳虚故见光则吐。", "first_gateway": "", "differential": "{\"关联方剂\": [\"藜芦甘草汤\", \"四逆汤\"], \"关联病机\": [\"阳虚\", \"痰饮\"]}"}
+{"id": "SYM_646", "name": "视力变差", "category": "头面", "description": "视力逐渐或突然下降，看东西模糊不清。本案病人因压力、癌症等因素导致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"杞菊地黄丸\", \"明目地黄丸\", \"天麻钩藤饮\"], \"关联病机\": [\"肝血不足\", \"肝肾阴虚\", \"风热上扰\"]}"}
+{"id": "SYM_647", "name": "视力好转", "category": "眼象", "description": "视力状况好转，本案为进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"杞菊地黄丸\", \"决明子\"], \"关联病机\": [\"进步中\", \"肝血渐复\"]}"}
+{"id": "SYM_648", "name": "解尿刺痛", "category": "二便", "description": "解小便时尿道刺痛，本案为膀胱结石所致。耳诊肾结石点按之疼痛。", "first_gateway": "", "differential": "{\"关联方剂\": [\"猪苓汤\", \"五苓散\"], \"关联病机\": [\"膀胱结石\", \"下焦湿热\"]}"}
+{"id": "SYM_649", "name": "记忆不好", "category": "头面", "description": "记忆力减退，健忘。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\", \"心血不足\"]}"}
+{"id": "SYM_650", "name": "说梦话", "category": "睡眠", "description": "睡眠中不自主说话。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心藏神未复\", \"痰饮扰心\"]}"}
+{"id": "SYM_651", "name": "说话不清", "category": "头面", "description": "说话不清楚，言语表达困难。倪师曰：说话不清楚责之于心，因为心开窍于舌，舌为心之表。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"利膈汤\"], \"关联病机\": [\"心气不足\", \"里真寒证\"]}"}
+{"id": "SYM_652", "name": "说话仍慢", "category": "头面", "description": "说话速度缓慢。本案病人说话仍慢，心开窍于舌。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"利膈汤\"], \"关联病机\": [\"心气不足\", \"里真寒证\"]}"}
+{"id": "SYM_653", "name": "走路气短", "category": "全身", "description": "走路时感觉气短，本案为里寒重，肾不得肺津。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"肾气丸\"], \"关联病机\": [\"里寒重\", \"肾不得肺津\"]}"}
+{"id": "SYM_654", "name": "足仍冷", "category": "四肢", "description": "双足仍然寒冷，本案为里寒实，阴实未除。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒实\", \"阴实\"]}"}
+{"id": "SYM_655", "name": "足仍痛", "category": "四肢", "description": "双足仍然疼痛，本案为进步中，胃中仍有憩室。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"桂枝芍药知母汤\"], \"关联病机\": [\"进步中\", \"胃中憩室\"]}"}
+{"id": "SYM_656", "name": "足外翻", "category": "四肢", "description": "足部向外翻，中风后遗症。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"中风后遗症\", \"阳不足\"]}"}
+{"id": "SYM_657", "name": "足太阳膀胱经腰痛", "category": "四肢", "description": "腰痛沿足太阳膀胱经走向，从腰沿双腿后侧向下至膝国部。本案为腰痛沿双腿后侧向下至膝国部。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_658", "name": "足温已温许多", "category": "四肢", "description": "足部温度回暖很多，本案为病人进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"四逆汤\"], \"关联病机\": [\"病人进步中\"]}"}
+{"id": "SYM_659", "name": "足趾冰冷", "category": "四肢", "description": "足趾冰冷，一年四季都如此。提示下焦虚寒、肾阳不足。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"下焦寒\", \"肾阳差\"]}"}
+{"id": "SYM_660", "name": "足跟痛", "category": "四肢", "description": "足跟部疼痛，行走或站立时加重。肾经循行过足跟，足跟痛为肾虚之象。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾虚\", \"肾阳不足\"]}"}
+{"id": "SYM_661", "name": "足麻", "category": "四肢", "description": "足部麻木感，时发时止。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"血虚\", \"阳不足\"]}"}
+{"id": "SYM_662", "name": "身体冷", "category": "寒热", "description": "身体感觉寒冷，本案为里寒，身体仍冷。", "first_gateway": "", "differential": "{\"关联方剂\": [\"四逆汤\", \"当归四逆汤\"], \"关联病机\": [\"里寒\", \"阳虚\"]}"}
+{"id": "SYM_663", "name": "身体无寒热", "category": "寒热", "description": "身体没有怕冷或怕热的感觉。本案病人身体无寒热。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"表里和平\", \"阴阳调和\"]}"}
+{"id": "SYM_664", "name": "身体时冷时热", "category": "寒热", "description": "身体一阵冷一阵热，寒热交替。患者上热下寒，心热无法下到小肠，气血失调。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"小柴胡汤\"], \"关联病机\": [\"上热下寒\", \"少阳证\", \"气血失调\"]}"}
+{"id": "SYM_665", "name": "身体时有热感", "category": "寒热", "description": "身体阵发性发热，时有时无，本案病人身体有时觉得热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小柴胡汤\", \"桂枝汤\", \"麻黄附子细辛汤\"], \"关联病机\": [\"少阳证\", \"上热下寒\", \"阴阳不调\"]}"}
+{"id": "SYM_666", "name": "身体热", "category": "寒热", "description": "身体感觉发热，本案为里寒湿，虚热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"知柏地黄丸\"], \"关联病机\": [\"里寒湿\", \"虚热\"]}"}
+{"id": "SYM_667", "name": "身冷", "category": "寒热", "description": "全身发冷，为里寒之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大柴胡汤\"], \"关联病机\": [\"大柴胡汤证\", \"里寒\"]}"}
+{"id": "SYM_668", "name": "身冷手热", "category": "寒热", "description": "身体感觉冷但手部发热。本案睡时身冷手热、面冷，为上热下寒之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄附子细辛汤\", \"潜阳丹\"], \"关联病机\": [\"上热下寒\", \"阳浮于上\", \"肾阳虚\"]}"}
+{"id": "SYM_669", "name": "身很热感", "category": "寒热", "description": "身体感觉很热，本案为里热仍有。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"青蒿鳖甲汤\"], \"关联病机\": [\"里热仍有\"]}"}
+{"id": "SYM_670", "name": "身时出汗皮湿", "category": "全身", "description": "身体时常出汗且皮肤湿润，本案为表虚。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\", \"玉屏风散\"], \"关联病机\": [\"表虚里寒\"]}"}
+{"id": "SYM_671", "name": "身时热时冷", "category": "寒热", "description": "身体一会儿发热一会儿发冷，属往来寒热之象。本案为湿热内蕴，正邪交争。", "first_gateway": "", "differential": "{\"关联方剂\": [\"小柴胡汤\", \"乌梅丸\"], \"关联病机\": [\"少阳证\", \"厥阴证\", \"中焦湿热\"]}"}
+{"id": "SYM_672", "name": "身温偶而身热", "category": "寒热", "description": "身体温度正常但偶尔出现一阵身热。本案为87岁乳癌患者，真寒假热之象。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_673", "name": "身温正常", "category": "寒热", "description": "身体温度正常，无异常寒热。本案为复诊，进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_674", "name": "身热", "category": "寒热", "description": "身体发热感，下午尤甚。可见于阳明经热或更年期潮热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\"], \"关联病机\": [\"阳明经热\", \"更年期\"]}"}
+{"id": "SYM_675", "name": "身热多汗", "category": "寒热", "description": "身体发热，出汗较多。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\"], \"关联病机\": [\"阳明经热\", \"更年期\"]}"}
+{"id": "SYM_676", "name": "身热退", "category": "寒热", "description": "身体发热症状消退。本案为胰脏癌治疗后，中焦湿热减轻，身热退。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"白虎汤\"], \"关联病机\": [\"中焦湿热减轻\", \"胰脏癌好转\"]}"}
+{"id": "SYM_677", "name": "身燥热（白天）", "category": "寒热", "description": "白天身体感到燥热，多因上焦燥热，阳浮于外，阴不敛阳所致。本案因阴血不足引起。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_678", "name": "身瞤动", "category": "全身", "description": "肌肉不自主跳动。本案病人时身瞤动，倪师曰：皮下有多余的水。", "first_gateway": "", "differential": "{\"关联方剂\": [\"真武汤\", \"五苓散\", \"芍药甘草汤\"], \"关联病机\": [\"皮下有水\", \"血虚风动\", \"肝风内动\"]}"}
+{"id": "SYM_679", "name": "身肿", "category": "全身", "description": "身体浮肿。本案ALS病人身肿，皮下有多余的水（肌肉瞤动）。", "first_gateway": "", "differential": "{\"关联方剂\": [\"五苓散\", \"真武汤\", \"越婢汤\"], \"关联病机\": [\"皮下有水\", \"阳虚水泛\", \"风水\"]}"}
+{"id": "SYM_680", "name": "身黄", "category": "全身", "description": "全身皮肤发黄，为黄疸之象。胆道阻塞所致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"大柴胡汤\"], \"关联病机\": [\"大柴胡汤证\", \"胆道阻塞\"]}"}
+{"id": "SYM_681", "name": "过敏引起气喘", "category": "全身", "description": "因过敏引起的气喘，本案为猫过敏引起。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"桂枝甘草汤\"], \"关联病机\": [\"上焦肺力量不够\", \"过敏\"]}"}
+{"id": "SYM_682", "name": "运动后想吐", "category": "全身", "description": "运动后想要呕吐，本案为肺中寒湿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"小半夏汤\"], \"关联病机\": [\"肺中寒湿\", \"痰水\"]}"}
+{"id": "SYM_683", "name": "运动后汗多", "category": "汗", "description": "运动后出汗量明显增多。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\"], \"关联病机\": [\"表虚\", \"心阳不足\"]}"}
+{"id": "SYM_684", "name": "运动时会流汗", "category": "全身", "description": "运动时会有汗出，这是检查心脏功能正常的表现。本案为复诊，运动时会流汗。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_685", "name": "近两月没来月经", "category": "月经", "description": "近两个月没有来月经，本案为子宫肌瘤导致。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝茯苓丸\", \"桃红四物汤\"], \"关联病机\": [\"里寒湿\", \"少阴症\"]}"}
+{"id": "SYM_686", "name": "遗屎失禁", "category": "二便", "description": "晨起必须立刻上厕所，否则遗屎失禁。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"中气下陷\", \"肾虚\"]}"}
+{"id": "SYM_687", "name": "酸血症", "category": "全身", "description": "血液中酸性物质过多（Acidic blood），本案为饮酒造成。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"五苓散\"], \"关联病机\": [\"表虚里寒\"]}"}
+{"id": "SYM_688", "name": "长期气喘", "category": "全身", "description": "长期气喘症状，本案为肺中寒湿。", "first_gateway": "", "differential": "{\"关联方剂\": [\"射干麻黄汤\", \"小青龙汤\"], \"关联病机\": [\"肺中寒湿\"]}"}
+{"id": "SYM_689", "name": "闭经", "category": "月经", "description": "月经停止不来。肝脾两虚可致月经停。", "first_gateway": "", "differential": "{\"关联方剂\": [\"六味地黄丸\", \"四物汤\"], \"关联病机\": [\"肝脾两虚\"]}"}
+{"id": "SYM_690", "name": "阳反应不强", "category": "全身", "description": "男性性功能减退，阳事不举或举而不坚。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肾阳不足\"]}"}
+{"id": "SYM_691", "name": "难以入睡", "category": "睡眠", "description": "入睡困难，躺下后久久不能入睡。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"心血不足\", \"心阳不足\"]}"}
+{"id": "SYM_692", "name": "非常不易出汗", "category": "全身", "description": "非常不容易出汗，本案为风寒湿三痺。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"甘草附子汤\"], \"关联病机\": [\"风寒湿三痺\"]}"}
+{"id": "SYM_693", "name": "面冷", "category": "头面", "description": "面部感觉冷。本案睡时身冷手热、面冷，为上热下寒、阳气浮越之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄附子细辛汤\", \"真武汤\"], \"关联病机\": [\"阳气浮越\", \"上热下寒\", \"阳虚\"]}"}
+{"id": "SYM_694", "name": "面热", "category": "头面", "description": "面部发热感，多见于更年期或上热下寒证。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"上热下寒\", \"更年期\"]}"}
+{"id": "SYM_695", "name": "面红", "category": "头面", "description": "面色发红，为阳明经热上攻之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\"], \"关联病机\": [\"阳明经热\"]}"}
+{"id": "SYM_696", "name": "面赤", "category": "头面", "description": "面部颜色发红，本案为脉洪大浮，有汗，面赤。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_697", "name": "面部红斑", "category": "头面", "description": "面部出现红色斑点，四散分布。本案因金属过敏导致。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_698", "name": "颈部肿块稍软", "category": "头面", "description": "颈部肿块触之较前稍软，本案为多发性骨髓瘤及鼻咽癌，治疗进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"牡蛎\", \"瓦楞子\", \"络石藤\"], \"关联病机\": [\"里寒实\", \"阴实\"]}"}
+{"id": "SYM_699", "name": "颈部肿块缩小", "category": "头面", "description": "颈部肿块体积缩小，本案为多发性骨髓瘤及鼻咽癌，治疗进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"牡蛎\", \"瓦楞子\", \"络石藤\"], \"关联病机\": [\"里寒实\", \"阴实\"]}"}
+{"id": "SYM_700", "name": "频尿", "category": "二便", "description": "小便次数频繁，本案为肾阳虚，心阳不足。", "first_gateway": "", "differential": "{\"关联方剂\": [\"肾气丸\", \"缩泉丸\"], \"关联病机\": [\"肾阳虚\", \"心阳不足\"]}"}
+{"id": "SYM_701", "name": "额头热", "category": "头面", "description": "额头部位发热，提示上热。患者伴有手指冰、双足冷等下寒表现，属上热下寒证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"炙甘草汤\", \"白虎汤\"], \"关联病机\": [\"上热下寒\", \"心热上逆\", \"肺热\"]}"}
+{"id": "SYM_702", "name": "额头肿瘤切除术后", "category": "头面", "description": "左眉上方肿瘤切除术后，本案为慢性成长癌。", "first_gateway": "", "differential": "{\"关联方剂\": [\"黄连阿胶汤\", \"大承气汤\"], \"关联病机\": [\"上热下焦也热\", \"寒热并结\"]}"}
+{"id": "SYM_703", "name": "额小温", "category": "寒热", "description": "额头微温，温度稍高。本案为乳癌复诊，药力已到，阳气回复之象。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_704", "name": "食后嗳气", "category": "胸腹", "description": "进食后嗳气、打嗝，胃气上逆的表现。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\"], \"关联病机\": [\"胃气上逆\", \"胃寒\"]}"}
+{"id": "SYM_705", "name": "食后胀气", "category": "胸腹", "description": "进食后腹部胀气，本案为脾胃虚寒，气机不畅。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"半夏厚朴汤\"], \"关联病机\": [\"脾胃虚寒\", \"气机不畅\"]}"}
+{"id": "SYM_706", "name": "食后腹胀", "category": "胸腹", "description": "一吃食物则腹胀大，必须走路活动才能缓解，坐着不动则腹胀严重。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃寒\", \"脾虚\"]}"}
+{"id": "SYM_707", "name": "食道中间痛", "category": "胸腹", "description": "食道中间位置疼痛，本案为Barrett's disease（巴雷特食管）及肾阳不足所致。针刺列缺、照海后立去。", "first_gateway": "", "differential": "{\"关联方剂\": [\"吴茱萸汤\", \"麻黄附子细辛汤\"], \"关联病机\": [\"胃家寒证\", \"肾阳不足\", \"Barrett's disease\"]}"}
+{"id": "SYM_708", "name": "食道生感", "category": "胸腹", "description": "食道部位有不适感、异物感或生涩感，西医可能诊断为胃酸过多，但病人本人可能无典型反酸症状。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\", \"半夏厚朴汤\"], \"关联病机\": [\"胃气上逆\", \"痰气交阻\"]}"}
+{"id": "SYM_709", "name": "餐后胀气", "category": "胸腹", "description": "进食后腹部胀满不适。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"胃气上逆\", \"脾虚\"]}"}
+{"id": "SYM_710", "name": "饭后气逆", "category": "胸腹", "description": "饭后气逆上冲，嗳气后才觉舒适。喝水后也会嗝气上来。无呕酸。病程已十年。", "first_gateway": "", "differential": "{\"关联方剂\": [\"旋覆代赭汤\"], \"关联病机\": [\"中焦有寒水\", \"胃气上逆\"]}"}
+{"id": "SYM_711", "name": "饭后胃不痛", "category": "胸腹", "description": "服药后饭后胃痛消失，本案为进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"调胃承气汤\"], \"关联病机\": [\"进步中\", \"胃中憩室\"]}"}
+{"id": "SYM_712", "name": "饭后胃痛", "category": "胸腹", "description": "饭后出现胃部疼痛，本案为阳明经虚热，胃中憩室食物易堆积。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\", \"吴茱萸汤\"], \"关联病机\": [\"阳明经热\", \"虚热\", \"胃中憩室\"]}"}
+{"id": "SYM_713", "name": "高胆固醇", "category": "全身", "description": "血液中胆固醇含量过高，本案为上焦湿热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"乌梅丸\"], \"关联病机\": [\"上焦湿热\"]}"}
+{"id": "SYM_714", "name": "高血压", "category": "全身", "description": "高血压是指以体循环动脉血压增高为主要特征的疾病。本案患者BP154/92下降（以前很高180/120）。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"肝阳上亢\", \"心阳不足\"]}"}
+{"id": "SYM_715", "name": "高血压长期服用西药", "category": "全身", "description": "长期服用西药降血压药物，本案已十余年。", "first_gateway": "", "differential": "{\"关联方剂\": [\"天麻钩藤饮\", \"镇肝熄风汤\"], \"关联病机\": [\"肝阳上亢\", \"肾虚\"]}"}
+{"id": "SYM_716", "name": "高血脂", "category": "全身", "description": "血液中脂质含量过高。", "first_gateway": "", "differential": "{\"关联方剂\": [\"HT-80\"], \"关联病机\": [\"肝脾两虚\", \"痰湿\"]}"}
+{"id": "SYM_717", "name": "麻木", "category": "全身", "description": "皮肤感觉麻木，如砂子磨擦感。本案因金属过敏导致眼袋红肿、唇肿，伴有麻木感。", "first_gateway": "", "differential": "{\"关联方剂\": [], \"关联病机\": []}"}
+{"id": "SYM_718", "name": "黄昏倦怠", "category": "全身", "description": "黄昏时分特别感到疲倦、乏力。", "first_gateway": "", "differential": "{\"关联方剂\": \"[]\", \"关联病机\": [\"气虚\", \"阳虚\", \"脾虚\"]}"}
+{"id": "SYM_719", "name": "黄昏脸红", "category": "头面", "description": "黄昏时脸红，为阳不入阴、虚热之象。", "first_gateway": "", "differential": "{\"关联方剂\": [\"栀子豉汤\"], \"关联病机\": [\"阳不入阴\", \"虚热\"]}"}
+{"id": "SYM_720", "name": "黑色宿便", "category": "二便", "description": "排便时有黑色宿便排出，本案为胃中憩室，宿食。", "first_gateway": "", "differential": "{\"关联方剂\": [\"调胃承气汤\", \"大黄甘草汤\"], \"关联病机\": [\"胃中憩室\", \"宿食\"]}"}
+{"id": "SYM_721", "name": "鼻吸困难", "category": "头面", "description": "鼻子无法正常吸气，呼吸不畅。本案病人同时伴有打喷嚏，倪师辨为肺热把寒外推之阳证。", "first_gateway": "", "differential": "{\"关联方剂\": [\"麻黄汤\", \"桂枝汤\", \"麻杏甘石汤\"], \"关联病机\": [\"肺热\", \"肺寒\", \"表证未解\"]}"}
+{"id": "SYM_722", "name": "鼻咽癌", "category": "头面", "description": "鼻咽癌，本案为48岁男性，六月中证实鼻咽癌。", "first_gateway": "", "differential": "{\"关联方剂\": [\"当归四逆汤\"], \"关联病机\": [\"里寒实\", \"阴实\"]}"}
+{"id": "SYM_723", "name": "鼻涕多", "category": "头面", "description": "鼻涕量多，本案为阳虚，肺阳较强。", "first_gateway": "", "differential": "{\"关联方剂\": [\"HT-81\", \"小青龙汤\"], \"关联病机\": [\"阳虚\"]}"}
+{"id": "SYM_724", "name": "鼻炎", "category": "头面", "description": "鼻炎表现为鼻塞、流涕、多痰等。倪师常用辛夷、菖蒲、苍术治疗。", "first_gateway": "", "differential": "{\"关联方剂\": [\"桂枝汤\"], \"关联病机\": [\"太阳中风\"]}"}
+{"id": "SYM_725", "name": "鼻炎好", "category": "头面", "description": "鼻炎症状好转，本案为进步中。", "first_gateway": "", "differential": "{\"关联方剂\": [\"辛夷散\", \"苍耳子散\"], \"关联病机\": [\"进步中\"]}"}
+{"id": "SYM_726", "name": "鼻炎很重", "category": "头面", "description": "鼻炎症状很重，本案为一切好转，只有鼻炎固执。", "first_gateway": "", "differential": "{\"关联方剂\": [\"HT-39鼻渊丸\", \"辛夷散\"], \"关联病机\": [\"一切好转\", \"鼻炎固执\"]}"}
+{"id": "SYM_727", "name": "鼻窦问题", "category": "头面", "description": "鼻窦部位有问题，本案为上焦湿热。", "first_gateway": "", "differential": "{\"关联方剂\": [\"白虎汤\", \"辛夷散\"], \"关联病机\": [\"上焦湿热\"]}"}
