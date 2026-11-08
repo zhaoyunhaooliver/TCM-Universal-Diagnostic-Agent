@@ -1,4 +1,5 @@
 ================================================================================
+
 TCM-Universal-Diagnostic-Agent
 A Universal Framework for TCM Eight-Principles Diagnosis Based on 
 Expert Clinical Experience and Knowledge Graph Verification
@@ -130,4 +131,5 @@ All entities and graph relationships adhere to the following standard prefixes:
 1. Upgrade the web interface to enable single-herb direct search and navigation.
 2. Implement fuzzy matching and alias indexing on the frontend query engine.
 3. Integrate graph-grounded diagnostic reasoning for eight-principles assessment.
+   
 ================================================================================
