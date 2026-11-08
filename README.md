@@ -2,7 +2,6 @@
 TCM-Universal-Diagnostic-Agent
 A Universal Framework for TCM Eight-Principles Diagnosis Based on 
 Expert Clinical Experience and Knowledge Graph Verification
-================================================================================
 
 [1] PROJECT TIMELINE AND DEVELOPMENT LOG
 --------------------------------------------------------------------------------
